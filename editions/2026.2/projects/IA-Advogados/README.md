@@ -99,7 +99,7 @@ A mensagem central da experiência será apresentada pela metáfora da **“IA c
 * **Público previsto:** professores do 1º ao 5º ano do Ensino Fundamental da rede pública.
 * **Contexto de aplicação:** preferencialmente uma escola pública ou espaço destinado à formação continuada de professores; alternativamente, espaço da Unicamp.
 * **Número estimado de participantes:** aproximadamente 15 a 40 professores, podendo ser ajustado conforme a instituição parceira e o espaço disponível.
-* **Período previsto:** `1° oficina: 16/10 e 2° oficina: a combinar`.
+* **Período previsto:** 1° oficina: 16/10.
 
 ### Estado Atual da Articulação
 O público e o formato geral da atividade já estão definidos. A primeira aplicação deverá ser articulada com uma escola pública ou instituição responsável por formação de professores. Ainda deverão ser definidos a instituição parceira, o número efetivo de participantes, a data e o espaço da atividade. Após a definição do local, o grupo deverá verificar a disponibilidade de projetor, computador, acesso à internet e demais recursos necessários.
