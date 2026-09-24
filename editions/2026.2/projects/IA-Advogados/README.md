@@ -1,24 +1,22 @@
-# L.Ex.I.S  - Laboratório de EXtensão em Inteligência-artificial e Segurança da informação
+LEXIS — Inteligência Artificial na Profissão Docente: possibilidades, limites e cuidados no Ensino Fundamental I
 
-## Equipe
+Equipe
 
-| Nome | RA | Curso |
-| --- | --- | --- |
-| Gabriel Del Vecchio Nunes do Amaral | 278067 | Engenharia Mecânica |
-| Yann Sigrist Moreira | 187545   | Engenharia Mecânica |
-| João Augusto Silva de Lima | 206474 | Engenharia Elétrica |
-| Johatan dos Reis Lima | 250502  | Engenharia de Computação |
-| Ackson Fernando Cardoso de Almeida Pires | 193316  | Estatística |
+Nome| RA| Curso
+"<Nome completo>"| "<RA>"| "<Curso>"
+"<Nome completo>"| "<RA>"| "<Curso>"
+"<Nome completo>"| "<RA>"| "<Curso>"
+"<Nome completo>"| "<RA>"| "<Curso>"
 
----
+LEXIS — Laboratório de Extensão em Inteligência Artificial e Sociedade
 
-## Proposta
+Proposta
 
 O projeto propõe a realização de uma palestra informativa, com duração máxima de 30 minutos, destinada a professores do 1º ao 5º ano do Ensino Fundamental da rede pública. A atividade apresentará, de maneira introdutória e acessível, possibilidades de utilização da inteligência artificial generativa na profissão docente, especialmente no planejamento de aulas, elaboração e adaptação de atividades, produção de materiais e organização do trabalho pedagógico.
 
 Além das possibilidades de uso, a palestra abordará limitações e cuidados necessários, como a ocorrência de informações incorretas ou inventadas, vieses, necessidade de revisão humana e riscos relacionados à inserção de dados pessoais de alunos em ferramentas externas. O propósito é oferecer aos professores uma primeira orientação que lhes permita compreender a IA como instrumento auxiliar, cujo uso deve permanecer subordinado ao conhecimento, ao julgamento pedagógico e à responsabilidade profissional do docente.
 
-## Problema e Contexto
+Problema e Contexto
 
 A expansão recente das ferramentas de inteligência artificial generativa tornou possível produzir textos, atividades, explicações, imagens e planejamentos em poucos segundos. Essas tecnologias começam, portanto, a integrar também o cotidiano profissional dos professores. Entretanto, a facilidade de acesso às ferramentas não significa que seus usuários compreendam seu funcionamento, suas limitações ou as implicações de seu uso no contexto educacional.
 
@@ -30,7 +28,7 @@ Nesse contexto, o problema que orienta o projeto pode ser sintetizado pela segui
 
 A proposta não pretende formar especialistas em inteligência artificial. Busca oferecer uma introdução clara que permita ao professor reconhecer usos profissionais possíveis, compreender limitações básicas da tecnologia e desenvolver uma postura mais crítica diante dos conteúdos produzidos por sistemas generativos.
 
-## Público
+Público
 
 O público-alvo é composto por professores do 1º ao 5º ano do Ensino Fundamental da rede pública de ensino.
 
@@ -40,12 +38,14 @@ A palestra será planejada de forma a não exigir conhecimentos prévios de prog
 
 Como ainda não ocorreu a primeira aplicação, aspectos como frequência atual de utilização de IA, ferramentas mais utilizadas e principais dúvidas desse público permanecem como hipóteses a serem melhor conhecidas a partir do contato com os participantes e das aplicações da atividade.
 
-## Objetivos
+Objetivos
 
-### Objetivo Geral
+Objetivo Geral
+
 Apresentar a professores do Ensino Fundamental I possibilidades, limitações e cuidados relacionados ao uso de inteligência artificial generativa na profissão docente, contribuindo para uma utilização mais crítica, segura e pedagogicamente responsável dessas ferramentas.
 
-### Objetivos Específicos
+Objetivos Específicos
+
 * Apresentar, em linguagem acessível, o conceito de inteligência artificial generativa e exemplos de suas aplicações na atividade docente.
 * Demonstrar possibilidades de utilização da IA no planejamento de aulas, elaboração de atividades, adaptação de materiais e organização do trabalho pedagógico.
 * Alertar os participantes para limitações das ferramentas, especialmente a possibilidade de geração de informações incorretas, inadequadas ou enviesadas.
@@ -53,7 +53,7 @@ Apresentar a professores do Ensino Fundamental I possibilidades, limitações e 
 * Orientar os professores sobre cuidados relacionados à privacidade e à inserção de dados pessoais, especialmente dados de crianças, em ferramentas externas.
 * Reforçar a importância da supervisão humana e do julgamento pedagógico sobre qualquer material produzido com auxílio de IA.
 
-## Experiência
+Experiência
 
 A atividade terá o formato de palestra expositiva e informativa, com duração máxima de 30 minutos. Considerando o tempo disponível e o objetivo introdutório, não serão realizadas dinâmicas em grupo, resolução coletiva de problemas ou atividades que dependam de participação prolongada do público.
 
@@ -65,29 +65,33 @@ A participação do público será intencionalmente reduzida. Poderão ser utili
 
 A mensagem central da experiência será apresentada pela metáfora da “IA como assistente do professor”: uma ferramenta que pode auxiliar na produção e organização do trabalho, mas cujos resultados precisam ser supervisionados por quem possui conhecimento pedagógico, conhece os alunos e responde profissionalmente pelas decisões tomadas.
 
-## Roteiro da Atividade
+Roteiro da Atividade
 
-| Etapa | Duração | Atividade | Participação do público | Recursos |
-| Abertura | 2 min | Apresentação do projeto, do tema e da pergunta central: “Como a IA pode ajudar o professor sem substituir seu julgamento pedagógico?” | Escuta e, se utilizado, resposta a duas questões rápidas iniciais | Slides e QR Code |
-| O que é IA generativa? | 4 min | Explicação introdutória sobre IA generativa, exemplos de ferramentas e princípio básico de geração de respostas | Acompanhamento da exposição | Slides 
-| IA no trabalho docente | 8 min | Apresentação de usos em planejamento de aulas, atividades, adaptação de textos, explicações, produção de exemplos e organização do trabalho | Acompanhamento dos exemplos | Slides e exemplos previamente produzidos |
-| Como obter resultados melhores | 5 min | Apresentação de princípios simples para formular solicitações: indicar contexto, objetivo, público, formato e restrições | Acompanhamento da demonstração | Slides e comparação de prompts |
-| Limitações e cuidados | 7 min | Alucinações, erros, vieses, revisão humana, privacidade e cuidados com dados de alunos | Acompanhamento da exposição | Slides |
-| Síntese e encerramento | 4 min | Apresentação das principais recomendações, acesso ao material digital, questionário final e eventual pergunta do público | Resposta ao formulário breve e, se houver tempo, perguntas | QR Code e slide final |
+Etapa| Duração| Atividade| Participação do público| Recursos
+Abertura| 2 min| Apresentação do projeto, do tema e da pergunta central: “Como a IA pode ajudar o professor sem substituir seu julgamento pedagógico?”| Escuta e, se utilizado, resposta a duas questões rápidas iniciais| Slides e QR Code
+O que é IA generativa?| 4 min| Explicação introdutória sobre IA generativa, exemplos de ferramentas e princípio básico de geração de respostas| Acompanhamento da exposição| Slides
+IA no trabalho docente| 8 min| Apresentação de usos em planejamento de aulas, atividades, adaptação de textos, explicações, produção de exemplos e organização do trabalho| Acompanhamento dos exemplos| Slides e exemplos previamente produzidos
+Como obter resultados melhores| 5 min| Apresentação de princípios simples para formular solicitações: indicar contexto, objetivo, público, formato e restrições| Acompanhamento da demonstração| Slides e comparação de prompts
+Limitações e cuidados| 7 min| Alucinações, erros, vieses, revisão humana, privacidade e cuidados com dados de alunos| Acompanhamento da exposição| Slides
+Síntese e encerramento| 4 min| Apresentação das principais recomendações, acesso ao material digital, questionário final e eventual pergunta do público| Resposta ao formulário breve e, se houver tempo, perguntas| QR Code e slide final
 
-**Duração total estimada:** 30 minutos.
+Duração total estimada: 30 minutos.
 
-## Planejamento da Primeira Aplicação
+Planejamento da Primeira Aplicação
 
-### Articulação para a Primeira Aplicação
-* **Público previsto:** professores do 1º ao 5º ano do Ensino Fundamental da rede pública.
-* **Contexto de aplicação:** preferencialmente uma escola pública ou espaço destinado à formação continuada de professores; alternativamente, espaço da Unicamp.
-* **Número estimado de participantes:** aproximadamente 15 a 40 professores, podendo ser ajustado conforme a instituição parceira e o espaço disponível.
+Articulação para a Primeira Aplicação
 
-**Estado atual da articulação:**
+* Público previsto: professores do 1º ao 5º ano do Ensino Fundamental da rede pública.
+* Contexto de aplicação: preferencialmente uma escola pública ou espaço destinado à formação continuada de professores; alternativamente, espaço da Unicamp.
+* Número estimado de participantes: aproximadamente 15 a 40 professores, podendo ser ajustado conforme a instituição parceira e o espaço disponível.
+* Período previsto: "<a definir conforme articulação com a instituição parceira>".
+
+Estado atual da articulação:
+
 O público e o formato geral da atividade já estão definidos. A primeira aplicação deverá ser articulada com uma escola pública ou instituição responsável por formação de professores. Ainda deverão ser definidos a instituição parceira, o número efetivo de participantes, a data e o espaço da atividade. Após a definição do local, o grupo deverá verificar a disponibilidade de projetor, computador, acesso à internet e demais recursos necessários.
 
-### Alternativas e Contingências
+Alternativas e Contingências
+
 Caso não seja possível realizar a primeira aplicação na instituição inicialmente contatada, o grupo poderá buscar outra escola da rede pública ou espaço de formação continuada de professores.
 
 Como segunda alternativa, a atividade poderá ser realizada em espaço da Unicamp, mediante convite a professores da rede pública.
@@ -96,30 +100,31 @@ A palestra também poderá ser adaptada para formato remoto, utilizando platafor
 
 Para evitar dependência da conexão com a internet durante a apresentação, as demonstrações de inteligência artificial serão preparadas previamente e incorporadas aos slides por meio de capturas de tela. Assim, a ausência de conexão não impedirá a realização da atividade.
 
-## Plano de Desenvolvimento
+Plano de Desenvolvimento
 
-| Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
+Entregável / Resultado| Tarefa| Responsável(is)| Prazo| Situação
+Conteúdo da palestra definido| Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados| "<responsável(is)>"| "<data>"| Em andamento
+Apresentação de slides| Elaborar apresentação compatível com palestra de até 30 minutos| "<responsável(is)>"| "<data>"| Não iniciada
+Exemplos de utilização de IA| Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente| "<responsável(is)>"| "<data>"| Não iniciada
+Exemplos de limitações| Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra| "<responsável(is)>"| "<data>"| Não iniciada
+Material digital de apoio| Produzir material resumido com usos possíveis, boas práticas e cuidados| "<responsável(is)>"| "<data>"| Não iniciada
+Instrumento de avaliação| Elaborar questionário breve inicial/final ou formulário de avaliação| "<responsável(is)>"| "<data>"| Não iniciada
+Articulação com instituição| Contatar escola ou instituição de formação docente e definir primeira aplicação| "<responsável(is)>"| "<data>"| Não iniciada
+Teste da apresentação| Realizar ensaio cronometrado e revisar clareza, conteúdo e duração| Todos| "<data>"| Não iniciada
+Primeira aplicação| Realizar palestra e registrar as evidências previstas| Todos| "<data>"| Não iniciada
 
-| Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | responsável(is) | data | Em andamento |
-| Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | responsável(is) | data | Não iniciada |
-| Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | responsável(is) | data | Não iniciada |
-| Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | responsável(is) | data | Não iniciada |
-| Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados | responsável(is) | data | Não iniciada |
-| Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | responsável(is) | data | Não iniciada |
-| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | responsável(is) | data | Não iniciada |
-| Teste da apresentação | Realizar ensaio cronometrado e revisar clareza, conteúdo e duração | Todos | data | Não iniciada |
-| Primeira aplicação | Realizar palestra e registrar as evidências previstas | Todos | data | Não iniciada |
+Dependências Críticas
 
-## Dependências Críticas
 * A primeira aplicação depende da confirmação de uma escola pública ou instituição parceira e da definição de data e público.
 * A apresentação precisa estar finalizada antes do ensaio cronometrado.
 * Os exemplos produzidos com IA precisam ser selecionados antes da finalização dos slides.
 * O formato do instrumento de avaliação precisa estar definido antes da primeira aplicação.
 * As condições do espaço e dos equipamentos precisam ser conhecidas antes da realização presencial.
 
-## Materiais e Recursos
+Materiais e Recursos
 
-### Materiais a Desenvolver
+Materiais a Desenvolver
+
 * Apresentação de slides para a palestra.
 * Roteiro de apresentação com controle de tempo.
 * Exemplos de prompts e respostas produzidas por ferramentas de IA.
@@ -128,7 +133,8 @@ Para evitar dependência da conexão com a internet durante a apresentação, as
 * QR Code para acesso ao material.
 * Formulário breve de avaliação e coleta de evidências.
 
-### Recursos para a Aplicação
+Recursos para a Aplicação
+
 * Computador.
 * Projetor ou televisão com entrada compatível.
 * Apresentação de slides.
@@ -138,7 +144,8 @@ Para evitar dependência da conexão com a internet durante a apresentação, as
 * Sistema de som apenas se as características do espaço tornarem necessário.
 * Espaço acessível e adequado ao número de participantes.
 
-## Testes Necessários
+Testes Necessários
+
 * Realizar pelo menos um ensaio integral e cronometrado, verificando se a atividade permanece dentro do limite de 30 minutos.
 * Testar a apresentação em computador diferente daquele utilizado em sua elaboração, verificando fontes, imagens, vídeos e formatação.
 * Verificar se os QR Codes funcionam corretamente em diferentes celulares.
@@ -147,20 +154,20 @@ Para evitar dependência da conexão com a internet durante a apresentação, as
 * Verificar previamente projetor, conexão e demais equipamentos quando houver acesso ao local.
 * Revisar os slides para assegurar que a linguagem seja compreensível para participantes sem formação técnica em IA.
 
-## Avaliação
+Avaliação
 
-### Indicadores de Sucesso
+Indicadores de Sucesso
 
-| Objetivo | Indicador / Evidência |
-| :--- | :--- |
-| Apresentar conceitos básicos sobre IA generativa | Participantes reconhecem, ao final, características básicas e limitações de sistemas generativos |
-| Apresentar usos profissionais da IA | Participantes conseguem identificar aplicações da IA em atividades como planejamento, elaboração e adaptação de materiais |
-| Alertar sobre limitações | Participantes reconhecem que respostas produzidas por IA podem conter erros mesmo quando linguisticamente convincentes |
-| Promover uso crítico | Participantes reconhecem a necessidade de revisão e validação humana antes da utilização de materiais gerados |
-| Orientar sobre proteção de dados | Participantes identificam que dados pessoais de alunos não devem ser inseridos indiscriminadamente em ferramentas externas de IA |
-| Reforçar o papel profissional do professor | Participantes reconhecem que a decisão sobre adequação pedagógica permanece sob responsabilidade humana |
+Objetivo| Indicador / Evidência
+Apresentar conceitos básicos sobre IA generativa| Participantes reconhecem, ao final, características básicas e limitações de sistemas generativos
+Apresentar usos profissionais da IA| Participantes conseguem identificar aplicações da IA em atividades como planejamento, elaboração e adaptação de materiais
+Alertar sobre limitações| Participantes reconhecem que respostas produzidas por IA podem conter erros mesmo quando linguisticamente convincentes
+Promover uso crítico| Participantes reconhecem a necessidade de revisão e validação humana antes da utilização de materiais gerados
+Orientar sobre proteção de dados| Participantes identificam que dados pessoais de alunos não devem ser inseridos indiscriminadamente em ferramentas externas de IA
+Reforçar o papel profissional do professor| Participantes reconhecem que a decisão sobre adequação pedagógica permanece sob responsabilidade humana
 
-### Coleta de Evidências e Feedback
+Coleta de Evidências e Feedback
+
 Considerando o caráter expositivo e a duração máxima de 30 minutos, a avaliação deverá ser breve e não interferir significativamente no desenvolvimento da palestra.
 
 Preferencialmente, serão utilizadas poucas perguntas objetivas no início e ao final da apresentação, acessíveis por QR Code. Algumas questões poderão ser repetidas nos dois momentos, permitindo observar mudanças imediatas de compreensão sobre possibilidades e limitações da IA.
@@ -169,24 +176,30 @@ O instrumento poderá incluir questões como reconhecimento da possibilidade de 
 
 Ao final, poderão ser acrescentadas uma ou duas questões de feedback sobre clareza e utilidade do conteúdo. A análise será prioritariamente descritiva, considerando o número de participantes e o caráter extensionista da atividade.
 
-## Riscos e Desafios
+Riscos e Desafios
 
-| Risco / Desafio | Possível impacto | Estratégia |
-| :--- | :--- | :--- |
-| Excesso de conteúdo para 30 minutos | A palestra pode ultrapassar o tempo ou apresentar informações superficialmente | Priorizar três eixos: possibilidades de uso, limitações e cuidados; realizar ensaio cronometrado |
-| Problemas de conexão com a internet | Demonstrações ao vivo podem falhar | Utilizar exemplos e capturas de tela previamente preparados e manter toda a apresentação disponível offline |
-| Falha de projetor ou equipamento | Dificuldade ou impossibilidade de apresentar os slides | Verificar equipamentos previamente e manter cópia da apresentação em mais de um dispositivo |
-| Público com níveis muito diferentes de familiaridade com IA | Parte dos participantes pode considerar o conteúdo básico ou excessivamente técnico | Utilizar linguagem introdutória e exemplos concretos ligados à rotina docente |
-| Palestra excessivamente técnica | Redução da compreensão ou do interesse do público | Evitar detalhes de programação e explicar os conceitos por meio de aplicações profissionais |
-| Apresentação excessivamente otimista sobre IA | Participantes podem compreender a ferramenta como substituta do julgamento profissional | Apresentar possibilidades sempre acompanhadas de limitações, necessidade de revisão e responsabilidade humana |
-| Apresentação excessivamente negativa | Participantes podem rejeitar ferramentas potencialmente úteis | Equilibrar riscos com exemplos concretos de aplicações produtivas |
-| Inserção inadequada de dados reais nas demonstrações | Possibilidade de exposição de dados pessoais | Utilizar exclusivamente informações fictícias, genéricas ou anonimizadas nos exemplos preparados |
-| Baixa adesão ao formulário | Poucas evidências para avaliar os resultados | Manter o instrumento curto, acessível por QR Code e com preenchimento estimado em aproximadamente um minuto |
+Risco / Desafio| Possível impacto| Estratégia
+Excesso de conteúdo para 30 minutos| A palestra pode ultrapassar o tempo ou apresentar informações superficialmente| Priorizar três eixos: possibilidades de uso, limitações e cuidados; realizar ensaio cronometrado
+Problemas de conexão com a internet| Demonstrações ao vivo podem falhar| Utilizar exemplos e capturas de tela previamente preparados e manter toda a apresentação disponível offline
+Falha de projetor ou equipamento| Dificuldade ou impossibilidade de apresentar os slides| Verificar equipamentos previamente e manter cópia da apresentação em mais de um dispositivo
+Público com níveis muito diferentes de familiaridade com IA| Parte dos participantes pode considerar o conteúdo básico ou excessivamente técnico| Utilizar linguagem introdutória e exemplos concretos ligados à rotina docente
+Palestra excessivamente técnica| Redução da compreensão ou do interesse do público| Evitar detalhes de programação e explicar os conceitos por meio de aplicações profissionais
+Apresentação excessivamente otimista sobre IA| Participantes podem compreender a ferramenta como substituta do julgamento profissional| Apresentar possibilidades sempre acompanhadas de limitações, necessidade de revisão e responsabilidade humana
+Apresentação excessivamente negativa| Participantes podem rejeitar ferramentas potencialmente úteis| Equilibrar riscos com exemplos concretos de aplicações produtivas
+Inserção inadequada de dados reais nas demonstrações| Possibilidade de exposição de dados pessoais| Utilizar exclusivamente informações fictícias, genéricas ou anonimizadas nos exemplos preparados
+Baixa adesão ao formulário| Poucas evidências para avaliar os resultados| Manter o instrumento curto, acessível por QR Code e com preenchimento estimado em aproximadamente um minuto
 
-## Referências
+Referências
+
 * UNESCO. Marco referencial de competências em IA para professores. Paris: UNESCO, 2024. O documento apresenta 15 competências distribuídas entre abordagem centrada no ser humano, ética da IA, fundamentos e aplicações, pedagogia da IA e IA para desenvolvimento profissional.
+
 * MIAO, Fengchun; HOLMES, Wayne. Guia para a IA generativa na educação e na pesquisa. Paris: UNESCO, 2023. Documento orientado por uma abordagem centrada no ser humano, com atenção à privacidade, ao uso ético, à adequação etária e às aplicações pedagógicas da IA generativa.
+
 * BRASIL. Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais (LGPD). Brasília, DF, 2018.
+
 * AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS — ANPD. Enunciado CD/ANPD nº 1, de 22 de maio de 2023. Dispõe sobre o tratamento de dados pessoais de crianças e adolescentes e estabelece a prevalência de seu melhor interesse.
+
 * AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS — ANPD. Materiais e orientações sobre proteção de crianças e adolescentes no ambiente digital. Brasília: ANPD.
+
 * NASA. Work Breakdown Structure (WBS) Handbook. Washington, D.C.: National Aeronautics and Space Administration. Referência utilizada para orientar a decomposição do planejamento em entregáveis e tarefas, conforme indicado no template da disciplina.
+
