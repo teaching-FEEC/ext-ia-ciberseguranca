@@ -6,10 +6,12 @@
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| <Nome completo> | <RA> | <Curso> |
-| <Nome completo> | <RA> | <Curso> |
-| <Nome completo> | <RA> | <Curso> |
-| <Nome completo> | <RA> | <Curso> |
+| Yann Sigrist Moreira | 187545 | Engenharia Mecânica |
+| Gabriel Del Vecchio Nunes do Amaral | 278067  | Engenharia Mecânica  |
+| Johatan dos Reis Lima  | 250502  | Engenharia de Computação |
+| Elisa Silva de Lima | 206474  | Engenharia Elétrica |
+| Ackson Fernando Cardoso de Almeida Pires | 193316   | Estatística |
+
 
 ---
 
