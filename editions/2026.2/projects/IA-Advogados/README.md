@@ -122,7 +122,7 @@ O público e o formato geral da atividade já estão definidos. A primeira aplic
 | Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | a definir | 10/10 | Não iniciada |
 | Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados | a definir | 10/10 | Não iniciada |
 | Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | a definir | 10/10 | Não iniciada |
-| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | a definir | 10/10 | Não iniciada |
+| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | a definir | 10/10 | Em andamento |
 | Teste da apresentação | Realizar ensaio cronometrado e revisar clareza, conteúdo e duração | Todos | 10/10| Não iniciada |
 | Primeira aplicação | Realizar palestra e registrar as evidências previstas | Todos | 10/10 | Não iniciada |
 
