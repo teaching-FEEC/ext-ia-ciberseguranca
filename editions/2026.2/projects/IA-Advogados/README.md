@@ -1,75 +1,208 @@
-# L.Ex.I.S  - Laboratório de EXtensão em Inteligência-artificial e Segurança da informação
+# LEXIS — Inteligência Artificial na Profissão Docente: possibilidades, limites e cuidados no Ensino Fundamental I
+
+> **LEXIS — Laboratório de Extensão em Inteligência Artificial e Sociedade**
 
 ## Equipe
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| Gabriel Del Vecchio Nunes do Amaral | 278067 | Engenharia Mecânica |
-| Yann Sigrist Moreira | 187545   | Engenharia Mecânica |
-| João Augusto Silva de Lima | 206474 | Engenharia Elétrica |
-| Johatan dos Reis Lima | 250502  | Engenharia de Computação |
-| Ackson Fernando Cardoso de Almeida Pires | 193316  | Estatística |
+| Yann Sigrist Moreira | 187545 | Engenharia Mecânica |
+| Gabriel Del Vecchio Nunes do Amaral | 278067  | Engenharia Mecânica  |
+| Johatan dos Reis Lima  | 250502  | Engenharia de Computação |
+| Elisa Silva de Lima | 206474  | Engenharia Elétrica |
+| Ackson Fernando Cardoso de Almeida Pires | 193316   | Estatística |
+
+
+---
 
 ## Proposta
-Em conjunto, o grupo pensou em realizar seminários sobre a mescla dos temas de IA e Cibersegurança no ambiente jurídico, para advogados e outros profissionais da área, com intuito de melhor direcionar o público-alvo à um bom uso dessas ferramentas. Assim, os  fazendo refletir sobre questões como “Qual o senso crítico de uma IA na tomada de decisão durante um processo jurídico? Há uma imparcialidade bem definida? O quanto suas tomadas de decisões são afetadas por quem a projetou/seu banco de dados? Em quais contexto sua negligência é a melhor opção?” 
 
-Além de seminários, pensamos em tornar a atividade mais interativa realizando uma simulação em que enviaremos um documento para algum serviço de IA e depois interagir com a plateia acerca de como os participantes se sentem em relação aos documentos contendo dados vulneráveis e gradualmente ir revelando questões como há um CPF, há dados médicos ou outras informações sensíveis, a ferramenta roda em uma conta pessoal, sabemos o destino dos dados ?
-Podemos pensar também sobre trabalhar conceitos de _prompt injection_ e como isso pode gerar vulnerabilidades no processo de automação.
-Nossa ideia é conectar isso a LGPD, IA e Segurança da Informação. Esperamos que possa ser uma forma de melhor ensinar como ferramentas de IA podem integrar a automação do trabalho de forma responsável 
+O projeto propõe a realização de uma palestra informativa, com duração máxima de 30 minutos, destinada a professores do 1º ao 5º ano do Ensino Fundamental da rede pública. A atividade apresentará, de maneira introdutória e acessível, possibilidades de utilização da inteligência artificial generativa na profissão docente, especialmente no planejamento de aulas, elaboração e adaptação de atividades, produção de materiais e organização do trabalho pedagógico.
 
-Algo importante que queremos aprender nessa etapa de interação é qual a familiaridade das participantes com o contexto de IA e segurança da informação com o intuito de melhorar a próxima iteração.    
+Além das possibilidades de uso, a palestra abordará limitações e cuidados necessários, como a ocorrência de informações incorretas ou inventadas, vieses, necessidade de revisão humana e riscos relacionados à inserção de dados pessoais de alunos em ferramentas externas. O propósito é oferecer aos professores uma primeira orientação que lhes permita compreender a IA como instrumento auxiliar, cujo uso deve permanecer subordinado ao conhecimento, ao julgamento pedagógico e à responsabilidade profissional do docente.
+
+---
 
 ## Problema e Contexto
 
-O meio judicial está permeado de relações humanas, tais quais entram em conflito para beneficiar o interesse de si próprio. Assim, sistemas tecnológicos quando bem utilizados podem servir como ferramenta de apoio para intermediar de maneira sistemática tais conflitos, por meio da otimização do processamento de documentos jurídicos, melhorar o entendimento das requisições dos clientes e etc. Em resumo, conectar IA e cibersegurança é de extrema importância não só para quem as usa, mas para a sociedade que ficará sujeita de ao uso de tecnologias em processos judiciais. Ou seja, é necessário que os profissionais tenham capacidade de fazer uma utilização coerente dessas ferramentas.
+A expansão recente das ferramentas de inteligência artificial generativa tornou possível produzir textos, atividades, explicações, imagens e planejamentos em poucos segundos. Essas tecnologias começam, portanto, a integrar também o cotidiano profissional dos professores. Entretanto, a facilidade de acesso às ferramentas não significa que seus usuários compreendam seu funcionamento, suas limitações ou as implicações de seu uso no contexto educacional.
+
+Para professores do Ensino Fundamental I, a questão é especialmente relevante. Esses profissionais trabalham com crianças e realizam atividades que exigem adequação do conteúdo à idade, ao nível de aprendizagem e às características concretas de cada turma. Uma resposta produzida por inteligência artificial pode apresentar linguagem aparentemente convincente e, ainda assim, conter erros, informações inadequadas ou materiais incompatíveis com determinada etapa de aprendizagem.
+
+Também há questões relacionadas à proteção de dados. Informações sobre alunos, avaliações, dificuldades de aprendizagem, imagens, nomes e outros dados pessoais não devem ser inseridos indiscriminadamente em ferramentas externas de IA. A proteção é particularmente relevante quando estão envolvidos dados de crianças, cujo tratamento deve observar seu melhor interesse.
+
+Nesse contexto, o problema que orienta o projeto pode ser sintetizado pela seguinte questão: **como a inteligência artificial pode auxiliar o trabalho do professor sem substituir seu julgamento pedagógico e sem introduzir novos riscos à atividade docente?**
+
+A proposta não pretende formar especialistas em inteligência artificial. Busca oferecer uma introdução clara que permita ao professor reconhecer usos profissionais possíveis, compreender limitações básicas da tecnologia e desenvolver uma postura mais crítica diante dos conteúdos produzidos por sistemas generativos.
+
+---
 
 ## Público
 
-A atividade será desenvolvida para profissionais do ambiente jurídico, especificamente advogados. Em suma, foi identificado que o público escolhido, possui, de modo geral, conhecimento técnico profundo sobre a legislação e carência em habilidades que envolvem o meio digital; visão estratégica e atualização constante; ética profissional e utilização de ferramentas para otimização de processos. Além disso, um membro do grupo é graduado em direito e sugeriu abordarmos a temática à este público, visto que devido sua experiência própria, há uma ausência de uma boa implementação da tecnologia neste contexto e boa capacitação para tais profissionais.
+O público-alvo é composto por professores do 1º ao 5º ano do Ensino Fundamental da rede pública de ensino.
 
+A escolha desse público decorre da crescente disponibilidade de ferramentas de IA que podem ser aplicadas a tarefas comuns da profissão docente, como planejamento de aulas, produção de exercícios, adaptação de textos, criação de exemplos e elaboração de explicações. Ao mesmo tempo, professores dos anos iniciais trabalham diretamente com crianças, o que torna particularmente importantes a adequação pedagógica dos conteúdos e os cuidados com dados pessoais.
+
+A palestra será planejada de forma a não exigir conhecimentos prévios de programação, ciência da computação ou inteligência artificial. Os conceitos tecnológicos serão apresentados apenas no nível necessário para compreender suas aplicações e limitações profissionais.
+
+Como ainda não ocorreu a primeira aplicação, aspectos como frequência atual de utilização de IA, ferramentas mais utilizadas e principais dúvidas desse público permanecem como hipóteses a serem melhor conhecidas a partir do contato com os participantes e das aplicações da atividade.
+
+---
+
+## Objetivos
 
 ### Objetivo Geral
-
-Capacitar os profissionais para o usufruto adequado da IA em suas aplicações profissionais, além de conscientizá-los quanto ao uso seguro dos dados de seus clientes.
+Apresentar a professores do Ensino Fundamental I possibilidades, limitações e cuidados relacionados ao uso de inteligência artificial generativa na profissão docente, contribuindo para uma utilização mais crítica, segura e pedagogicamente responsável dessas ferramentas.
 
 ### Objetivos Específicos
+* Apresentar, em linguagem acessível, o conceito de inteligência artificial generativa e exemplos de suas aplicações na atividade docente.
+* Demonstrar possibilidades de utilização da IA no planejamento de aulas, elaboração de atividades, adaptação de materiais e organização do trabalho pedagógico.
+* Alertar os participantes para limitações das ferramentas, especialmente a possibilidade de geração de informações incorretas, inadequadas ou enviesadas.
+* Apresentar princípios básicos para formular solicitações mais claras às ferramentas de IA e avaliar criticamente as respostas obtidas.
+* Orientar os professores sobre cuidados relacionados à privacidade e à inserção de dados pessoais, especialmente dados de crianças, em ferramentas externas.
+* Reforçar a importância da supervisão humana e do julgamento pedagógico sobre qualquer material produzido com auxílio de IA.
 
-- Uso consciente e seguro dos dados em processos jurídicos.
-- Uso ético da IA na atuação profissional.
-- Uso eficiente da IA para melhorar o desenvolvimento profissional e do trabalho que está sendo exercido.
+---
 
-## Concepção da Experiência
+## Experiência
 
-Imagina-se que a atividade vivenciada pelo público será baseada na realização de seminários dinâmicos, tais quais serão interativos do ponto de vista de contato entre o público e o aprendizado acerca da utilização das ferramentas - ou seja, prioriza-se o estímulo à autonomia dos participantes, visando que estes melhor compreendam e desenvovam um senso critico quanto a aplicação das tecnologias no contexto profissional. A priori, durante tais oficinas pretende-se realizar a explicação técnica e teórica dos principais conceitos que serão introduzidos ao público, expondo-os ao contexto de IA e cibersegurança de maneira direta e pouco densa, para assim, os expormos à problemáticas reais do cotidiano de trabalho durante sua capacitação, abordando situações coriqueiras que estes já vivenciaram ou vivenciarão, para que assim faça sentido o aprendizado tido.
+A atividade terá o formato de palestra expositiva e informativa, com duração máxima de 30 minutos. Considerando o tempo disponível e o objetivo introdutório, não serão realizadas dinâmicas em grupo, resolução coletiva de problemas ou atividades que dependam de participação prolongada do público.
 
+A exposição será organizada de forma visual e objetiva, utilizando exemplos diretamente relacionados ao cotidiano profissional dos professores. Em vez de aprofundar aspectos técnicos do funcionamento dos modelos de inteligência artificial, a palestra mostrará o que essas ferramentas conseguem fazer, como podem ser utilizadas no trabalho docente e quais cuidados precisam acompanhar seu uso.
 
-## Viabilidade e Planejamento Inicial
+Serão apresentados exemplos previamente preparados de solicitações feitas a sistemas de IA e de respostas geradas para tarefas como elaboração de exercícios, adaptação de um texto para determinada faixa etária e planejamento de uma atividade. Também serão mostrados exemplos de limitações, como respostas incorretas ou aparentemente plausíveis que exigem revisão.
 
-Há uma viabilidade efetiva da realização dos seminários propostos inicialmente pelo grupo, visto que um dos membros tem contato com o público escolhido.
+A participação do público será intencionalmente reduzida. Poderão ser utilizados um questionário muito breve no início e outro ao final da palestra, preferencialmente por QR Code, para obtenção de evidências sobre compreensão do conteúdo. Caso haja disponibilidade de tempo, os minutos finais poderão ser destinados a uma ou duas perguntas.
 
-### Contexto de Realização
+A mensagem central da experiência será apresentada pela metáfora da **“IA como assistente do professor”**: uma ferramenta que pode auxiliar na produção e organização do trabalho, mas cujos resultados precisam ser supervisionados por quem possui conhecimento pedagógico, conhece os alunos e responde profissionalmente pelas decisões tomadas.
 
-A realização em escritórios de advocacia. Em primeiro momento, gostaríamos de apresentar nosso trabalho na sede da OAB em Campinas. Caso não consigamos apresentar o trabalho em algum desses ambientes anteriormente citados, desejamos usar uma sala da FEEC para recebimento e para realizar a dinâmica do projeto.
+---
 
-### Recursos Necessários
+## Roteiro da Atividade
 
-- Produção de slides, confecção de folders, projetor, computador, local com acesso à internet, transporte (caso seja necessário chamar os profissionais) e reserva da sala da FEEC caso haja necessidade.
-- Pensar em certificação para o público.
+| Etapa | Duração | Atividade | Participação do público | Recursos |
+| --- | --- | --- | --- | --- |
+| Abertura | 2 min | Apresentação do projeto, do tema e da pergunta central: “Como a IA pode ajudar o professor sem substituir seu julgamento pedagógico?” | Escuta e, se utilizado, resposta a duas questões rápidas iniciais | Slides e QR Code |
+| O que é IA generativa? | 4 min | Explicação introdutória sobre IA generativa, exemplos de ferramentas e princípio básico de geração de respostas | Acompanhamento da exposição | Slides |
+| IA no trabalho docente | 8 min | Apresentação de usos em planejamento de aulas, atividades, adaptação de textos, explicações, produção de exemplos e organização do trabalho | Acompanhamento dos exemplos | Slides e exemplos previamente produzidos |
+| Como obter resultados melhores | 5 min | Apresentação de princípios simples para formular solicitações: indicar contexto, objetivo, público, formato e restrições | Acompanhamento da demonstração | Slides e comparação de prompts |
+| Limitações e cuidados | 7 min | Alucinações, erros, vieses, revisão humana, privacidade e cuidados com dados de alunos | Acompanhamento da exposição | Slides |
+| Síntese e encerramento | 4 min | Apresentação das principais recomendações, acesso ao material digital, questionário final e eventual pergunta do público | Resposta ao formulário breve e, se houver tempo, perguntas | QR Code e slide final |
 
-### Desenvolvimento Prévio
+> **Duração total estimada:** 30 minutos.
 
-Materiais gráficos, como banners, slides e confecção de documentos para testes na IA e dinâmica com o público.
+---
 
-### Desafios
+## Planejamento da Primeira Aplicação
 
-Logística e entrar em contato com o público-alvo, embora um dos membros do grupo tenha contato com a OAB.
+### Articulação para a Primeira Aplicação
+* **Público previsto:** professores do 1º ao 5º ano do Ensino Fundamental da rede pública.
+* **Contexto de aplicação:** preferencialmente uma escola pública ou espaço destinado à formação continuada de professores; alternativamente, espaço da Unicamp.
+* **Número estimado de participantes:** aproximadamente 15 a 40 professores, podendo ser ajustado conforme a instituição parceira e o espaço disponível.
+* **Período previsto:** 1° oficina: 16/10.
 
-## Resultados Esperados
+### Estado Atual da Articulação
+O público e o formato geral da atividade já estão definidos. A primeira aplicação deverá ser articulada com uma escola pública ou instituição responsável por formação de professores. Ainda deverão ser definidos a instituição parceira, o número efetivo de participantes, a data e o espaço da atividade. Após a definição do local, o grupo deverá verificar a disponibilidade de projetor, computador, acesso à internet e demais recursos necessários.
 
-Desenvolvimento do senso crítico dos advogados quanto ao uso adequado e ético da inteligência artificial em suas profissões. Para averiguação dos resultados usaresmos um formulário antes da capacitação e um formulário posterior com perguntas acerca do tema.
+### Alternativas e Contingências
+* Caso não seja possível realizar a primeira aplicação na instituição inicialmente contatada, o grupo poderá buscar outra escola da rede pública ou espaço de formação continuada de professores.
+* Como segunda alternativa, a atividade poderá ser realizada em espaço da Unicamp, mediante convite a professores da rede pública.
+* A palestra também poderá ser adaptada para formato remoto, utilizando plataforma de videoconferência.
+* Para evitar dependência da conexão com a internet durante a apresentação, as demonstrações de inteligência artificial serão preparadas previamente e incorporadas aos slides por meio de capturas de tela. Assim, a ausência de conexão não impedirá a realização da atividade.
+
+---
+
+## Plano de Desenvolvimento
+
+| Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
+| --- | --- | --- | --- | --- |
+| Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | a definir | 10/10 | Em andamento |
+| Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | a definir | 10/10 | Não iniciada |
+| Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | a definir | 10/10 | Não iniciada |
+| Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | a definir | 10/10 | Não iniciada |
+| Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados | a definir | 10/10 | Não iniciada |
+| Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | a definir | 10/10 | Não iniciada |
+| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | a definir | 10/10 | Em andamento |
+| Teste da apresentação | Realizar ensaio cronometrado e revisar clareza, conteúdo e duração | Todos | 10/10| Não iniciada |
+| Primeira aplicação | Realizar palestra e registrar as evidências previstas | Todos | 10/10 | Não iniciada |
+
+### Dependências Críticas
+* A primeira aplicação depende da confirmação de uma escola pública ou instituição parceira e da definição de data e público.
+* A apresentação precisa estar finalizada antes do ensaio cronometrado.
+* Os exemplos produzidos com IA precisam ser selecionados antes da finalização dos slides.
+* O formato do instrumento de avaliação precisa estar definido antes da primeira aplicação.
+* As condições do espaço e dos equipamentos precisam ser conhecidas antes da realização presencial.
+
+---
+
+## Materiais e Recursos
+
+### Materiais a Desenvolver
+* Apresentação de slides para a palestra.
+* Roteiro de apresentação com controle de tempo.
+* Exemplos de prompts e respostas produzidas por ferramentas de IA.
+* Exemplos de erros, alucinações ou respostas inadequadas.
+* Material digital resumido para consulta posterior pelos professores.
+* QR Code para acesso ao material.
+* Formulário breve de avaliação e coleta de evidências.
+
+### Recursos para a Aplicação
+* Computador.
+* Projetor ou televisão com entrada compatível.
+* Apresentação de slides.
+* Acesso à internet, preferencialmente.
+* Arquivo offline da apresentação.
+* Celulares dos participantes apenas caso sejam utilizados os formulários por QR Code.
+* Sistema de som apenas se as características do espaço tornarem necessário.
+* Espaço acessível e adequado ao número de participantes.
+
+### Testes Necessários
+* Realizar pelo menos um ensaio integral e cronometrado, verificando se a atividade permanece dentro do limite de 30 minutos.
+* Testar a apresentação em computador diferente daquele utilizado em sua elaboração, verificando fontes, imagens, vídeos e formatação.
+* Verificar se os QR Codes funcionam corretamente em diferentes celulares.
+* Testar o formulário de avaliação antes da aplicação.
+* Confirmar que todos os exemplos necessários estão disponíveis offline.
+* Verificar previamente projetor, conexão e demais equipamentos quando houver acesso ao local.
+* Revisar os slides para assegurar que a linguagem seja compreensível para participantes sem formação técnica em IA.
+
+---
+
+## Avaliação
+
+### Indicadores de Sucesso
+
+| Objetivo | Indicador / Evidência |
+| --- | --- |
+| Apresentar conceitos básicos sobre IA generativa | Participantes reconhecem, ao final, características básicas e limitações de sistemas generativos |
+| Apresentar usos profissionais da IA | Participantes conseguem identificar aplicações da IA em atividades como planejamento, elaboração e adaptação de materiais |
+| Alertar sobre limitações | Participantes reconhecem que respostas produzidas por IA podem conter erros mesmo quando linguisticamente convincentes |
+| Promover uso crítico | Participantes reconhecem a necessidade de revisão e validação humana antes da utilização de materiais gerados |
+| Orientar sobre proteção de dados | Participantes identificam que dados pessoais de alunos não devem ser inseridos indiscriminadamente em ferramentas externas de IA |
+| Reforçar o papel profissional do professor | Participantes reconhecem que a decisão sobre adequação pedagógica permanece sob responsabilidade humana |
+
+---
+
+## Riscos e Desafios
+
+| Risco / Desafio | Possível Impacto | Estratégia |
+| --- | --- | --- |
+| Excesso de conteúdo para 30 minutos | A palestra pode ultrapassar o tempo ou apresentar informações superficialmente | Priorizar três eixos: possibilidades de uso, limitações e cuidados; realizar ensaio cronometrado |
+| Problemas de conexão com a internet | Demonstrações ao vivo podem falhar | Utilizar exemplos e capturas de tela previamente preparados e manter toda a apresentação disponível offline |
+| Falha de projetor ou equipamento | Dificuldade ou impossibilidade de apresentar os slides | Verificar equipamentos previamente e manter cópia da apresentação em mais de um dispositivo |
+| Público com níveis muito diferentes de familiaridade com IA | Parte dos participantes pode considerar o conteúdo básico ou excessivamente técnico | Utilizar linguagem introdutória e exemplos concretos ligados à rotina docente |
+| Palestra excessivamente técnica | Redução da compreensão ou do interesse do público | Evitar detalhes de programação e explicar os conceitos por meio de aplicações profissionais |
+| Apresentação excessivamente otimista sobre IA | Participantes podem compreender a ferramenta como substituta do julgamento profissional | Apresentar possibilidades sempre acompanhadas de limitações, necessidade de revisão e responsabilidade humana |
+| Apresentação excessivamente negativa | Participantes podem rejeitar ferramentas potencialmente úteis | Equilibrar riscos com exemplos concretos de aplicações produtivas |
+| Inserção inadequada de dados reais nas demonstrações | Possibilidade de exposição de dados pessoais | Utilizar exclusivamente informações fictícias, genéricas ou anonimizadas nos exemplos preparados |
+| Baixa adesão ao formulário | Poucas evidências para avaliar os resultados | Manter o instrumento curto, acessível por QR Code e com preenchimento estimado em aproximadamente um minuto |
+
+---
 
 ## Referências
 
-- [Documento completo da Recomendação 001/2024 da OAB] — Recomendação nº 001/2024 sobre IA generativa na prática jurídica. Trata explicitamente de LGPD, confidencialidade, sigilo profissional, revisão humana, alucinações, treinamento, transparência com clientes e **chatbots de atendimento**. A OAB recomenda que chatbots não executem atividades privativas da advocacia e que o interlocutor saiba que está falando com uma máquina. Também recomenda avaliar fornecedor, política de privacidade e uso dos dados para treinamento. Disponível em: (https://s.oab.org.br/arquivos/2024/11/80a03f8d-e4cb-4bac-a3ea-357009f77d3f.pdf?utm_source=chatgpt.com). 
-
-  
+* **UNESCO.** *Marco referencial de competências em IA para professores*. Paris: UNESCO, 2024.
+* **MIAO, Fengchun; HOLMES, Wayne.** *Guia para a IA generativa na educação e na pesquisa*. Paris: UNESCO, 2023.
+* **BRASIL.** *Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)*. Brasília, DF, 2018.
+* **AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS — ANPD.** *Enunciado CD/ANPD nº 1, de 22 de maio de 2023*. Dispõe sobre o tratamento de dados pessoais de crianças e adolescentes e estabelece a prevalência de seu melhor interesse.
+* **AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS — ANPD.** *Materiais e orientações sobre proteção de crianças e adolescentes no ambiente digital*. Brasília: ANPD.
+* **NASA.** *Work Breakdown Structure (WBS) Handbook*. Washington, D.C.: National Aeronautics and Space Administration.
