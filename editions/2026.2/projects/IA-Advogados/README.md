@@ -116,13 +116,13 @@ O público e o formato geral da atividade já estão definidos. A primeira aplic
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-| Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | <responsável(is)> | <data> | Em andamento |
-| Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | <responsável(is)> | <data> | Não iniciada |
-| Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | <responsável(is)> | <data> | Não iniciada |
-| Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | <responsável(is)> | <data> | Não iniciada |
-| Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados | <responsável(is)> | <data> | Não iniciada |
-| Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | <responsável(is)> | <data> | Não iniciada |
-| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | <responsável(is)> | <data> | Não iniciada |
+| Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | a definir | <data> | Em andamento |
+| Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | a definir | <data> | Não iniciada |
+| Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | a definir | <data> | Não iniciada |
+| Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | a definir | <data> | Não iniciada |
+| Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados | a definir | <data> | Não iniciada |
+| Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | a definir | <data> | Não iniciada |
+| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | a definir | <data> | Não iniciada |
 | Teste da apresentação | Realizar ensaio cronometrado e revisar clareza, conteúdo e duração | Todos | <data> | Não iniciada |
 | Primeira aplicação | Realizar palestra e registrar as evidências previstas | Todos | <data> | Não iniciada |
 
