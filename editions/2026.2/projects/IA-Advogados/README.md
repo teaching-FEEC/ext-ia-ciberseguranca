@@ -202,4 +202,3 @@ Referências
 * AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS — ANPD. Materiais e orientações sobre proteção de crianças e adolescentes no ambiente digital. Brasília: ANPD.
 
 * NASA. Work Breakdown Structure (WBS) Handbook. Washington, D.C.: National Aeronautics and Space Administration. Referência utilizada para orientar a decomposição do planejamento em entregáveis e tarefas, conforme indicado no template da disciplina.
-
