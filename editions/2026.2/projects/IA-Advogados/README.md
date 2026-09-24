@@ -68,9 +68,8 @@ A mensagem central da experiência será apresentada pela metáfora da “IA com
 ## Roteiro da Atividade
 
 | Etapa | Duração | Atividade | Participação do público | Recursos |
-| :--- | :--- | :--- | :--- | :--- |
 | Abertura | 2 min | Apresentação do projeto, do tema e da pergunta central: “Como a IA pode ajudar o professor sem substituir seu julgamento pedagógico?” | Escuta e, se utilizado, resposta a duas questões rápidas iniciais | Slides e QR Code |
-| O que é IA generativa? | 4 min | Explicação introdutória sobre IA generativa, exemplos de ferramentas e princípio básico de geração de respostas | Acompanhamento da exposição | Slides |
+| O que é IA generativa? | 4 min | Explicação introdutória sobre IA generativa, exemplos de ferramentas e princípio básico de geração de respostas | Acompanhamento da exposição | Slides 
 | IA no trabalho docente | 8 min | Apresentação de usos em planejamento de aulas, atividades, adaptação de textos, explicações, produção de exemplos e organização do trabalho | Acompanhamento dos exemplos | Slides e exemplos previamente produzidos |
 | Como obter resultados melhores | 5 min | Apresentação de princípios simples para formular solicitações: indicar contexto, objetivo, público, formato e restrições | Acompanhamento da demonstração | Slides e comparação de prompts |
 | Limitações e cuidados | 7 min | Alucinações, erros, vieses, revisão humana, privacidade e cuidados com dados de alunos | Acompanhamento da exposição | Slides |
@@ -84,7 +83,6 @@ A mensagem central da experiência será apresentada pela metáfora da “IA com
 * **Público previsto:** professores do 1º ao 5º ano do Ensino Fundamental da rede pública.
 * **Contexto de aplicação:** preferencialmente uma escola pública ou espaço destinado à formação continuada de professores; alternativamente, espaço da Unicamp.
 * **Número estimado de participantes:** aproximadamente 15 a 40 professores, podendo ser ajustado conforme a instituição parceira e o espaço disponível.
-* **Período previsto:** `<a definir conforme articulação com a instituição parceira>`.
 
 **Estado atual da articulação:**
 O público e o formato geral da atividade já estão definidos. A primeira aplicação deverá ser articulada com uma escola pública ou instituição responsável por formação de professores. Ainda deverão ser definidos a instituição parceira, o número efetivo de participantes, a data e o espaço da atividade. Após a definição do local, o grupo deverá verificar a disponibilidade de projetor, computador, acesso à internet e demais recursos necessários.
@@ -101,16 +99,16 @@ Para evitar dependência da conexão com a internet durante a apresentação, as
 ## Plano de Desenvolvimento
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
-| :--- | :--- | :--- | :--- | :--- |
-| Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | `<responsável(is)>` | `<data>` | Em andamento |
-| Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | `<responsável(is)>` | `<data>` | Não iniciada |
-| Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | `<responsável(is)>` | `<data>` | Não iniciada |
-| Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | `<responsável(is)>` | `<data>` | Não iniciada |
-| Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados | `<responsável(is)>` | `<data>` | Não iniciada |
-| Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | `<responsável(is)>` | `<data>` | Não iniciada |
-| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | `<responsável(is)>` | `<data>` | Não iniciada |
-| Teste da apresentação | Realizar ensaio cronometrado e revisar clareza, conteúdo e duração | Todos | `<data>` | Não iniciada |
-| Primeira aplicação | Realizar palestra e registrar as evidências previstas | Todos | `<data>` | Não iniciada |
+
+| Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | responsável(is) | data | Em andamento |
+| Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | responsável(is) | data | Não iniciada |
+| Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | responsável(is) | data | Não iniciada |
+| Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | responsável(is) | data | Não iniciada |
+| Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados | responsável(is) | data | Não iniciada |
+| Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | responsável(is) | data | Não iniciada |
+| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | responsável(is) | data | Não iniciada |
+| Teste da apresentação | Realizar ensaio cronometrado e revisar clareza, conteúdo e duração | Todos | data | Não iniciada |
+| Primeira aplicação | Realizar palestra e registrar as evidências previstas | Todos | data | Não iniciada |
 
 ## Dependências Críticas
 * A primeira aplicação depende da confirmação de uma escola pública ou instituição parceira e da definição de data e público.
