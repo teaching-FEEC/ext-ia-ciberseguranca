@@ -4,16 +4,14 @@
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| `Paulo César Campos de Pinho` | `212241` | `28` |
-| `Vitor Hugo Silva` | `295899` | `01` |
-| `Luís Gabriel Belotti Simionato` | `254432` | `04` |
-| `Maria Eduarda Villéla Silva` | `212974` | `02` |
-
-<div style="text-align: justify"> 
+| `Paulo César Campos de Pinho` | `212241` | `Matemática Aplicada (28)` |
+| `Vitor Hugo Silva` | `295899` | `Matemática (01)` |
+| `Luís Gabriel Belotti Simionato` | `254432` | `Física (04)` |
+| `Maria Eduarda Villéla Silva` | `212974` | `Estatística (02)` |
 
 ## Proposta
 
-O projeto é uma oficina sobre como reconhecer, prevenir e denunciar golpes digitais direcionados a idosos. A atividade será guiada por uma apresentação sobre ocorrências comuns no cotidiano brasileiro e incentivará a discussão aberta da experiências vividas pelos alunos. Durante a exposição, os participantes poderão interagir com uma cartilha que contém exercícios pertinentes ao conhecimento recém-adquirido.
+O projeto é uma oficina sobre como reconhecer, prevenir e denunciar golpes digitais direcionados a idosos. A atividade será guiada por uma apresentação sobre ocorrências comuns no cotidiano brasileiro e incentivará a discussão aberta da experiências vividas pelos alunos. Durante a exposição, os participantes poderão responder a um formulário com questões pertinentes ao conhecimento recém-adquirido.
 
 ## Problema e Contexto
 
@@ -33,7 +31,7 @@ Por fim, é preciso ter em mente que despertar o interesse desse público em cib
 
 ### Objetivo Geral
 
-Desenvolver o senso crítico e a desconfiança ao navegar na internet por meio de questões e exposição a casos reais de golpes digitais.
+Desenvolver o senso crítico e a desconfiança dos participantes ao navegar na internet por meio de questões e exposição a casos reais de golpes digitais.
 
 ### Objetivos Específicos
 
@@ -53,33 +51,37 @@ No final, serão coletadas as respostas da cartilha e será pedido verbalmente u
 
 ### Contexto de Realização
 
-A atividade será realizada no auditório do IMECC, local de fácil acesso para os estudantes da instituição, preferencialmente sexta-feira à tarde (por questões de disponibilidade dos palestrantes e dos participantes). O local dispõe de projetor, caixas de som, ampla quantidade de assentos e acesso à internet
+A atividade será realizada no dia 16/10/2026 (sexta-feira) às 15h, com duração de 50 minutos, na sala 221 do IMECC; local de fácil acesso para os estudantes da instituição. O local dispõe de projetor, computador, ar condicionado, 30 assentos e acesso à internet.
+
+A princípio, a oficina será ofertada pelo programa [UniversIDADE](https://www.proec.unicamp.br/programa-universidade/) com público máximo de 20 pessoas. Caso isso não seja possível, a divulgação será pelos próprios canais oficiais da Unicamp (e-mail e instagram) e será necessário um formulário para o gerenciamento das inscrições.
 
 ### Recursos Necessários
 
-Internet, computadores, projetores e som. Avalia-se o uso de câmeras para filmagem da atividade.
+- Computador e projetor para a apresentação em slides;
+- Cópias impressas da cartilha "#Internet com Responsa 60+" [5] e dos formulários para cada participante;
+- Canetas para o preenchimento dos formulários.
 
 ### Desenvolvimento Prévio
 
 Devem ser produzidos previamente:
  - Um roteiro para a oficina;
  - Uma apresentação em slides como guia de discussões;
- - Uma cartilha ou formulário com questões sobre decisões a serem tomadas frente a possíveis golpes virtuais. 
+ - Formulário com questões sobre decisões a serem tomadas frente a possíveis golpes virtuais. Veja [guia-de-questoes.md](guia-de-questoes.md) para mais detalhes;
+ - Formulário de Feedback.
 
 ### Desafios
 
-As cartilhas devem ser legíveis e facilmente preenchíveis. A coleta das respostas após o preenchimento pode ser lenta. Além disso, deve-se verificar se será possível imprimi-las em quantidade suficiente.
+Os formulários devem ser legíveis e facilmente preenchíveis. O próprios ministrantes da oficina se responsabilizam a levar um computador extra para o caso de mal funcionamento do presente na sala 221.
+> Como lidar com o mal funcionamento do projetor?
 
 ## Resultados Esperados
 
-O aprendizado será avaliado especialmente pelas respostas coletadas nas cartilhas. Entretanto, também será observado o comportamento do público durante a apresentação: espera-se que eles se mantenham engajados no tema, compartilhem o aprendizado com amigos e familiares e busquem aprender mais sobre cibersegurança após a oficina.
-
-</div>
+O aprendizado será avaliado especialmente pelas respostas coletadas nos formulários. Entretanto, também será observado o comportamento do público durante a apresentação: espera-se que eles se mantenham engajados no tema, compartilhem o aprendizado com amigos e familiares e busquem aprender mais sobre cibersegurança após a oficina.
 
 ## Referências
 
-- [1] Vieira, Apuena, et al. "Definição de um design instrucional e sua aplicação sobre prevenção de golpes na internet para pessoa idosa." Nuevas Ideas en Informática Educativa 18 (2022): 184-189.
-- [2] Idosos sentem maior vulnerabilidade a golpes online em SP. Disponível em: <https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp >. Acesso em: 9 set. 2026.
-- [3] Um em cada três usuários de Internet no Brasil relatou sofrer tentativa de golpe com uso de seus dados pessoais, aponta Cetic.br. Disponível em: <https://cetic.br/pt/noticia/um-em-cada-tres-usuarios-de-internet-no-brasil-relatou-sofrer-tentativa-de-golpe-com-uso-de-seus-dados-pessoais-aponta-cetic-br/>. Acesso em: 9 set. 2026.
-- [4] Violeta Sun, Luisa Veras de Sandes-Guimarães e Marcelo Henrique de Araujo3. Ano XI - N. 1 - Práticas digitais móveis das pessoas idosas no Brasil. Disponível em: <https://cetic.br/pt/publicacao/ano-xi-n-1-praticas-digitais-moveis-das-pessoas-idosas-no-brasil/>. Acesso em: 10 set. 2026.
-- [5]Angelini, Kelli, et al. #Internet com Responsa 60+: Cuidados e responsabilidades no uso da Internet. Disponível em: <https://nic.br/publicacao/internet-com-responsa-60-cuidados-e-responsabilidades-no-uso-da-internet/>. Acesso em: 10 set. 2026.
+1. Vieira, Apuena, et al. "Definição de um design instrucional e sua aplicação sobre prevenção de golpes na internet para pessoa idosa." Nuevas Ideas en Informática Educativa 18 (2022): 184-189.
+2. Idosos sentem maior vulnerabilidade a golpes online em SP. Disponível em: <https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp >. Acesso em: 9 set. 2026.
+3. Um em cada três usuários de Internet no Brasil relatou sofrer tentativa de golpe com uso de seus dados pessoais, aponta Cetic.br. Disponível em: <https://cetic.br/pt/noticia/um-em-cada-tres-usuarios-de-internet-no-brasil-relatou-sofrer-tentativa-de-golpe-com-uso-de-seus-dados-pessoais-aponta-cetic-br/>. Acesso em: 9 set. 2026.
+4. Violeta Sun, Luisa Veras de Sandes-Guimarães e Marcelo Henrique de Araujo3. Ano XI - N. 1 - Práticas digitais móveis das pessoas idosas no Brasil. Disponível em: <https://cetic.br/pt/publicacao/ano-xi-n-1-praticas-digitais-moveis-das-pessoas-idosas-no-brasil/>. Acesso em: 10 set. 2026.
+5. Angelini, Kelli, et al. #Internet com Responsa 60+: Cuidados e responsabilidades no uso da Internet. Disponível em: <https://nic.br/publicacao/internet-com-responsa-60-cuidados-e-responsabilidades-no-uso-da-internet/>. Acesso em: 10 set. 2026.
