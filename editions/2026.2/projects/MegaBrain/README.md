@@ -57,7 +57,7 @@ Planejamos uma dinâmica onde os alunos terão que construir alguma coisa utiliz
 - **Contexto de aplicação:** Escolas do ensino médio (SESI, SENAI)
 - **Número estimado de participantes:** 40 por turma (No máximo)
 - **Período previsto:** Terceira semana de outubro (Conforme disponibilidade da escola)
-- 
+  
 **Estado atual da articulação:**  
 Estamos lapidando a nossa dinâmica e definindo datas e horários.
 
@@ -80,7 +80,6 @@ Temos como alternativa outros contatos de escola, no caso de não conseguirmos f
 - Data compatível com ambos o grupo e a escola
 - Disponibilidade de computadores na escola
 
-
 ## Materiais e Recursos
 
 ### Materiais a Desenvolver
@@ -88,7 +87,7 @@ Temos como alternativa outros contatos de escola, no caso de não conseguirmos f
 - Powerpoint de apresentação
 - Questionário de satisfação
 - Problemas de prompt da dinâmica
-- 
+  
 ### Recursos para a Aplicação
 
 - Computadores com conexão a internet e web browsers
@@ -100,7 +99,6 @@ Temos como alternativa outros contatos de escola, no caso de não conseguirmos f
 - Tempo esperado das atividades
 - Qualidade da dinâmica (testes internos com a finalidade de avaliar quais os possíveis caminhos que os participantes podem tomar e se estes fazem sentido com os objetivos esperados)
 - Funcionamento do forms
-
 
 ## Avaliação
 
