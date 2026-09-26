@@ -1,4 +1,4 @@
-# `MegaBrain`
+# MegaBrain
 
 ## Equipe
 
