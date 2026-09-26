@@ -1,18 +1,17 @@
-# MegaBrain
+# <MEGABRAIN>
 
 ## Equipe
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| João Vitor Abrahão de Moraes | 205903 | Sistemas de Informação |
-| Gabriel Pedroso Duarte | 256952` | Engenharia Elétrica |
-| Alexandre Alvim | 242583 | Engenharia Civil |
-| Rafael de Castro Brancaglion | 248760 | Engenharia Elétrica |
+| <João Vitor Abrahão de Moraes> | <205903> | <Sistemas de Informação>|
+| <Gabriel Pedroso Duarte> | <256952> | <Engenharia de Elétrica>|
+| <Alexandre Alvim> | <242583> | <Engenharia de Civil>|
+| <Rafael de Castro Brancaglion> | <248760> | <Engenharia de Elétrica>|
 
 ## Proposta
 
- A atividade proposta se concentra em IA e será apresentada para estudantes do ensino médio. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funcionam as IAs e relacioná-las com os vestibulares, tendo em vista a sua elevada importância para esses estudantes. Após essa explicação e apresentação será proposto uma atividade (Explicar melhor o que será essa atividade), que irá focar em apresentar as grandes diferenças entre um uso efetivo das IAs e um pior uso dessas inteligências (Debater um pouco mais.
-
+A atividade proposta se concentra em IA e será apresentada para estudantes do ensino médio. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funcionam as IAs e relacioná-las com os vestibulares, tendo em vista a sua elevada importância para esses estudantes. Após essa explicação e apresentação será proposto uma atividade (Explicar melhor o que será essa atividade), que irá focar em apresentar as grandes diferenças entre um uso efetivo das IAs e um pior uso dessas inteligências (Debater um pouco mais.
 
 ## Problema e Contexto
 
@@ -36,35 +35,96 @@ Objetivo específico:
 - A reflexão sobre o futuro da IA, focando principalmente na ideia que a IA é uma ferramenta.
 - Desenvolvimento de pensamento crítico sobre o resultado gerado por IA.
 
-## Concepção da Experiência
+## Experiência
 
-Para incentivar e exemplificar o uso da IA como ferramenta poderosa, temos como ideia criar um jogo ou problema complexo para eles resolverem,  que envolva por exemplo, a automatização de alguma operação. Ademais, memes e referências podem ser utilizados na elaboração da problemática para aumentar o engajamento do público como o “Tung Tung Tung Sahur” ou “67”. Pensa-se em elaborar dois materiais, um para apresentar os conceitos essenciais para resolver a dinâmica e outro da dinâmica.  
+`<Descreva aqui a experiência planejada.>`
 
-## Viabilidade e Planejamento Inicial
+### Roteiro da Atividade
 
-O que temos em mente não demanda muitas necessidades materiais, então parece ser viavel. 
+| Etapa | Duração | Atividade | Participação do público | Recursos |
+| --- | ---: | --- | --- | --- |
+| Apresentação | 15 minutos | Apresentar slides sobre o assunto | Escutar com atenção | PowerPoint |
+| Dinâmica |  |  |  |  |
+| Avaliação | 5 minutos |  | Responder o formulário | Forms do Google |
 
-### Contexto de Realização
+**Duração total estimada:** 1 hora
 
-Será realizado em um laboratório de informática, que possua computadores e acesso à internet. Antes da apresentação é necessário o desenvolvimento de um grande problema ou de um jogo.
+## Planejamento da Primeira Aplicação
 
-### Recursos Necessários
+### Articulação para a Primeira Aplicação
 
-A principio, precisaremos de um laboratório de informática com acesso a internet. 
+- **Público previsto:** 1° e 2° anos do ensino médio
+- **Contexto de aplicação:** Escolas do ensino médio (SESI, SENAI)
+- **Número estimado de participantes:** 40 por turma (No máximo)
+- **Período previsto:** Terceira semana de outubro (Conforme disponibilidade da escola)
+- 
+**Estado atual da articulação:**  
+`<Explique brevemente o que já está encaminhado, o que ainda está sendo negociado e quais definições permanecem em aberto.>`
 
-### Desenvolvimento Prévio
+### Alternativas e Contingências
 
-Iremos produzir um jogo e um roteiro para a apresentação.
+Temos como alternativa outros contatos de escola, no caso de não conseguirmos fazer na inicial. Caso não tenha computadores ou não seja possível utilizar o laboratório de informática da escola, vamos levar os chromebooks (um por grupo) para que eles façam a dinâmica, se isso também não for possível, vamos adaptar a dinâmica para que seja possível realizá-la com um ou dois computadores no nosso grupo.
 
-### Desafios
+## Plano de Desenvolvimento
 
-Caso a escola não se planeje adequadamente, pode ocorrer que os laboratórios de informática não estejam disponíveis.`
+| Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
+| --- | --- | --- | --- | --- |
+| Apresentação | Powerpoint | Gabriel | 2/10 | Não iniciada |
+| Questionário | Forms | Alexandre | 2/10 | Não iniciada |
+| Definição da data e do número de pessoas | Contato com a escola | João Vitor | 8/10 | Não iniciada |
+| Dinâmica | Criação dos problemas de prompt | Rafel | 8/10 | Não iniciada |
 
-## Resultados Esperados
+### Dependências Críticas
 
-Queremos capacitar os jovens a utilizar a tecnologia a seu favor. Pretendemos fazer um breve questionário no final questionando sobre as utilidades da IA que eles descobriram e estão aplicando nos seus estudos.
+- Interesse da escola
+- Data compatível com ambos o grupo e a escola
+- Disponibilidade de computadores na escola
+
+
+## Materiais e Recursos
+
+### Materiais a Desenvolver
+
+- Powerpoint de apresentação
+- Questionário de satisfação
+- Problemas de prompt da dinâmica
+- 
+### Recursos para a Aplicação
+
+- Computadores com conexão a internet e web browsers
+- Premiação para os grupos (doces)
+
+### Testes Necessários
+
+- Conexão com a Internet (na hora da atividade, abrindo um navegador da internet)
+- Tempo esperado das atividades
+- Qualidade da dinâmica (testes internos com a finalidade de avaliar quais os possíveis caminhos que os participantes podem tomar e se estes fazem sentido com os objetivos esperados)
+- Funcionamento do forms
+
+
+## Avaliação
+
+### Indicadores de Sucesso
+
+| Objetivo | Indicador / Evidência |
+| --- | --- |
+| `<Objetivo>` | `<O que poderá ser observado?>` |
+| `<Objetivo>` | `<O que poderá ser observado?>` |
+| `<Objetivo>` | `<O que poderá ser observado?>` |
+
+### Coleta de Evidências e Feedback
+
+`<Descreva aqui como serão coletadas as evidências e o feedback.>`
+
+## Riscos e Desafios
+
+| Risco / Desafio | Possível impacto | Estratégia |
+| --- | --- | --- |
+| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
+| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
+| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
 
 ## Referências
 
-- [1] https://cloud.google.com/discover/what-are-ai-hallucinations?hl=pt-BR
-
+- `<Referência do projeto 1>`
+- `<Referência do projeto 2>`
