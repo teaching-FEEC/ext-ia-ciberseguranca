@@ -4,10 +4,10 @@
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| <João Vitor Abrahão de Moraes> | <205903> | <Sistemas de Informação>|
-| <Gabriel Pedroso Duarte> | <256952> | <Engenharia de Elétrica>|
-| <Alexandre Alvim> | <242583> | <Engenharia de Civil>|
-| <Rafael de Castro Brancaglion> | <248760> | <Engenharia de Elétrica>|
+| João Vitor Abrahão de Moraes | 205903 | Sistemas de Informação|
+| Gabriel Pedroso Duarte | 256952 | Engenharia de Elétrica|
+| Alexandre Alvim | 242583 | Engenharia de Civil|
+| Rafael de Castro Brancaglion | 248760 | Engenharia de Elétrica|
 
 ## Proposta
 
@@ -37,7 +37,7 @@ Objetivo específico:
 
 ## Experiência
 
-`<Descreva aqui a experiência planejada.>`
+Planejamos uma dinâmica onde os alunos terão que construir alguma coisa utilizando IA.
 
 ### Roteiro da Atividade
 
@@ -59,7 +59,7 @@ Objetivo específico:
 - **Período previsto:** Terceira semana de outubro (Conforme disponibilidade da escola)
 - 
 **Estado atual da articulação:**  
-`<Explique brevemente o que já está encaminhado, o que ainda está sendo negociado e quais definições permanecem em aberto.>`
+Estamos lapidando a nossa dinâmica e definindo datas e horários.
 
 ### Alternativas e Contingências
 
@@ -108,23 +108,22 @@ Temos como alternativa outros contatos de escola, no caso de não conseguirmos f
 
 | Objetivo | Indicador / Evidência |
 | --- | --- |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
+| Engajamento dos alunos na dinâmica | Todos terminaram com bons resultados |
+| Mostrar boas utilidades da IA | Feedback dos alunos |
+|  |  |
 
 ### Coleta de Evidências e Feedback
 
-`<Descreva aqui como serão coletadas as evidências e o feedback.>`
+Pretendemos criar um Forms com algumas perguntas para saber se o projeto foi proveitoso.
 
 ## Riscos e Desafios
 
 | Risco / Desafio | Possível impacto | Estratégia |
 | --- | --- | --- |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
+| Problemas técnicos | Falta de computadores | Planejar e combinar meticulosamente com a escola |
+|  |  |  |
+|  |  |  |
 
 ## Referências
 
-- `<Referência do projeto 1>`
-- `<Referência do projeto 2>`
+- [1] https://cloud.google.com/discover/what-are-ai-hallucinations?hl=pt-BR
