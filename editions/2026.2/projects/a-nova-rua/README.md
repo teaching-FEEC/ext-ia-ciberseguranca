@@ -41,11 +41,15 @@ Desenvolver o senso crítico e a desconfiança dos participantes ao navegar na i
 
 ## Concepção da Experiência
 
-A oficina se iniciará após o preparo da câmera e a entrega das cartilhas aos participantes. A apresentação em slides será composta por casos reais de golpes digitais (relacionados ao INSS, links falsos de websites, mensagens de Whatsapp direcionadas, etc.) seguidos de passos para reconhecê-los. Ademais, a linguagem e a identidade visual adotadas será inspirada pela cartilha "#Internet com Responsa 60+" de Kelli Angelini et al. [5], ou seja, simples e com elementos culturais do século XX, a fim de suscitar uma reflexão sobre a mudança dos tempos em razão das novas tecnologias.
+A oficina se iniciará após a entrega dos formulários aos participantes. Os primeiros 15 minutos da atividade serão dedicados ao preenchimento do formulário pelos participantes, cujas perguntas abordam comportamentos que garantem a segurança nas redes e têm como objetivo avaliar o conhecimento prévio dos participantes. Os participantes estarão livres para discutir suas respostas.
+
+A apresentação em slides será composta por casos reais de golpes digitais (relacionados ao INSS, links falsos de websites, mensagens de Whatsapp direcionadas, etc.) seguidos de passos para reconhecê-los. Assim, busca-se desenvolver os quatro tópicos levantados no questionário de modo que os integrantes da atividade possam compartilhar suas experiências. Ademais, a linguagem e a identidade visual adotadas será inspirada pela cartilha "#Internet com Responsa 60+" de Kelli Angelini et al. [5], ou seja, simples e com elementos culturais do século XX, a fim de suscitar uma reflexão sobre a mudança dos tempos em razão das novas tecnologias.
 
 Ao longo da apresentação, serão abertos intervalos para o preenchimento das questões da cartilhas ligadas ao tópico do momento. As perguntas serão fechadas e exigirão que tomada uma decisão (correta ou errada). Por exemplo, dados os personagens e seus contextos, ela pode indagar sobre qual é a melhor forma de verificar se uma mensagem enviada pelo filho pedindo um empréstimo bancário é verdadeira. Os participantes estarão livres para discutir suas respostas.
 
-No final, serão coletadas as respostas da cartilha e será pedido verbalmente uma avaliação a respeito da oficina. Sugestões e questões levantadas deverão ser consideradas para uma próxima realização.
+Em seguida, serão coletadas as respostas originais e entregue um novo formulário com questões similares (mas não iguais) às do primeiro. Este tem como objetivo captar a mudança de pensamento com relação ao tema abordado, e posteriormente, será usado como métrica de comparação. 
+
+Ao final da atividade, entregaremos três cartilhas do CERT.br (“Golpes: Não se deixe enganar”, “Golpes: Evite fraudes” e “Golpes: Caiu? Veja o que fazer”) a cada participante. Sugestões e questões levantadas deverão ser consideradas para uma próxima realização.
 
 ## Viabilidade e Planejamento Inicial
 
@@ -58,7 +62,8 @@ A princípio, a oficina será ofertada pelo programa [UniversIDADE](https://www.
 ### Recursos Necessários
 
 - Computador e projetor para a apresentação em slides;
-- Cópias impressas da cartilha "#Internet com Responsa 60+" [5] e dos formulários para cada participante;
+- Cópias impressas das três cartilhas do CERT.br;
+- Cópias dos formulários para cada participante;
 - Canetas para o preenchimento dos formulários.
 
 ### Desenvolvimento Prévio
@@ -72,7 +77,6 @@ Devem ser produzidos previamente:
 ### Desafios
 
 Os formulários devem ser legíveis e facilmente preenchíveis. O próprios ministrantes da oficina se responsabilizam a levar um computador extra para o caso de mal funcionamento do presente na sala 221.
-> Como lidar com o mal funcionamento do projetor?
 
 ## Resultados Esperados
 
