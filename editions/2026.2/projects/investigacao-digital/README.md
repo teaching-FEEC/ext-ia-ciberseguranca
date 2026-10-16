@@ -1,4 +1,4 @@
-# Detetives Digitais: Proteja Seu Mundo Online
+# Investigação Digital: Proteja Seu Mundo Online
 
 ## Equipe
 
@@ -11,7 +11,9 @@
 
 ## Proposta
 
-A atividade "Detetives Digitais: Proteja Seu Mundo Online" tem como foco principal a Cibersegurança, com o objetivo de ajudar crianças de 8 a 11 anos a compreender, de forma simples e lúdica, a importância de proteger informações pessoais, como senhas e outros dados, além de outros cuidados necessários ao usar a internet. A Inteligência Artificial será incorporada de forma pontual, como parte do conteúdo de alguns "casos" investigados pelas crianças. Por exemplo, uma mensagem suspeita gerada por IA, um perfil falso criado com imagem sintética, ou um áudio falsificado, servindo como casos contextualizados de novas formas de golpes digitais, e não como um eixo temático independente da atividade.
+A atividade “Investigação Digital: Proteja Seu Mundo Online” tem como foco principal a segurança em ambientes virtuais, com o objetivo de ajudar crianças de 8 a 11 anos a compreender, de forma simples e lúdica, como se proteger durante o uso da internet, especialmente em jogos e outras plataformas digitais. Serão abordados cuidados relacionados à proteção de informações pessoais, senhas, privacidade, interação com outras pessoas, reconhecimento de situações suspeitas e prevenção contra golpes e comportamentos de risco no ambiente online.
+
+Ao longo da atividade, serão apresentados casos contextualizados e próximos da realidade das crianças, como mensagens suspeitas, perfis falsos, pedidos de informações pessoais, links desconhecidos e conteúdos manipulados ou gerados por inteligência artificial. Esses exemplos serão utilizados para mostrar diferentes situações de risco que podem ocorrer durante a interação em jogos, redes sociais e outros ambientes virtuais, reforçando a importância de pensar antes de clicar, compartilhar informações ou confiar em desconhecidos.
 
 ## Problema e Contexto
 
@@ -35,11 +37,11 @@ Promover uma reflexão inicial sobre segurança digital entre crianças de 8 a 1
 - Incentivar cuidados ao compartilhar informações na internet.
 - Estimular a reflexão sobre possíveis situações de risco no ambiente digital.
 
-## Concepção da Experiência
+## Experiência
 
-A atividade utilizará uma narrativa de investigação: as crianças assumem o papel de "detetives iniciantes" que recebem um chamado da Central de Segurança Digital para desvendar mistérios do mundo online, como senhas roubadas, mensagens suspeitas e perfis falsos. Essa narrativa se conecta à realidade do público porque todas as crianças já usam a internet para jogar, ver vídeos ou estudar, e muitas já ouviram falar de golpes ou viram situações estranhas, o que torna a missão próxima e significativa. Ela também aumenta o engajamento ao transformar a atividade em uma aventura com "casos" a resolver, despertando a curiosidade natural das crianças por mistérios e fazendo-as se sentir protagonistas da própria segurança.
+A atividade utilizará uma narrativa de investigação: as crianças assumem o papel de "investigadores iniciantes" que recebem um chamado da Central de Segurança Digital para desvendar mistérios do mundo online, como senhas roubadas, mensagens suspeitas e perfis falsos. Essa narrativa se conecta à realidade do público porque todas as crianças já usam a internet para jogar, ver vídeos ou estudar, e muitas já ouviram falar de golpes ou viram situações estranhas, o que torna a missão próxima e significativa. Ela também aumenta o engajamento ao transformar a atividade em uma aventura com "casos" a resolver, despertando a curiosidade natural das crianças por mistérios e fazendo-as se sentir protagonistas da própria segurança.
 
-A experiência será dividida em três momentos principais: uma apresentação sobre o assunto, introduzindo de forma simples os conceitos de segurança digital; a exibição de um vídeo curto relacionado ao tema, para reforçar e ilustrar o conteúdo apresentado; e, por fim, uma atividade impressa, em que as crianças, na pele dos detetives, analisam os "casos" (mensagens suspeitas, perfis falsos, situações de risco) e decidem como agir diante de cada um.
+A experiência será dividida em dois momentos principais. Inicialmente, será realizada uma **apresentação interativa e gamificada**, na qual serão apresentadas diferentes situações relacionadas ao uso da internet, jogos e ambientes virtuais. As crianças serão convidadas a analisar cada situação, discutir o que fariam e identificar comportamentos seguros ou de risco, aprendendo, de forma participativa e lúdica, como agir diante de diferentes situações no ambiente digital. Em seguida, será realizado um **jogo de tabuleiro em grupo**, no qual as crianças poderão brincar os conhecimentos aprendidos durante a dinâmica inicial.
 
 A linguagem será simples e adequada à faixa etária, evitando explicações técnicas, com exemplos relacionados ao cotidiano infantil de uso da internet. A atividade buscará incentivar o pensamento autônomo ao propor que as crianças analisem os casos impressos e decidam quais informações devem ser protegidas e quais atitudes são arriscadas, em vez de apenas receber regras prontas. Também está prevista interação entre os participantes, com discussões em grupo em que a colaboração contribua para que as crianças compartilhem opiniões e reflitam conjuntamente sobre os casos.
 
@@ -51,15 +53,15 @@ A atividade será realizada em espaços escolares, principalmente em salas de au
 
 ### Recursos Necessários
 
-Para a realização da atividade, serão necessários: uma sala equipada com caixas de som e projetor (para a apresentação e exibição do vídeo), materiais impressos para a atividade dos "casos", e materiais escolares básicos, como lápis coloridos, para o preenchimento e personalização das fichas pelas crianças.
+Para a realização da atividade, será necessário uma sala equipada com projetor (para a apresentação de slides).
 
 ### Desenvolvimento Prévio
 
-Será necessário produzir previamente o material impresso da atividade, contendo os "casos" investigativos em formato lúdico (ilustrações de mensagens suspeitas, perfis falsos e situações de risco) para que as crianças possam pintar, desenhar e rabiscar como parte do processo de identificação e resolução dos casos, reforçando o aprendizado dos conceitos de forma prática e descontraída. Também será necessário produzir o roteiro da apresentação e selecionar ou produzir o vídeo curto a ser exibido durante a atividade.
+Será necessário produzir previamente o material da apresentação, contendo os "casos" investigativos em formato lúdico (ilustrações de mensagens suspeitas, perfis falsos e situações de risco) para que as crianças possam participar ativamente como parte do processo de identificação e resolução dos casos, reforçando o aprendizado dos conceitos de forma prática e descontraída. Também será necessário produzir o roteiro da apresentação e explicar para a turma como jogar o jogo de tabuleiro.
 
 ### Desafios
 
-Um dos principais desafios será simplificar a linguagem da apresentação de forma que as crianças saiam da atividade com os conceitos de segurança digital claros e bem fixados, evitando explicações que possam confundir ou ser rapidamente esquecidas. Outro desafio é o controle do ambiente durante a atividade, já que crianças de 8 a 11 anos tendem a se dispersar ou se agitar com facilidade, principalmente durante a etapa prática (pintar/desenhar), exigindo uma condução dinâmica e atenta por parte do grupo para manter o engajamento sem perder o foco da sala.
+Um dos principais desafios será simplificar a linguagem da apresentação de forma que as crianças saiam da atividade com os conceitos de segurança digital claros e bem fixados, evitando explicações que possam confundir ou ser rapidamente esquecidas. Outro desafio é o controle do ambiente durante a atividade, já que crianças de 8 a 11 anos tendem a se dispersar ou se agitar com facilidade, principalmente durante a etapa prática (jogo de tabuleiro), exigindo uma condução dinâmica e atenta por parte do grupo para manter o engajamento sem perder o foco da sala.
 
 ## Resultados Esperados
 

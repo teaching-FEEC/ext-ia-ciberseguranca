@@ -4,137 +4,184 @@
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| `<Andrei de Oliveira Athaide>` | `<221935>` | `<Engenharia de Computação>` |
-| `<Clayton Alves Luiz>` | `<246763>` | `<Matemática Aplicada e Computacional>` |
-| `<Eduardo Barbosa Jubilado>` | `<217494>` | `<Matemática Aplicada e Computacional>` |
-| `<Mateus Canêdo Faleiro>` | `<295858>` | `<Matemática Aplicada e Computacional>` |
-| `<Murilo Matos Chernatovicz Riberio>` | `<198273>` | `<Estatística>` |
+| `Andrei de Oliveira Athaide` | `221935` | `Engenharia de Computação` |
+| `Clayton Alves Luiz` | `246763` | `Matemática Aplicada e Computacional` |
+| `Eduardo Barbosa Jubilado` | `217494` | `Matemática Aplicada e Computacional` |
+| `Mateus Canêdo Faleiro` | `295858` | `Matemática Aplicada e Computacional` |
 
 ## Proposta
 
-Diante dos dados apresentados nesta página, o projeto Ciberidosos busca promover a divulgação científica de conhecimentos básicos em cibersegurança, utilizando uma linguagem acessível para pessoas com 60 anos ou mais, por meio de oficinas presenciais em casas de repouso e outros locais de fácil acesso para esse público, a fim de contribuir para a prevenção e a redução da vulnerabilidade deste à criminalidade digital.
+O projeto Ciberidosos busca promover a divulgação de conhecimentos básicos em Cibersegurança e Inteligência Artificial voltada à população idosa. A proposta principal é oferecer oficinas presenciais em casas de repouso, com o intuito de contribuir para a conscientização dessa população e fornecer ferramentas mínimas de proteção contra golpes e fraudes na internet. Sabemos que trabalhar com casas de repouso pode ser desafiador; logo, caso não seja possível trabalhar com esse público, entraremos em contato com paróquias e associações de bairro.
 
 ## Problema e Contexto
 
-Infelizmente, parte da população idosa apresenta dificuldades relacionadas à literacia digital e é vulnerável a golpes na internet. Além disso, as ciberfraudes têm crescido e se diversificado na última década, ocorrendo por meio de e-mails, ligações, sites e aplicativos.
+Parte da população idosa apresenta dificuldades relacionadas à literacia digital e é vulnerável a golpes na internet. Além disso, fraudes e golpes no espaço digital têm crescido e se diversificado na última década, ocorrendo por meio de e-mails, ligações, sites e aplicativos.
 
-Essa perspectiva explicita uma necessidade que pode ser trabalhada por meio de atividades de extensão como a nossa, que contribuem para diminuir a distância geracional e aproximam o público idoso do conhecimento acadêmico necessário para sua aplicação no cotidiano. Observa-se, assim, uma relação direta com a literacia digital, ao promover conhecimentos que auxiliem esse público a utilizar a tecnologia de forma mais segura.
+Esse cenário revela uma necessidade que pode ser trabalhada por meio de atividades de extensão, capazes de aproximar o público do conhecimento necessário para sua proteção e para o uso seguro da internet.
 
 ## Público
 
-O projeto Ciberidosos é voltado para o público idoso. Por ser um público com ampla bagagem e experiências diversas, a equipe deve estar preparada para responder a uma variedade de perguntas relacionadas à cibersegurança, inclusive questões que possam ultrapassar o âmbito considerado básico. Ao mesmo tempo, considerando que a oficina possui caráter introdutório e que pode haver diferentes níveis de familiaridade com a tecnologia, a linguagem utilizada deve ser simples, clara e acessível.
+A atividade é voltada para o público idoso. Pelas características desse grupo, a equipe deve estar preparada para responder a uma variedade de perguntas relacionadas à Cibersegurança e à Inteligência Artificial. Além disso, a oficina possui caráter introdutório, e os participantes podem ter diferentes níveis de familiaridade com a tecnologia. Assim, a linguagem utilizada deve ser simples, clara e acessível.
 
-Aspectos como a escolha dos locais para realização das oficinas e a otimização do tempo também são de extrema importância. Busca-se concentrar o máximo de informações relevantes no menor período possível, evitando a fadiga e favorecendo a assimilação e a fixação do conteúdo.
-
-Por se tratar de um público com potencial de interação e sociabilidade, atividades em grupo também são indispensáveis, permitindo a troca de experiências e conhecimentos entre os participantes.
+Parte da atividade será realizada em grupos, com o objetivo de proporcionar um momento de socialização e colaboração.
 
 ## Objetivos
 
 ### Objetivo Geral
 
-Promover a conscientização e o desenvolvimento da literacia digital de pessoas com 60 anos ou mais, fornecendo conhecimentos básicos sobre cibersegurança e inteligência artificial, para que possam utilizar a internet de forma mais segura, consciente e autônoma.
+Oferecer conhecimentos básicos sobre Cibersegurança e Inteligência Artificial, a fim de conscientizar a população idosa e fornecer ferramentas mínimas de proteção contra golpes e fraudes na internet.
 
 ### Objetivos Específicos
 
-- **Compreender** conceitos básicos de cibersegurança e inteligência artificial, identificando seus impactos e possíveis riscos no cotidiano digital. 
-- **Desenvolver** o senso crítico e a autonomia para questionar informações, identificar possíveis ameaças e buscar fontes confiáveis antes de tomar decisões na internet. 
-- **Protocolar**  uma base de ações para prevenir e lidar com possíveis tentativas de ciberfraude. 
+- **Apresentar** conceitos básicos de Cibersegurança e Inteligência Artificial, identificando seus impactos e possíveis riscos no cotidiano;
+- **Incentivar** o público a questionar informações, identificar possíveis ameaças e buscar fontes confiáveis antes de tomar decisões na internet;
+- **Estabelecer** um protocolo básico de ações para prevenir e lidar com possíveis tentativas de golpe e fraude.
 
-## Concepção da Experiência
+## Experiência
 
-A experiência será realizada por meio de uma oficina presencial, dividida em momentos de introdução, atividades práticas, apresentação de conteúdos e interação entre os participantes. A proposta busca utilizar situações próximas ao cotidiano do público, permitindo que os participantes não apenas recebam informações, mas também analisem situações, tomem decisões e discutam suas percepções com os demais.
+A experiência será realizada por meio de uma oficina presencial, dividida em introdução, atividades práticas, apresentação de conteúdos e interação entre os participantes. A proposta busca utilizar situações próximas ao cotidiano do público, permitindo que os participantes não apenas recebam informações, mas também analisem situações, tomem decisões e discutam suas percepções com os demais.
 
-### 1. Introdução: Cibersegurança e Inteligência Artificial  (5 minutos)
+### Roteiro da Atividade
 
-Inicialmente, serão apresentados conceitos básicos de cibersegurança e inteligência artificial, contextualizando a presença de ambos no cotidiano. A introdução será breve e utilizará uma linguagem simples, preparando os participantes para as atividades seguintes.
+#### 1. "Quebra-gelo": Atividade de Motivação Inicial (5 minutos)
 
-### 2. Atividade de Análise Inicial (15 minutos)
+Apresentaremos slides com imagens geradas por inteligência artificial e imagens reais. Nosso objetivo é motivar a atividade e mostrar quão avançadas e próximas da realidade estão as imagens geradas artificialmente.
 
-Será realizada uma atividade inicial para identificar o nível de familiaridade dos participantes com possíveis golpes e conteúdos manipulados.
+#### 2. Introdução Teórica: Cibersegurança e Inteligência Artificial (5 minutos)
 
-Eles receberão diferentes exemplos impressos, incluindo mensagens legítimas e suspeitas, além de imagens legítimas e imagens produzidas ou modificadas por inteligência artificial. Em seguida, deverão classificá-los como **legítimos** ou **suspeitos**.
+Serão apresentados conceitos básicos de cibersegurança e inteligência artificial, contextualizando a presença de ambas no cotidiano. A introdução será breve e utilizará uma linguagem simples, preparando os participantes para as atividades seguintes.
 
-Após a classificação, será apresentado o gabarito, acompanhado de uma explicação sobre os principais sinais que poderiam indicar uma tentativa de golpe ou uma imagem manipulada. Os resultados dessa atividade serão utilizados como referência para uma comparação posterior com o desempenho no quiz final.
+#### 3. Golpes na Internet (15 minutos)
 
-### 3. Golpes na Internet (15 minutos)
+Faremos uma apresentação de golpes comuns:
 
-Nesta etapa, serão apresentados exemplos práticos de golpes comuns no âmbito digital, buscando explicitar o conteúdo de situações que podem ocorrer no cotidiano dos participantes, permitindo que a análise do grupo seja aperfeiçoada.
+- Deepfake;
+- Phishing;
+- Ligações.
 
-Serão utilizadas simulações de situações envolvendo:
+Mostraremos notícias, vídeos e casos reais para tornar os conceitos mais palatáveis. Além disso, faremos simulações intercaladas com a explicação para mostrar como essas situações podem ocorrer.
 
-- SMS, e-mails, mensagens e links maliciosos;
-- perfis falsos;
-- ligações falsas.
+#### 4. Segurança Digital: Como se Defender de Golpes (20 minutos)
 
-As situações poderão ser apresentadas por meio de exemplos visuais e simulações elaboradas previamente pela equipe, incluindo um perfil falso e imagens produzidas para a atividade. Sendo assim, o objetivo é destacar os elementos que podem indicar uma tentativa de fraude, permitindo que os participantes relacionem as situações apresentadas com os conceitos discutidos anteriormente.
+Após a apresentação dos principais tipos de golpes, serão abordadas medidas práticas de prevenção e proteção no mundo virtual. Mostraremos um passo a passo do que pode ser feito caso a pessoa suspeite de que está sendo vítima de um golpe.
 
-Após cada exemplo, serão apresentados os principais sinais de alerta e as formas adequadas de se lidar com aquela situação.
-
-### 4. Segurança Digital: Como se Defender de Golpes (20 minutos)
-
-Após a apresentação dos principais tipos de golpes, serão abordadas medidas práticas para prevenção e proteção no mundo virtual.
-
-Será apresentado um protocolo simples de ação, desenvolvido para facilitar a memorização e a aplicação dos conhecimentos no cotidiano:
-
-*(**PARE → PENSE → CONFIRA**)*
-
-- **PARE:** não tome uma decisão imediata. Não clique em links, não responda mensagens e não forneça informações.
-- **PENSE:** observe a situação e questione se o contato, a solicitação ou a mensagem fazem sentido. 
-- **CONFIRA:** verifique a informação por meios seguros e independentes, como entrar em contato diretamente com a pessoa envolvida ou ligar diretamente para uma instituição.
-
-Por exemplo, caso o participante receba uma ligação de uma pessoa que afirma ser um familiar e solicita dinheiro, deverá parar antes de realizar qualquer transferência, pensar sobre a situação e os sinais apresentados e conferir as informações por meio de palavras de segurança, checagem de número, contato direto com o familiar ou por outros métodos apresentados. 
-
-Também serão reforçadas orientações como não fornecer senhas, códigos de autenticação ou outras informações sensíveis por telefone ou mensagens, não acessar serviços bancários durante ligações ou a partir de links recebidos por contatos desconhecidos e procurar os canais oficiais das instituições quando houver dúvidas.
-
-### 5. Organização dos Grupos e Quiz (25 minutos)
+#### 5. Organização dos Grupos e Quiz (25 minutos)
 
 Os participantes serão organizados em grupos para a realização de um quiz sobre os conteúdos apresentados durante a oficina.
 
 A atividade será realizada em grupo para estimular a conversa, a troca de experiências e a construção coletiva das respostas. Os participantes poderão discutir entre si antes de escolher uma alternativa, permitindo que diferentes percepções sejam compartilhadas.
 
-Além de contribuir para a fixação dos conteúdos, o resultado do quiz será comparado com os resultados obtidos na atividade de diagnóstico inicial. Essa comparação permitirá observar possíveis mudanças na capacidade dos participantes de identificar situações suspeitas e reconhecer os principais sinais de golpes digitais.
+Após cada pergunta, faremos uma análise das alternativas e explicaremos por que cada uma está certa ou errada.
 
-### 6. Coffee Break e Momento de Interação (15 minutos)
+#### 6. Sessão para Sanar Dúvidas (10 minutos)
 
-Ao final da oficina, será realizado um coffee break, proporcionando um momento de interação entre os participantes e a equipe.
+Apesar de não ser necessariamente uma etapa, acreditamos que várias dúvidas podem surgir durante a oficina; por isso, este tempo está destinado a respondê-las.
 
-Esse período também será utilizado para esclarecer dúvidas individuais e permitir que os participantes coloquem em prática alguns dos conhecimentos apresentados, com auxílio da equipe. Poderão ser realizadas atividades simples, como revisar configurações de privacidade de perfis, retomar informações apresentadas durante a oficina e esclarecer dúvidas sobre situações enfrentadas no dia a dia.
+#### 7. Coleta de Feedback (5 minutos)
 
-Dessa forma, a experiência busca combinar transmissão de conhecimento, experimentação, discussão e aplicação prática, estimulando a autonomia e o senso crítico dos participantes diante de possíveis ciberfraudes.
+Assim que encerrarmos o conteúdo programado, disponibilizaremos um período para que os participantes relatem sua visão sobre a oficina e como se sentiram, seja por áudio ou por escrito.
 
-## Viabilidade e Planejamento Inicial
+| Etapa | Duração | Atividade | Participação do público | Recursos |
+| --- | ---: | --- | --- | --- |
+| `1. Quebra-gelo` | `5 min` | `Apresentação de imagens reais e geradas por IA` | `Observam e comentam as imagens` | `Slides, projetor ou imagens impressas` |
+| `2. Introdução teórica` | `5 min` | `Conceitos básicos de cibersegurança e IA` | `Acompanham a explicação e fazem perguntas` | `Slides` |
+| `3. Golpes na internet` | `15 min` | `Deepfake, phishing e ligações, com notícias, vídeos, casos reais e simulações` | `Acompanham as simulações e comentam` | `Slides, vídeos` |
+| `4. Segurança digital` | `20 min` | `Medidas de prevenção e passo a passo em caso de suspeita de golpe` | `Acompanham e tiram dúvidas` | `Slides, fascículos do CERT.br` |
+| `5. Quiz em grupos` | `25 min` | `Quiz sobre os conteúdos, com análise das alternativas` | `Discutem em grupo e respondem com as placas` | `Perguntas do quiz, placas` |
+| `6. Dúvidas` | `10 min` | `Espaço para responder às dúvidas` | `Fazem perguntas` | `—` |
+| `7. Feedback` | `5 min` | `Coleta das impressões sobre a oficina` | `Relatam suas impressões por áudio ou por escrito` | `Papel, lápis ou caneta` |
 
-A atividade apresenta viabilidade para ser executada, mas necessita de alguns recursos, como computador, projetor ou televisão, slides, vídeos e materiais impressos. A oficina poderá ser realizada presencialmente em casas de repouso ou outros espaços de fácil acesso ao público 60+, como bibliotecas públicas ou espaços da universidade. Também será realizado um coffee break ao final da oficina, proporcionando um momento de interação entre os participantes e a equipe.
+**Duração total estimada:** 1 hora e 25 minutos.
 
-Para tal, a equipe deverá desenvolver os materiais da apresentação, preparar o quiz, selecionar exemplos de golpes digitais relevantes ao cotidiano dos participantes e organizar o coffee break. Também será necessário estabelecer contato prévio com os locais onde as oficinas podem ser realizadas e adequar a duração, se preciso.
+## Planejamento da Primeira Aplicação
 
-A proposta prevê uma apresentação introdutória dividida em partes, seguida de atividades práticas em grupos e, ao final, um coffee break. A atividade permitirá avaliar a compreensão dos participantes por meio de um quiz aplicado durante a oficina, além de proporcionar um momento de interação e esclarecimento de dúvidas entre os participantes e a equipe.
+### Articulação para a Primeira Aplicação
 
-### Contexto de Realização
+- **Público previsto:** Pessoas com 60 anos ou mais.
+- **Contexto de aplicação:** Casa de repouso, paróquia ou associação de bairro.
+- **Número estimado de participantes:** 20 pessoas.
+- **Período previsto:** A definir.
 
-A atividade poderá ocorrer em casas de repouso, bibliotecas ou espaços universitários acessíveis ao público 60+, que devem possuir acesso pelo térreo ou elevador, boa iluminação, temperatura adequada e cadeiras confortáveis.
+**Estado atual da articulação:**  
+Enviamos mensagens para casas de repouso e associações de bairro e visitamos uma casa de repouso. Já temos um material preliminar e estamos aguardando o retorno das instituições para finalizá-lo com base nas necessidades do público.
 
-### Recursos Necessários
+### Alternativas e Contingências
 
-Serão necessários computador, projetor ou televisão, acesso à internet, slides, vídeos, materiais impressos, papel, lápis, borracha e caneta. Para o coffee break, serão necessários alimentos e bebidas, além de copos, guardanapos, pratos e outros materiais descartáveis necessários para sua realização
+Nosso plano original é realizar a oficina em casas de repouso, mas, caso não seja possível, também estamos entrando em contato com associações de bairro e pretendemos contatar paróquias. A oficina também poderá ocorrer em outros espaços de fácil acesso ao público 60+, como bibliotecas públicas ou espaços da universidade.
 
-### Desenvolvimento Prévio
+Além disso, nossa apresentação possui muitas imagens e, caso não seja possível projetá-las, levaremos as imagens impressas.
 
-Será necessário desenvolver os slides, vídeos, materiais impressos e o quiz que será utilizado durante a atividade.
+## Plano de Desenvolvimento
 
-### Desafios
+| Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
+| --- | --- | --- | --- | --- |
+| `Material Impresso` | `Requisição dos materiais do CERT.br` | `Ciberidosos` | `25/09` | `Concluída` |
+| `Apresentação` | `Montar slides` | `Ciberidosos` | `08/10` | `Em andamento` |
+| `Imagens` | `Gerar imagens de IA` | `Ciberidosos` | `08/10` | `Em andamento` |
+| `Quiz` | `Montar as perguntas` | `Ciberidosos` | `08/10` | `Em andamento` |
+| `Contato` | `Decidir local(is) de aplicação` | `Ciberidosos` | `02/10` | `Em andamento` |
 
-O ritmo da aula deverá ser adequado, garantindo um bom andamento e evitando tanto a sobrecarga quanto a dispersão dos participantes. Além disso, todos os requisitos relacionados ao espaço e aos materiais físicos deverão ser atendidos, pois a ausência desses recursos pode comprometer a execução da atividade e dificultar a compreensão e o aproveitamento do conteúdo.
+### Dependências Críticas
 
-## Resultados Esperados
+- `Confirmação do público-alvo.`
+- `Definição do local.`
 
-Por meio dos métodos apresentados, esperamos que os participantes desenvolvam uma base de conhecimentos para evitar problemas no âmbito digital e compartilharem essas informações com pessoas próximas. Adicionalmente, espera-se que o projeto possa ser realizado em próximos semestres, permitindo seu aperfeiçoamento e a ampliação do número de participantes.
+## Materiais e Recursos
+
+### Materiais a Desenvolver
+
+- `Slides de apresentação`
+- `Imagens geradas por IA`
+- `Quiz`
+- `Placas do quiz`
+
+### Recursos para a Aplicação
+
+- `Computador`
+- `Projetor ou televisão`
+- `Acesso à internet`
+- `Slides`
+- `Vídeos`
+- `Materiais impressos`
+- `Papel`
+- `Lápis ou caneta`
+- `Fascículos do CERT.br`
+
+### Testes Necessários
+
+- `Treinar a apresentação da oficina`
+- `Estudar possíveis perguntas do público-alvo`
+- `Testar o projetor`
+
+## Avaliação
+
+### Indicadores de Sucesso
+
+| Objetivo | Indicador / Evidência |
+| --- | --- |
+| `Engajamento` | `Participação durante a oficina` |
+| `Conscientização` | `Respostas do quiz` |
+| `Satisfação` | `Feedback dos participantes ao final da oficina` |
+
+### Coleta de Evidências e Feedback
+
+No fim da atividade, deixaremos um espaço para dúvidas e sugestões. Pediremos um feedback aos participantes, e aqueles que se sentirem à vontade poderão fornecer detalhes sobre sua experiência na oficina.
+
+## Riscos e Desafios
+
+| Risco / Desafio | Possível impacto | Estratégia |
+| --- | --- | --- |
+| `Pouco engajamento` | `Prejudicar a compreensão dos conteúdos` | `Utilizar linguagem simples e focar na parte prática e colaborativa` |
+| `Problemas técnicos` | `Impossibilitar o uso de slides` | `Levaremos material impresso` |
+| `Problemas relacionados à saúde no local` | `Interrupção da oficina ` | `Contaremos com a ajuda de enfermeiros e/ou profissionais de geriatria` |
+
 
 ## Referências
 
 - LOPES, Thaynara Ferreira; ALMEIDA, Paulo César de; RIBEIRO, Aridiane Alves; OKUNO, Meiry Fernanda Pinto. *Trends and factors associated with cyber fraud among older adults: a decade of administrative data in Brazil*. Frontiers in Public Health, 2026. Disponível em: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414271/)
 - IBGE. *Em 5 anos, uso da internet no Brasil acelera e chega a 69% entre os idosos, diz IBGE*. G1, 2025. Disponível em: [G1](https://g1.globo.com/tecnologia/noticia/2025/07/24/em-5-anos-uso-da-internet-no-brasil-acelera-e-chega-a-69percent-entre-os-idosos-diz-ibge.ghtml)
 - MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO. *Fraudes digitais contra idosos disparam e desafiam estratégias de TI*. 2026. Disponível em: [MPMT](https://www.mpmt.mp.br/conteudo/1217/172311/fraudes-digitais-contra-idosos-disparam-e-desafiam-estrategias-de-ti)
+- CERT.br. *Cartilha de Segurança para Internet*. São Paulo: NIC.br. Disponível em: [CERT.br](https://cartilha.cert.br/)
 - KASPERSKY. *AI voice and deepfake scams: why you can’t trust a familiar voice anymore*. 2026. Disponível em: [Kaspersky](https://www.kaspersky.com.br/resource-center/threats/ai-voice-scam)
 - MCKENDRICK, Joe. *Phishing, deepfakes e voz clonada: como a IA está mudando os golpes*. Forbes Brasil, 2026. Disponível em: [Forbes Brasil](https://forbes.com.br/forbes-tech/2026/08/phishing-deepfakes-e-voz-clonada-como-a-ia-esta-mudando-os-golpes/)
 - O GLOBO. *Deepfake: IA cria reunião falsa com diretor financeiro de multinacional, que transfere R$ 129 milhões a criminosos*. 2024. Disponível em: [O Globo](https://oglobo.globo.com/economia/negocios/noticia/2024/02/04/deepfake-ia-cria-reuniao-falsa-com-diretor-financeiro-de-multinacional-que-transfere-r-129-milhoes-a-criminosos.ghtml)
