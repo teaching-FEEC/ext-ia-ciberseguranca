@@ -68,11 +68,11 @@ Os participantes terão papel ativo: deverão apontar sinais suspeitos, explicar
 ### Articulação para a Primeira Aplicação
 
 - **Público previsto:** pessoas idosas interessadas no tema, mobilizadas pelos canais e parceiros do grupo.
-- **Contexto de aplicação:** sala FE12, inicialmente, ou espaço de outro instituto, como o IMECC.
-- **Número estimado de participantes:** 25 a 30 participantes.
-- **Período previsto:** primeira aplicação irá ocorrer no dia 17 de outubro de 2026, durante o período da manhã. A segunda aplicação ocorrerá entre 12 e 19 de novembro de 2026, a definir.
+- **Contexto de aplicação:** sala FE12 confirmada.
+- **Número estimado de participantes:** 10 participantes confirmados.
+- **Período previsto:** primeira aplicação no dia 17 de outubro de 2026, durante o período da manhã. A segunda aplicação ocorrerá entre 12 e 19 de novembro de 2026, em data ainda a definir.
 
-**Estado atual da articulação:** a sala FE12 é a opção inicial, que iremos reservar o quanto antes. A mobilização será desenvolvida pelo grupo, com divulagação e formulário enviados duas semanas antes da atividade e criação de um grupo de WhatsApp de adesão voluntária.
+**Estado atual da articulação:** a sala FE12 e o público de 10 participantes foram confirmados. A divulgação e o formulário foram enviados, e o grupo de WhatsApp de adesão voluntária foi criado.
 
 ### Alternativas e Contingências
 
@@ -80,32 +80,35 @@ Os principais meios de contato inicial com o público idoso serão o UniversIDAD
 
 ## Plano de Desenvolvimento
 
-O grupo pretende distribuir uma frente principal a cada integrante. Os responsáveis nominais serão definidos internamente.
+Cada integrante assumiu uma frente principal, e todas as tarefas planejadas foram concluídas.
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-| Formulários e canal de comunicação | Preparar inscrição, avaliação inicial e final, criar o grupo de WhatsApp e divulgar o formulário | Athos | Até cinco dias antes da primeira aplicação | A confirmar |
-| Roteiro executável | Detalhar falas, dinâmica, perguntas, boas práticas e contingências dentro dos escopo de tempo | Bernardo | Antes do ensaio completo | A confirmar |
-| Deepfake demonstrável | Produzir o material com autorização e testar vídeo, áudio, gravação e possibilidade de ligação | Rodrigo | Antes do teste técnico no local | A confirmar |
-| Slides revisados | Organizar casos, dados, instruções da dinâmica e boas práticas em linguagem acessível | Willian | Antes do ensaio completo | A confirmar |
-| Apresentação preparada | Ensaiar oratória, velocidade, ênfase, transições e condução das perguntas | Gabriel | Antes da primeira aplicação | A confirmar |
+| Formulários e canal de comunicação | Preparar inscrição, avaliação inicial e final, criar o grupo de WhatsApp e divulgar o formulário | Athos | Até cinco dias antes da primeira aplicação | Concluída |
+| Roteiro executável | Detalhar falas, dinâmica, perguntas, boas práticas e contingências dentro do tempo previsto | Bernardo | Antes do ensaio completo | Concluída |
+| Deepfake demonstrável | Produzir o material com autorização e testar vídeo, áudio, gravação e possibilidade de ligação | Rodrigo | Antes do teste técnico no local | Concluída |
+| Slides revisados | Organizar casos, dados, instruções da dinâmica e boas práticas em linguagem acessível | Willian | Antes do ensaio completo | Concluída |
+| Apresentação preparada | Ensaiar oratória, velocidade, ênfase, transições e condução das perguntas | Gabriel | Antes da primeira aplicação | Concluída |
 
 ### Dependências Críticas
 
-- Confirmação do público, do canal de comunicação e do local.
-- Deepfake autorizado, satisfatório e testado antes da atividade.
-- Disponibilidade de notebook, projetor, áudio, Internet e condições de acessibilidade.
-- Formulários prontos e divulgados com cinco dias de antecedência.
-- Respostas prévias suficientes para adequar a linguagem, os exemplos e a dinâmica.
+- O público de 10 participantes, o canal de comunicação e a sala FE12 foram confirmados.
+- O deepfake foi autorizado, produzido e testado.
+- O notebook, o projetor, o áudio, a Internet e as condições de acessibilidade foram verificados.
+- Os formulários foram preparados e divulgados.
+- As respostas prévias foram consideradas na adequação da linguagem, dos exemplos e da dinâmica.
 
 ## Materiais e Recursos
 
-### Materiais a Desenvolver
+### Materiais Desenvolvidos
+
+Todos os materiais planejados foram concluídos. Os respectivos arquivos ou links deverão ser adicionados ao README quando forem enviados para a pasta do projeto.
 
 - Formulários de inscrição, conhecimento prévio, avaliação final e feedback.
 - Roteiro completo da oficina e plano de contingência.
 - Deepfake autorizado de um integrante do grupo e gravação de reserva.
 - Slides e lista de boas práticas.
+- Fascículos sobre prevenção de golpes digitais.
 - Mensagens de divulgação e conteúdos para o grupo de WhatsApp.
 
 ### Recursos para a Aplicação
@@ -117,14 +120,14 @@ O grupo pretende distribuir uma frente principal a cada integrante. Os responsá
 - Sala com assentos, visibilidade, acústica e acessibilidade adequadas.
 - Versão impressa do formulário, caso o preenchimento digital não seja viável.
 
-### Testes Necessários
+### Testes Realizados
 
-- Reproduzir o deepfake no notebook e verificar clareza de voz e imagem.
-- Testar a ligação simulada e decidir entre execução ao vivo e gravação.
-- Testar notebook, adaptadores, projetor, áudio e Internet no local.
-- Abrir e responder aos formulários em celular e computador. Validar a alternativa impressa.
-- Ensaiar os 60 minutos completos, incluindo transições, perguntas, velocidade de fala e ênfase.
-- Executar a contingência sem Internet para garantir que a dinâmica continue.
+- O deepfake foi reproduzido no notebook, com voz e imagem verificadas.
+- A ligação simulada e a gravação de contingência foram testadas.
+- O notebook, os adaptadores, o projetor, o áudio e a Internet foram testados na sala FE12.
+- Os formulários foram validados em celular e computador, com alternativa impressa disponível.
+- O roteiro completo de 90 minutos foi ensaiado, incluindo transições, perguntas, velocidade de fala e ênfase.
+- A contingência sem Internet foi executada e validada.
 
 ## Avaliação
 
@@ -150,7 +153,7 @@ Os resultados serão analisados de forma agregada. A percepção subjetiva será
 | Deepfake, ligação, projetor ou Internet falhar | Interrupção da dinâmica e perda de tempo | Testar no local e manter gravação e materiais disponíveis offline |
 | Fala rápida, pouca ênfase ou excesso de termos técnicos | Dificuldade de compreensão pelo público | Ensaiar, dividir as falas, usar linguagem simples e reservar tempo para perguntas |
 | Simulação causar constrangimento ou relembrar experiências negativas | Redução da confiança e do engajamento | Explicar previamente, obter consentimento, permitir não participar e realizar debriefing imediato |
-| Público ou sala não serem confirmados | Adiamento da primeira aplicação | Articular alternativas com o Projeto Primavera, paróquias e outros espaços acessíveis |
+| Indisponibilidade imprevista da sala FE12 | Necessidade de mudar o local da primeira aplicação | Utilizar uma sala equivalente na FEA, FEM ou em outro espaço acessível |
 | Coleta excessiva de dados no formulário ou no WhatsApp | Exposição da privacidade dos participantes | Coletar apenas o necessário, informar a finalidade, restringir a administração e permitir saída do grupo |
 | Barreiras de visão, audição ou mobilidade | Participação desigual | Levantar necessidades no formulário, verificar o espaço e oferecer áudio, texto e formulário impresso |
 
