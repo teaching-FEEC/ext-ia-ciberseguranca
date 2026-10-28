@@ -1,0 +1,5 @@
+participante_id,Q1,Q2,Q3,Q4,F1,F2,F3,F4,F5,F6,Houve Sugestão?
+1,D,1,B,C,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Sim
+2,D,1,B,C,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Sim
+3,D,1,A|B|C,C,Concordo,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Sim
+4,C|D,0,A|B|C,C,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo Totalmente,Concordo,Não
