@@ -91,7 +91,11 @@ Pensamos na seguinte dinâmica:
 - **Período previsto:** 16 de outubro, das 8:30 às 11:30
 
 **Estado atual da articulação:**
-Já enviamos e-mails para reservar uma sala para a apresentação, fazer a impressão 3D dos chaveiros, pedir a entrega dos panfletos e conseguir a verba para o coffee break e ainda falta terminar de fazer a nossa apresentação de slides e os formulários para a inscrição e o feedback.
+Já aplicamos a oficina, no dia 16/10/2026. Conseguimos reservar a sala para a apresentação, organizar o coffee break, imprimir os chaveiros em 3D, pedir e receber os panfletos, finalizar a nossa apresentação de slides e os formulários para a inscrição e o feedback, além de divulgar a oficina, criar o grupo de WhatsApp e enviar os lembretes aos participantes.
+
+**Resultado da aplicação:**
+A oficina foi muito bem recebida pelos participantes: todos elogiaram, acharam a atividade divertida e comentaram que aprenderam bastante. Tivemos, porém, um problema com o tempo: gostaríamos de ter terminado às 11h, mas acabamos terminando às 12h15.
+Outro feedback que já surgiu foi sobre o tamanho dos textos nos slides: especialmente nas situações das dinâmicas, o template ocupava muito espaço da apresentação e as letras ficaram pequenas.
 
 ### Alternativas e Contingências
 
@@ -103,20 +107,20 @@ Os elementos complementares como coffee break e chaveiros não serão considerad
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-| Pedido dos fascículos do Cert.br | Reunir informações de quais fascículos os grupos querem, e fechar o pedido deles junto ao setor de comunicação do Nic.br | Artur Dias | 25/09/2026 | Pedido feito, aguardando o envio por parte do Nic.br |
-| Sala para a oficina | Reservar sala com mesas, cadeiras, projetor, canetas, papel, lousa, etc... | Camila Parizoto | 01/10/2026 | Em desenvolvimento |
-| Coffee | Combinar data, quantidade e opções | Camila Parizoto | 01/10/2026 | Em desenvolvimento |
-| Marcar impressão dos chaveiros | Definir o modelo de chaveiros e combinar a impressão | Camila Parizoto | 01/10/2026 | Definindo qual o modelo de chaveiro escolhido, e em conversas com os responsáveis pela impressão |
-| Slides | Planejar e editar os slides com as informações importantes | Todos | 11/10/2026 | Em desenvolvimento |
-| Apresentação ensaiada | Ensaiar, testar e alterar, se necessário, a apresentação/roteiro da oficina | Todos | 11/10/2026 | Depende dos slides |
-| Chaveiros prontos | Retirar os chaveiros combinados e impressos | Rayssa Aguiar | 09/10/2026 | Depende da marcação da impressão |
-| Desenvolver post/arte de divulgação | Desenvolver um post chamativo para atrair participantes para a oficina via rede social | Luana Oliveira | 09/10/2026 | Em desenvolvimento |
-| Divulgação do post | Enviar e-mail apresentando a oficina e chamando as pessoas | Luana Oliveira | 09/10/2026 | Após ter o post criado |
-| Divulgação da oficina na extensão de idosos | Enviar e-mail apresentando a oficina e chamando as pessoas | Rayssa Aguiar | 09/10/2026 | Após ter o post criado |
-| Abrir o formulário de inscrições | Abrir o formulário para as 20 pessoas se inscreverem | Artur Dias | 09/10/2026 | Formulário está pronto, vai ser aberto após a divulgação |
-| Criar grupo de Whatsapp | Criar grupo no Whatsapp com aqueles que concordaram em ser envolvidos no grupo | Tiago Gutiérrez | 09/10/2026 | A ser criado após as inscrições |
-| Lembrete sobre a oficina | Lembrar as pessoas sobre a realização da oficina pelo Whatsapp ou e-mail | Tiago Gutiérrez | 12/10/2026 - 15/10/2026 | A ser enviado após as inscrições |
-| Formulário de feedback sobre a oficina | Disponibilizar um formulário para coletar feedbacks, críticas, opiniões e sugestões sobre a primeira oficina | Tiago Gutiérrez | 15/10/2026 | Em desenvolvimento |
+| Pedido dos fascículos do Cert.br | Reunir informações de quais fascículos os grupos querem, e fechar o pedido deles junto ao setor de comunicação do Nic.br | Artur Dias | 25/09/2026 | Concluído |
+| Sala para a oficina | Reservar sala com mesas, cadeiras, projetor, canetas, papel, lousa, etc... | Camila Parizoto | 01/10/2026 | Concluído |
+| Coffee | Combinar data, quantidade e opções | Camila Parizoto | 01/10/2026 | Concluído |
+| Marcar impressão dos chaveiros | Definir o modelo de chaveiros e combinar a impressão | Camila Parizoto | 01/10/2026 | Concluído |
+| Slides | Planejar e editar os slides com as informações importantes | Todos | 11/10/2026 | Concluído |
+| Apresentação ensaiada | Ensaiar, testar e alterar, se necessário, a apresentação/roteiro da oficina | Todos | 11/10/2026 | Concluído |
+| Chaveiros prontos | Retirar os chaveiros combinados e impressos | Rayssa Aguiar | 09/10/2026 | Concluído |
+| Desenvolver post/arte de divulgação | Desenvolver um post chamativo para atrair participantes para a oficina via rede social | Luana Oliveira | 09/10/2026 | Concluído |
+| Divulgação do post | Enviar e-mail apresentando a oficina e chamando as pessoas | Luana Oliveira | 09/10/2026 | Concluído |
+| Divulgação da oficina na extensão de idosos | Enviar e-mail apresentando a oficina e chamando as pessoas | Rayssa Aguiar | 09/10/2026 | Concluído |
+| Abrir o formulário de inscrições | Abrir o formulário para as 20 pessoas se inscreverem | Artur Dias | 09/10/2026 | Concluído |
+| Criar grupo de Whatsapp | Criar grupo no Whatsapp com aqueles que concordaram em ser envolvidos no grupo | Tiago Gutiérrez | 09/10/2026 | Concluído |
+| Lembrete sobre a oficina | Lembrar as pessoas sobre a realização da oficina pelo Whatsapp ou e-mail | Tiago Gutiérrez | 12/10/2026 - 15/10/2026 | Concluído |
+| Formulário de feedback sobre a oficina | Disponibilizar um formulário para coletar feedbacks, críticas, opiniões e sugestões sobre a primeira oficina | Tiago Gutiérrez | 15/10/2026 | Concluído |
 
 
 ### Dependências Críticas
@@ -204,3 +208,4 @@ Ao final, será disponibilizado também um formulário de feedback sobre a exper
 ## Referências
 
 - Palestra da Miriam Von Zuben, do Cert.br, no dia 10/09/2026 - e os materiais didáticos produzidos pelo Cert e apresentados por ela.
+- Materiais produzidos: https://drive.google.com/drive/folders/1jCkI3gVlXxO1tKzW7kfrkjYpgMGVQNS2?usp=sharing
