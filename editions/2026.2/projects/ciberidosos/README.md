@@ -58,8 +58,15 @@ Faremos uma apresentação de golpes comuns:
 - Deepfake;
 - Phishing;
 - Ligações.
+- Compras virtuais;
 
-Mostraremos notícias, vídeos e casos reais para tornar os conceitos mais palatáveis. Além disso, faremos simulações intercaladas com a explicação para mostrar como essas situações podem ocorrer.
+Mostraremos notícias, imagens ou vídeos e casos reais para tornar os conceitos mais palatáveis. Além disso, faremos simulações intercaladas com a explicação para mostrar como essas situações podem ocorrer.
+
+As ferramentas que o grupo vai usar para as simulações estão abaixo, disponíveis no GitHub:
+
+- **[Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam):** Utilizado para produzir um vídeo com artistas de domínio público. O conteúdo do vídeo aborda a necessidade de Literacia Digital e cita o grupo Ciberidosos.
+- **[Zphisher](https://github.com/htr-tech/zphisher):** Utilizado para gerar páginas de phishing com captação de dados em tempo real.
+- **[Cloudflare Tunnel (Cloudflared)](https://github.com/cloudflare/cloudflared):** Utilizado para garantir o acesso à página gerada pelo Zphisher a partir de qualquer dispositivo, evitando problemas de localhost.
 
 #### 4. Segurança Digital: Como se Defender de Golpes (20 minutos)
 
@@ -85,13 +92,13 @@ Assim que encerrarmos o conteúdo programado, disponibilizaremos um período par
 | --- | ---: | --- | --- | --- |
 | `1. Quebra-gelo` | `5 min` | `Apresentação de imagens reais e geradas por IA` | `Observam e comentam as imagens` | `Slides, projetor ou imagens impressas` |
 | `2. Introdução teórica` | `5 min` | `Conceitos básicos de cibersegurança e IA` | `Acompanham a explicação e fazem perguntas` | `Slides` |
-| `3. Golpes na internet` | `15 min` | `Deepfake, phishing e ligações, com notícias, vídeos, casos reais e simulações` | `Acompanham as simulações e comentam` | `Slides, vídeos` |
-| `4. Segurança digital` | `20 min` | `Medidas de prevenção e passo a passo em caso de suspeita de golpe` | `Acompanham e tiram dúvidas` | `Slides, fascículos do CERT.br` |
-| `5. Quiz em grupos` | `25 min` | `Quiz sobre os conteúdos, com análise das alternativas` | `Discutem em grupo e respondem com as placas` | `Perguntas do quiz, placas` |
-| `6. Dúvidas` | `10 min` | `Espaço para responder às dúvidas` | `Fazem perguntas` | `—` |
+| `3. Golpes na internet` | `10 min` | `Deepfake, phishing e ligações, com notícias, vídeos, casos reais e simulações` | `Acompanham as simulações e comentam` | `Slides, vídeos` |
+| `4. Segurança digital` | `10 min` | `Medidas de prevenção e passo a passo em caso de suspeita de golpe` | `Acompanham e tiram dúvidas` | `Slides, fascículos do CERT.br` |
+| `5. Quiz em grupos` | `10 min` | `Quiz sobre os conteúdos, com análise das alternativas` | `Discutem em grupo e respondem com as placas` | `Perguntas do quiz, placas` |
+| `6. Dúvidas` | `5 min` | `Espaço para responder às dúvidas` | `Fazem perguntas` | `—` |
 | `7. Feedback` | `5 min` | `Coleta das impressões sobre a oficina` | `Relatam suas impressões por áudio ou por escrito` | `Papel, lápis ou caneta` |
 
-**Duração total estimada:** 1 hora e 25 minutos.
+**Duração total estimada:** 50 minutos.
 
 ## Planejamento da Primeira Aplicação
 
@@ -103,28 +110,32 @@ Assim que encerrarmos o conteúdo programado, disponibilizaremos um período par
 - **Período previsto:** A definir.
 
 **Estado atual da articulação:**  
-Enviamos mensagens para casas de repouso e associações de bairro e visitamos uma casa de repouso. Já temos um material preliminar e estamos aguardando o retorno das instituições para finalizá-lo com base nas necessidades do público.
+
+A atividade está marcada para o dia 23/10/2026, na associação Pró-Bairro de Barão Geraldo, e a apresentação base também já está pronta. No entanto, ainda estamos buscando locais para oferecer a segunda oficina. Uma pasta no Google Drive foi criada para anexar os itens e conteúdos que serão usados na oficina, e pode ser acessada  **[aqui](https://drive.google.com/drive/folders/1Hk_Rgn0FofygqYGxOIa5H2Ia1H1Ad_Sa?hl=pt-br)**.
+
+Além disso, nossa apresentação possui muitas imagens; tanto elas quanto os slides serão impressos para facilitar a visualização.
 
 ### Alternativas e Contingências
 
-Nosso plano original é realizar a oficina em casas de repouso, mas, caso não seja possível, também estamos entrando em contato com associações de bairro e pretendemos contatar paróquias. A oficina também poderá ocorrer em outros espaços de fácil acesso ao público 60+, como bibliotecas públicas ou espaços da universidade.
+Nosso plano original era realizar a oficina em casas de repouso, mas como houve pouco retorno estamos entrando em contato com associações de bairro e pretendemos contatar paróquias. A oficina também poderá ocorrer em outros espaços de fácil acesso ao público 60+, como bibliotecas públicas ou espaços da universidade.
 
-Além disso, nossa apresentação possui muitas imagens e, caso não seja possível projetá-las, levaremos as imagens impressas.
+Além disso, nossa apresentação possui muitas imagens, tanto elas quanto os slides serão impressos para facilitar a visualização.
 
 ## Plano de Desenvolvimento
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
 | `Material Impresso` | `Requisição dos materiais do CERT.br` | `Ciberidosos` | `25/09` | `Concluída` |
-| `Apresentação` | `Montar slides` | `Ciberidosos` | `08/10` | `Em andamento` |
-| `Imagens` | `Gerar imagens de IA` | `Ciberidosos` | `08/10` | `Em andamento` |
-| `Quiz` | `Montar as perguntas` | `Ciberidosos` | `08/10` | `Em andamento` |
-| `Contato` | `Decidir local(is) de aplicação` | `Ciberidosos` | `02/10` | `Em andamento` |
+| `Apresentação` | `Montar slides` | `Ciberidosos` | `08/10` | `Concluída` |
+| `Imagens` | `Gerar imagens de IA` | `Ciberidosos` | `08/10` | `Concluída` |
+| `Quiz` | `Montar as perguntas` | `Ciberidosos` | `22/10` | `Em andamento` |
+| `Contato` | `Decidir local(is) de aplicação` | `Ciberidosos` | `22/10` | `Parcialmente concluída` |
+| `Deepfake` | `Gerar um vídeo utilizando ferramentas de Deepfake` | `Ciberidosos` | `22/10` | `Em andamento` |
 
 ### Dependências Críticas
 
 - `Confirmação do público-alvo.`
-- `Definição do local.`
+- `Definição do local para segunda oficina.`
 
 ## Materiais e Recursos
 
@@ -134,11 +145,14 @@ Além disso, nossa apresentação possui muitas imagens e, caso não seja possí
 - `Imagens geradas por IA`
 - `Quiz`
 - `Placas do quiz`
+- `Slides impressos`
 
 ### Recursos para a Aplicação
 
 - `Computador`
 - `Projetor ou televisão`
+- `Tela de projeção`
+- `Extensor`
 - `Acesso à internet`
 - `Slides`
 - `Vídeos`
@@ -151,7 +165,6 @@ Além disso, nossa apresentação possui muitas imagens e, caso não seja possí
 
 - `Treinar a apresentação da oficina`
 - `Estudar possíveis perguntas do público-alvo`
-- `Testar o projetor`
 
 ## Avaliação
 
@@ -182,6 +195,10 @@ No fim da atividade, deixaremos um espaço para dúvidas e sugestões. Pediremos
 - IBGE. *Em 5 anos, uso da internet no Brasil acelera e chega a 69% entre os idosos, diz IBGE*. G1, 2025. Disponível em: [G1](https://g1.globo.com/tecnologia/noticia/2025/07/24/em-5-anos-uso-da-internet-no-brasil-acelera-e-chega-a-69percent-entre-os-idosos-diz-ibge.ghtml)
 - MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO. *Fraudes digitais contra idosos disparam e desafiam estratégias de TI*. 2026. Disponível em: [MPMT](https://www.mpmt.mp.br/conteudo/1217/172311/fraudes-digitais-contra-idosos-disparam-e-desafiam-estrategias-de-ti)
 - CERT.br. *Cartilha de Segurança para Internet*. São Paulo: NIC.br. Disponível em: [CERT.br](https://cartilha.cert.br/)
-- KASPERSKY. *AI voice and deepfake scams: why you can’t trust a familiar voice anymore*. 2026. Disponível em: [Kaspersky](https://www.kaspersky.com.br/resource-center/threats/ai-voice-scam)
+- KASPERSKY. *AI voice and deepfake scams: why you can't trust a familiar voice anymore*. 2026. Disponível em: [Kaspersky](https://www.kaspersky.com.br/resource-center/threats/ai-voice-scam)
 - MCKENDRICK, Joe. *Phishing, deepfakes e voz clonada: como a IA está mudando os golpes*. Forbes Brasil, 2026. Disponível em: [Forbes Brasil](https://forbes.com.br/forbes-tech/2026/08/phishing-deepfakes-e-voz-clonada-como-a-ia-esta-mudando-os-golpes/)
 - O GLOBO. *Deepfake: IA cria reunião falsa com diretor financeiro de multinacional, que transfere R$ 129 milhões a criminosos*. 2024. Disponível em: [O Globo](https://oglobo.globo.com/economia/negocios/noticia/2024/02/04/deepfake-ia-cria-reuniao-falsa-com-diretor-financeiro-de-multinacional-que-transfere-r-129-milhoes-a-criminosos.ghtml)
+- ESTADO DE MINAS. *Golpe com deepfake: uso de rostos de famosos em fraudes cresce 400% no Brasil*. 2026. Disponível em: [Estado de Minas](https://www.em.com.br/tecnologia/2026/09/7495936-golpe-com-deepfake-uso-de-rostos-de-famosos-em-fraudes-cresce-400-no-brasil.html)
+- METRÓPOLES. *Golpe da falsa central: PCDF prende quadrilha que lesou idosos*. 2026. Disponível em: [Metrópoles](https://www.metropoles.com/colunas/mirelle-pinheiro/golpe-da-falsa-central-pcdf-prende-quadrilha-que-lesou-idosos)
+- BAND. *Fraudes no e-commerce devem superar R$ 8,1 bilhões no Brasil em 2026*. 2026. Disponível em: [Band](https://www.band.com.br/economia/noticias/fraudes-no-e-commerce-devem-superar-r-81-bilhoes-no-brasil-em-2026-202608101353)
+
