@@ -47,11 +47,10 @@
 
  Etapa       | Duração  | Atividade       | Participação do público | Recursos    |
 | --- | --- | --- | --- | --- |
-| Recepção e Provocação | 5 min     | O organizador recebe os alunos e apresenta a eles um formulário com a seguinte pergunta: *"Qual nota você daria para determinado filme?"*. Em seguida, os alunos respondem anonimamente o formulário avaliando alguns filmes com base em seus gostos pessoais. | Os alunos refletem o questionamento: *"Quais filmes eu gostaria com base nos minhas avaliações?"* | Formulário (Google Forms ou impressão), celulares ou papel e caneta |
-| Coleta de Dados  | 5 min     | Explicação de que os dados coletados serão inseridos num modelo simples de Machine Learning que retorna notas prováveis para outros filmes ainda não avaliados por cada aluno, prevendo preferências a partir dos padrões encontrados nas respostas da turma. | Telão, slides e computador |
-| Classificação | 15 min     | O organizador projeta no telão algumas dessas previsões e compara com a nota  real que o aluno daria, mostrando como o modelo acerta (ou erra) ao "adivinhar" o gosto de alguém só a partir de poucas respostas. | A partir disso, é explicado como esse mesmo princípio está por trás das recomendações de plataformas como Netflix, Spotify e Youtube. | Telão, computador, planilha |
-| Debate Ético     | 7 min     | Na sequência, a equipe se direciona para o lado sensível dessa tecnologia, conduzindo a discussão: "Como seus dados podem ser usados de maneira não adequada?" | Os alunos participam do debate, expõem opiniões, discordam e refletem sobre ética, privacidade e proteção.   | Telão, slides com perguntas, espaço para debate.   |
-| Encerramento | 5 min     | A oficina se encerra com uma discussão ética, provocada pela pergunta: “Você é o cliente ou o produto?”. O objetivo é levar os alunos a refletirem sobre o valor dos próprios dados, os limites entre personalização e exposição, e a importância de uma postura crítica diante das tecnologias que preveem e moldam seus gostos. | Telão     |
+| Abertura e Teoria | 10 min     | O organizador recebe os alunos e introduz o conceito de Machine Learning de forma teórica e acessível, explicando como as máquinas aprendem a partir de padrões de dados. Em seguida, apresenta a dinâmica: eles avaliarão filmes para testar o modelo.  | Os alunos ouvem a explicação e se preparam para a atividade prática. | Telão, slides, celulares |
+| Avaliação dos Filmes (Prática)  | 15 min     | Os alunos acessam a plataforma e começam atribuindo notas de 1 a 5 para filmes que já conhecem. O organizador recolhe as respostas para inseri-las no modelo. (ou poderão realizar o próprio teste no celular) | Os alunos avaliam os filmes com base em seus gostos pessoais. | Telão, celular e plataforma |
+| Demonstração e Recomendação | 10 min     | O organizador insere as notas no modelo e projeta no telão como a máquina cruza os dados e gera recomendações de novos filmes. O modelo mostra que é capaz de prever o gosto dos alunos com base nas avaliações iniciais. | Os alunos reagem às recomendações, percebendo como a IA usou os dados deles para fazer as previsões | Telão, celular, plataforma |
+| Encerramento Focado no Enem (Gemini Notebook) | 10 min     | A oficina encerra apresentando o Gemini Notebook. Mostra-se como a IA (que aprende com dados) pode ser uma aliada prática nos estudos, resumindo PDFs e criando quizzes para o Enem e vestibulares, sem esquecer de alertar sobre não inserir dados sensíveis na ferramenta. | Os alunos acompanham a demonstração e tiram dúvidas sobre como usar a ferramenta para estudar.  | Telão, computador com internet e Gemini Notebook.  |
 
 **Duração total estimada:** 45 minutos.
 
@@ -62,7 +61,7 @@
 -   **Público previsto:**
     `Alunos de 16 e 17 anos, matriculados no Ensino Médio.`
 -   **Contexto de aplicação:**
-    `Escola de Ensino Médio (a instituição parceira ainda está em negociação). A atividade será realizada em sala de aula ou auditório, com o telão como ferramenta central.`
+    `Escola de Ensino Médio (Colégio Marista Arquidiocesano). A atividade será realizada em sala de aula, com o telão como ferramenta central.`
 -   **Número estimado de participantes:** `80 alunos (2 turmas)
 -   **Período previsto:** `22 de Outubro`
 
@@ -77,19 +76,12 @@
 
 | Entregável/Resultado  | Tarefa      | Responsável(is)        | Prazo       | Situação    |
 | --- | --- | --- | --- | --- |
-| Articulação com a escola | Entrar em contato com o setor responsável da escola  | Wan, Eduardo    | 8/10        | em andamento  |
-| Dinamica    | Programação e roteirização da oficina | Julia, Wan       | 8/10        | em andamento          |
-| Parte técnica (modelo, e softwares testados)      | Programação dos modelos que serão utilizados | Guilherme, Matheus  | 8/10        | não iniciada   |
-| Teste piloto     | Aplicar a oficina, coletar e ampliar a base de dados para aperfeiçoar  |Wan, Julia, Eduardo, Matheus e Guilherme        | 12/10       | não iniciada   |
+| Articulação com a escola | Entrar em contato com o setor responsável da escola  | Wan, Eduardo    | 8/10        | finalizado  |
+| Dinamica    | Programação e roteirização da oficina | Julia, Wan       | 8/10        | finalizado        |
+| Parte técnica (modelo, e softwares testados)      | Programação dos modelos que serão utilizados | Guilherme, Matheus  | 8/10        | finalizado   |
+| Teste piloto     | Aplicar a oficina, coletar e ampliar a base de dados para aperfeiçoar  |Wan, Julia, Eduardo, Matheus e Guilherme        | 12/10       | finalizado   |
 
 ### Dependências Críticas
-
-> Destaque apenas as dependências que podem determinar ou bloquear o
-> andamento do projeto.
->
-> Exemplos: confirmação do público antes da divulgação; finalização do
-> jogo antes do teste; definição do local antes de verificar os
-> equipamentos disponíveis.
 
 -   Confirmação do público e escola antes de definir o tema e o formato
     da oficina
@@ -104,15 +96,8 @@
 
 ### Materiais a Desenvolver
 
-> Liste os materiais que precisam ser produzidos pelo grupo. Quando já
-> existirem, inclua links ou caminhos para os arquivos correspondentes.
->
-> Sempre que possível, mantenha os materiais produzidos dentro da pasta
-> do projeto. Materiais mantidos em plataformas externas podem ser
-> referenciados por links.
-
 -   Modelo de machine learning
--   Chatbot (opcional)
+-   Gemini Notebook
 -   Infograficos ao vivo (opcional)
 
 ### Recursos para a Aplicação
@@ -122,13 +107,13 @@
 > atividade.
 
 -   Internet
+-   Computador
 -   Projetor
 -   Celulares (opcional)
 
 ### Testes Necessários
--   Formulário de coleta de dados
--   Modelo de classificação em perfis
--   Enquete ao vivo
+-   Formulário de coleta de dados (já testado)
+-   Modelo de classificação em perfis (já testadi)
 -   Projetor e internet
 
 ## Avaliação
@@ -155,7 +140,63 @@
 | Problemas com o modelo ou formulário   | Se o modelo não funcionar, ou o formulário não funcionar, perde o elemento prático de uma oficina     | Testar tudo antes. Ter materiais salvos. Ter versão impressa do formulário como alternativa.  |
 | Tempo insuficiente para todas as etapas  | As etapas podem se estender, comprometendo o encerramento e a coleta de dados.   | Fazer ensaio cronometrado antes da aplicação. Ter um cronômetro visível. Se necessário, encurtar etapa da oficina, mantendo o debate e o essencial.|
 
+## Primeira Aplicação — Registro e Análise
 
+### Contexto da Aplicação
+
+- **Data ou período:** `22/10`
+- **Local/contexto:** `Colégio Marista Arquidiocesano`
+- **Público atendido:** `Estudantes do segundo ano do Ensino Médio`
+- **Número aproximado de participantes:** `40`
+- **Duração efetiva:** `45 minutos`
+
+### O que Aconteceu e o que Aprendemos
+
+`O roteiro planejado inicialmente previa uma oficina de 45 minutos dividida em cinco etapas, com forte foco em cibersegurança e no uso de recursos tecnológicos individuais. A ideia era iniciar com a aplicação de um formulário sobre filmes, passar pela coleta de dados, explicar o Machine Learning na etapa de classificação, conduzir um debate ético sobre os perigos do uso indevido de dados (como golpes e phishing) e encerrar com a pergunta "Você é o cliente ou o produto?". No entanto, a aplicação real exigiu adaptações profundas no formato. A primeira mudança ocorreu na sequência de ensino: em vez de começar pela prática e explicar a teoria no meio, a equipe iniciou a oficina com uma explicação teórica sobre como a IA aprende e, em seguida, utilizou a avaliação de filmes (com notas de 1 a 5) como a atividade prática para consolidar o conceito. Essa inversão foi um grande acerto, pois os alunos puderam ver na prática a teoria funcionando, percebendo como os dados que eles mesmos geraram alimentaram o modelo de recomendações no telão.`
+
+`A segunda mudança foi de ordem logística: o planejamento dependia do uso de computadores e formulários digitais, mas houve a impossibilidade de utilizá-los de forma contínua durante a aplicação. Diante desse imprevisto técnico, a equipe precisou adaptar a dinâmica, usando o telão e recursos analógicos. A terceira e mais significativa mudança foi a exclusão do debate ético sobre cibersegurança e golpes, que estava previsto para durar 7 minutos. O tema de segurança digital foi completamente retirado da aplicação. Em vez disso, considerando que o público de 16 e 17 anos está focado no Enem e nos vestibulares, a equipe substituiu o encerramento pela apresentação do Gemini Notebook. Mostrou-se como a IA pode ser uma aliada prática nos estudos (resumindo PDFs, criando quizzes, video aulas, infográficos e etc.), o que gerou grande engajamento e conectou a tecnologia à realidade imediata dos alunos. Então, embora a aplicação tenha se afastado do roteiro original, especialmente pela ausencia do tópico de cibersegurança e ao uso de computadores, as adaptações realizadas foram bem avaliadas pelos alunos pois se aproximou da realidade deles no momento.`
+
+`Como mencionamos anteriormente, propomos uma oficina prática para que os participantes pudessem avaliar o funcionamento de um sistema de recomendação na prática:`
+
+> Acesse a [Oficina ofertada](https://ex071-2026s2.streamlit.app/). Como usamos uma ferramenta de hospedagem gratuita, o site não permanece disponível quando o tempo de inatividade é superior a 12 horas. Para o uso da ferramenta, deve-se selecionar a opção `Yes, get this app back up!`. Apesar das limitações, o serviço de hospedagem usado foi eficiente para que não fosse necessário realizar instalações, e que os alunos pudessem acessar intuitivamente. Realizou-se otimizações na segunda etapa para que o site de hospedagem comportasse o volume de acessos. E ainda contamos com o acesso local dos nossos equipamentos como segunda alternativa em possíveis imprevistos.
+
+
+![Tela Inicial](./imagens/tela.png)
+>Tela inicial do projeto prático.
+
+### Evidências e Feedback
+
+> Apresente os principais resultados obtidos com os instrumentos previstos anteriormente, como respostas, observações, produções dos participantes ou feedback. Quando possível, informe quantas pessoas responderam. Diferencie observações, opiniões e conclusões; registre limitações da coleta. Não publique respostas identificáveis ou imagens sem autorização.
+
+`A coleta contou com a participação de 16 alunos. Os dados quantitativos (autoavaliação de 1 a 9) mostram um impacto positivo e claro: no gráfico pré oficina, as notas se concentravam entre 1 e 6 (68,8% deram notas 5 ou 6, e ninguém deu 8 ou 9). No gráfico pós oficina, as notas de 1 a 5 foram totalmente zeradas, e as respostas se concentraram nas notas 7, 8 e 9 (totalizando 87,6% das respostas). Isso evidencia de forma descritiva que os alunos se sentiam muito mais confiantes sobre o tema.`
+
+`Durante a prática observamos alto engajamento dos alunos durante a avaliação dos filmes. O grande acerto metodológico foi explicar a teoria primeiro e usar os dados gerados pelos próprios alunos para demonstrar as recomendações no telão. O encerramento com o Gemini Notebook também gerou grande interesse prático.`
+
+`Interpretação e Limitações:
+Concluimos que a oficina foi muito bem sucedida em ensinar como o Machine Learning funciona na prática. No entanto, a principal limitação foi o corte do debate sobre cibersegurança e golpes, o que representou uma perda no objetivo original de conscientização sobre riscos digitais. Além disso, falhas técnicas com os computadores exigiram adaptação total da equipe para outros formatos. A avaliação se baseou na comparação descritiva dos gráficos pré e pós e na observação direta das reações da turma. Não foram coletadas respostas identificáveis ou imagens sem autorização, preservando o anonimato dos participantes.`
+
+> Coleta de Dados por [formulário](https://docs.google.com/forms/d/1yPDDf6XYlwu_i575IVbj9jGu4txEPlIIX9HsFXsGswY/edit?ts=6aec8ba4#responses):
+>
+> ![Primeira pergunta](./imagens/feedback_01.png)
+>
+> ![Segunda pergunta](./imagens/feedback_02.png)
+>
+> ![Terceira pergunta](./imagens/feedback_03.png)
+
+## Plano de Aprimoramento para a Segunda Aplicação
+
+| Evidência ou dificuldade observada | Ajuste proposto | Resultado esperado |
+| --- | --- | --- |
+| `Falta de cibersegurança: golpes, phishing e privacidade (objetivo original) foram retirados para dar lugar ao Gemini Notebook, deixando uma lacuna na formação crítica sobre riscos digitais.` | `Reintroduzir o tema: bloco rápido de 5 a 7 min de “Alerta de Segurança” após a recomendação dos filmes, mostrando que os mesmos dados que recomendam filmes podem servir para golpes (ex.: anúncio falso de ingressos).` | `Conscientização sobre compartilhamento de dados e cumprimento do objetivo de cibersegurança, sem perder o engajamento do Gemini.` |
+| `Falha técnica com a hospedagem do servidor` | `Plano B obrigatório e testado: oficina 100% funcional só com telão ou servidor novo; testar a infraestrutura da escola antes e ter os arquivos do Gemini e do modelo de Machine Learning baixados.` | `Mais segurança na execução e menos estresse da equipe diante de imprevistos.` |
+| `Acerto no encerramento (Gemini Notebook): a ferramenta de estudos para o Enem gerou grande interesse e engajamento.` | `Manter a abordagem, conectando-a à cibersegurança (ex.: IA resumindo PDFs, com alerta sobre os riscos de subir documentos com dados pessoais).` | `Manter o alto engajamento, com viés mais crítico e seguro.` |
+| `Acerto na metodologia: explicar o Machine Learning e depois mostrar as recomendações geradas pelas notas dos alunos foi muito eficaz.` | `Manter a sequência didática: teoria, avaliação de filmes e demonstração da máquina funcionando.` | `Consolidação concreta e significativa do aprendizado de Machine Learning.` |
+
+### Preparação da Segunda Aplicação
+
+- **Situação da segunda aplicação:** `Já temos o projeto pronto e atualizado com os erros corrigidos, só falta marcar a data exata da aplicação.`
+- **Pendências prioritárias:** `Não é uma certeza que conseguiremos aplicar a atividade no mesmo colégio devido à reta final de provas (já estamos procurando uma outra alternativa)`
+- **Como verificaremos as melhorias:** `Aplicaremos o mesmo formulário, porém dessa vez com mais rigor nas avaliações devido a uma grande quantidade de formulários não respondidos e buscaremos corrigir os problemas citados nos feedbacks da aplicação anterior`
 
 ## Referências
 
