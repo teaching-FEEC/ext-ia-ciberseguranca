@@ -93,16 +93,6 @@ A palestra é composta por **21 slides**, estruturados e divididos entre os memb
 | **Tempo Excedido (>30 min)** | Alto | Apresentação estritamente cronometrada por bloco de slides durante os ensaios. |
 | **Exposição inadvertida de dados** | Alto | Uso exclusivo de dados fictícios e anonimizados nos exemplos demonstrados. |
 
----
-
-## Referências
-
-- **UNESCO.** *Marco referencial de competências em IA para professores*. Paris: UNESCO, 2024.
-- **MIAO, Fengchun; HOLMES, Wayne.** *Guia para a IA generativa na educação e na pesquisa*. Paris: UNESCO, 2023.
-- **BRASIL.** *Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)*. Brasília, DF, 2018.
-- **AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS — ANPD.** *Enunciado CD/ANPD nº 1, de 22 de maio de 2023*. Dispõe sobre o tratamento de dados pessoais de crianças e adolescentes.
-
-- ---
 
 ## Primeira Aplicação — Registro e Análise
 
@@ -203,6 +193,11 @@ Em continuidade, vamos partir para refazer a atividade, porém agora com este mo
 - **Possíveis percalços:** Tempo (apenas 40 minutos) - por isso temos que ser ágeis durante as explicações, priorizando o tempo de debate e de momento ativo na construção do planajamento de aula por eles. Além disso, a votação ficará em segundo plano caso corra o risco do tempo, podendo assim, abdicarmos desse momento final de descontração e partirmos para o preenchimentos dos QR codes e feedbacks. Outro desafio será a conexão, visto que a rede da escola bloqueia o acesso as IA’s, por isso precisaremos utilizar nossos dados móveis roteados do celular para o notebook. Iremos ensaiar a dinâmica e fazer testes prévios de conexão roteando o Wifi para irmos preparados para segunda oficina.
 
 ##  **Referências:**
+
+- **UNESCO.** *Marco referencial de competências em IA para professores*. Paris: UNESCO, 2024.
+- **MIAO, Fengchun; HOLMES, Wayne.** *Guia para a IA generativa na educação e na pesquisa*. Paris: UNESCO, 2023.
+- **BRASIL.** *Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)*. Brasília, DF, 2018.
+- **AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS — ANPD.** *Enunciado CD/ANPD nº 1, de 22 de maio de 2023*. Dispõe sobre o tratamento de dados pessoais de crianças e adolescentes
 
   OHALETE, Nzubechukwu C.; GITTNER, Kevin B.; MATHENY, Lauren M. COSTAR-A: a prompting framework for enhancing large language model performance on point-of-view questions. arXiv, 14 out. 2025. Preprint (arXiv:2510.12637). DOI: https://doi.org/10.48550/arXiv.2510.12637. Disponível em: [https://arxiv.org/abs/2510.12637.] Acesso em: 12 nov. 2026.
   
