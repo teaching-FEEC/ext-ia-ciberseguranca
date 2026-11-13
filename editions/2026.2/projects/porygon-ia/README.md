@@ -63,7 +63,6 @@ Espera-se que as atividades possam levar os alunos para uma reflexão madura qua
 **Período previsto:** a definir
 ## Viabilidade e Planejamento Inicial
 
-
 **Estado atual da articulação:**  
 A escola em que foi proposta a ideia da Oficina foi aceita e passa por processo de adequação de dias e horários para aplicação do projeto.
 
@@ -129,6 +128,44 @@ Projetor com defeito para apresentar os slides e o Kahoot; queda da internet par
 ## Resultados Esperados
 
 Espera-se que os alunos interajam e se envolvam na temática proposta, de modo a vivenciar a dinâmica das atividades que trazem como teor as tecnologias do futuro, como é a Inteligência Artificial. Ademais, que os alunos possam realmente aprender e assimilar as informações e conhecimentos discutidos, aplicando o pensamento crítico e o trabalho em equipe para o processo de ML.
+
+## Primeira Aplicação — Registro e Análise
+
+### Contexto da Aplicação
+
+- **Data ou período:** 22/10
+- **Local/contexto:** Escola Estadual Jornalista Roberto Marinho
+- **Público atendido:** Alunos do 9º ano
+- **Número aproximado de participantes:** 26 alunos
+- **Duração efetiva:** aproximadamente 2 horas e 15 minutos
+
+### O que Aconteceu e o que Aprendemos
+
+Nós apresentamos para os alunos os principais conceitos de Machine Learning em 3 etapas: Apresentação teórica, Kahoot e Atividade prática (campeonato). A maioria dos alunos engajou em todas as 3 etapas, e a turma como um todo demonstrou interesse sobre o tema. Porém, houveram alguns problemas que atrasaram a aplicação, outros que prejudicaram os alunos no campeonato, mas, em geral, tudo ocorreu relativamente bem.
+
+### Evidências e Feedback
+
+Nós não realizamos um formulário para coletar o Feedback dos alunos, então usamos o engajamento do momento como uma evidência. Além disso, também usamos o modelo desenvolvido pelos alunos no campeonato como outra evidência. Segue o link de cada um dos modelos:
+
+- Grupo 1: https://teachablemachine.withgoogle.com/models/UjulFO98g/
+- Grupo 2: https://teachablemachine.withgoogle.com/models/pzCrqyqKn/
+- Grupo 3: https://teachablemachine.withgoogle.com/models/kHAOmkjtu/
+- Grupo 4: https://teachablemachine.withgoogle.com/models/mjXr7Cb8e/
+- Grupo 5: https://teachablemachine.withgoogle.com/models/W0stN75hW/
+
+## Plano de Aprimoramento para a Segunda Aplicação
+
+| Evidência ou dificuldade observada | Ajuste proposto | Resultado esperado |
+| --- | --- | --- |
+| Tempo de aplicação excedeu o esperado | Maior organização dos materiais que vamos utilizar | Diminuição do tempo para o algo mais próximo do esperado (2 horas) |
+| Divisão irregular dos grupos | Realizar um sorteio dos integrantes para os grupos | Os grupos terão o mesmo número de integrantes e não haverá uma distribuição por preferências entre alunos |
+| Pouca gerenciamento dos grupos durante as atividades |  Buscar uma organização para que cada um fique responsável por um acompanhamento mais individualizado de um número definido de grupos (2 no máximo) | ão haverá tantos problemas com envios, nomes escritos errados, e erros de manipulação dos programas utilizados na atividade por parte dos alunos |
+
+### Preparação da Segunda Aplicação
+
+- **Situação da segunda aplicação:** Vamos para outra escola para realizar a segunda aplicação. Ainda não temos um dia previsto mas já estamos preparando novos materiais que irão ajudar os alunos e um formulário para ter uma forma mais clara de Feedback.
+- **Pendências prioritárias:** Falta confirmar a escola e o dia que iremos realizar a aplicação, e terminar os novos materiais que utilizaremos
+- **Como verificaremos as melhorias:** Será feita uma avaliação qualitativa para verificar se os problemas da primeira aplicação foram solucionados, e vamos utilizar o formulário para coletar o Feedback dos alunos
 
 ## Referências
 
