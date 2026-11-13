@@ -41,15 +41,15 @@ Desenvolver o senso crítico e a desconfiança dos participantes ao navegar na i
 
 ## Concepção da Experiência
 
-A oficina se iniciará após a entrega dos formulários aos participantes. Os primeiros 15 minutos da atividade serão dedicados ao preenchimento do formulário pelos participantes, cujas perguntas abordam comportamentos que garantem a segurança nas redes e têm como objetivo avaliar o conhecimento prévio dos participantes. Os participantes estarão livres para discutir suas respostas.
+A oficina se iniciará após a entrega dos formulários e das canetas aos participantes.
 
-A apresentação em slides será composta por casos reais de golpes digitais (relacionados ao INSS, links falsos de websites, mensagens de Whatsapp direcionadas, etc.) seguidos de passos para reconhecê-los. Assim, busca-se desenvolver os quatro tópicos levantados no questionário de modo que os integrantes da atividade possam compartilhar suas experiências. Ademais, a linguagem e a identidade visual adotadas será inspirada pela cartilha "#Internet com Responsa 60+" de Kelli Angelini et al. [5], ou seja, simples e com elementos culturais do século XX, a fim de suscitar uma reflexão sobre a mudança dos tempos em razão das novas tecnologias.
+A apresentação em slides será composta por casos reais de golpes digitais (relacionados ao INSS, links falsos de websites, mensagens de WhatsApp direcionadas, etc.) seguidos de passos para reconhecê-los. Assim, busca-se desenvolver os quatro tópicos levantados no questionário de modo que os integrantes da atividade possam compartilhar suas experiências.
 
-Ao longo da apresentação, serão abertos intervalos para o preenchimento das questões da cartilhas ligadas ao tópico do momento. As perguntas serão fechadas e exigirão que tomada uma decisão (correta ou errada). Por exemplo, dados os personagens e seus contextos, ela pode indagar sobre qual é a melhor forma de verificar se uma mensagem enviada pelo filho pedindo um empréstimo bancário é verdadeira. Os participantes estarão livres para discutir suas respostas.
+Dedicaremos 10 minutos após a apresentação para o preenchimento das questões do formulário ligados aos tópicos desenvolvidos durante a oficina. As perguntas serão majoritariamente fechadas e exigirão pensamento crítico do participante. Por exemplo, dados os personagens e seus contextos, ela pode indagar sobre qual é a melhor forma de verificar se uma mensagem enviada pelo filho pedindo um empréstimo bancário é verdadeira. Os participantes estarão livres para discutir suas respostas.
 
-Em seguida, serão coletadas as respostas originais e entregue um novo formulário com questões similares (mas não iguais) às do primeiro. Este tem como objetivo captar a mudança de pensamento com relação ao tema abordado, e posteriormente, será usado como métrica de comparação. 
+Em seguida, serão coletadas as respostas originais e entregue um novo formulário de Feedback, a fim de avaliar a execução da atividade, e aprimorar a oficina para uma segunda oferta.
 
-Ao final da atividade, entregaremos três cartilhas do CERT.br (“Golpes: Não se deixe enganar”, “Golpes: Evite fraudes” e “Golpes: Caiu? Veja o que fazer”) a cada participante. Sugestões e questões levantadas deverão ser consideradas para uma próxima realização.
+Por fim, entregaremos três cartilhas do CERT.br (“Golpes: Não se deixe enganar”, “Golpes: Evite fraudes” e “Golpes: Caiu? Veja o que fazer”) a cada participante. Registraremos o momento por fotos. Sugestões e questões levantadas deverão ser consideradas para uma próxima realização.
 
 ## Viabilidade e Planejamento Inicial
 
@@ -76,7 +76,7 @@ Devem ser produzidos previamente:
 
 ### Desafios
 
-Os formulários devem ser legíveis e facilmente preenchíveis. O próprios ministrantes da oficina se responsabilizam a levar um computador extra para o caso de mal funcionamento do presente na sala 221.
+Os formulários devem ser legíveis e facilmente preenchíveis. Os próprios ministrantes da oficina se responsabilizam a levar um computador extra para o caso de mal funcionamento do presente na sala 221. A sala será preparada com uma hora de antecedência a fim de verificar o funcionamento dos aparelhos necessários. Caso haja algum problema, uma nova sala será buscada e, em último caso, levaremos impressões dos slides, para que os participantes ainda possam acompanhar a oficina. Além disso, a apresentação foi estruturada de modo que, em caso de falta de tempo, seja possível cortar assuntos. As pendências incluem: Impressão dos materiais e prática da apresentação.
 
 ## Resultados Esperados
 

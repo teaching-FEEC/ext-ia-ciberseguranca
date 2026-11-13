@@ -46,12 +46,12 @@ Espera-se que as atividades possam levar os alunos para uma reflexão madura qua
 | Etapa | Duração | Atividade | Participação do público | Recursos |
 | --- | ---: | --- | --- | --- |
 | Apresentação da Oficina | 5~min | Os membros da equipe se apresentam e fornecem detalhes do roteiro das atividades | Escuta as propostas | Projetor e internet |
-| Exposição teórica | 10~min | Os slides da mini-aula é apresentado no projetor, e integrantes da oficina fazem uma breve exposição de ML | Pode interagir e perguntar | Projetor, internet |
+| Exposição teórica | 20 ~min | Os slides da mini-aula é apresentado no projetor, e integrantes da oficina fazem uma breve exposição de ML | Pode interagir e perguntar | Projetor, internet |
 | Dinâmica Kahoot | 5~7 min | Um jogo interativo de perguntas e respostas sobre ML | Os alunos acessam QR Code para participar do Kahoot e participa, respondendo as questões sobre ML | Internet, projetor e dispositivos conectados à internet para cada aluno participar |
-| Dinâmica Machine Learning | 20~min | Atividade central de aprendizado de máquinas| Alunos se reunem em grupos para participar da dinâmica | Projetor, laptops com acesso à internet |
+| Dinâmica Machine Learning | 30~min | Atividade central de aprendizado de máquinas| Alunos se reunem em grupos para participar da dinâmica | Projetor, laptops com acesso à internet |
 | Campeonato de ML | 30~min | Atividade central de aprendizado de máquinas| Grupos disputam entre si para treinar o modelo de IA com maior acurácia | Projetor, laptops com acesso à internet |
 
-**Duração total estimada:** 15 a 20 minutos no máximo.
+**Duração total estimada:** 120 minutos.
 
 ## Planejamento da Primeira Aplicação
 
@@ -62,6 +62,10 @@ Espera-se que as atividades possam levar os alunos para uma reflexão madura qua
 **Número estimado de participantes:** 20 a 25 alunos aproximadamente.
 **Período previsto:** a definir
 ## Viabilidade e Planejamento Inicial
+
+
+**Estado atual da articulação:**  
+A escola em que foi proposta a ideia da Oficina foi aceita e passa por processo de adequação de dias e horários para aplicação do projeto.
 
 ### Alternativas e Contigências
 
@@ -75,14 +79,14 @@ Existe também a dificuldade com a mobilidade dos membros da oficina (ou dos alu
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-| `<Entregável>` | `<Tarefa necessária>` | `<Nome(s)>` | `<data>` | `<não iniciada / em andamento / concluída>` |
-| `<Entregável>` | `<Tarefa necessária>` | `<Nome(s)>` | `<data>` | `<não iniciada / em andamento / concluída>` |
-| `<Entregável>` | `<Tarefa necessária>` | `<Nome(s)>` | `<data>` | `<não iniciada / em andamento / concluída>` |
-| `<Entregável>` | `<Tarefa necessária>` | `<Nome(s)>` | `<data>` | `<não iniciada / em andamento / concluída>` |
+| Apresentação | Criação dos Slides | Luis | 14/10/2026 | Concluída |
+| Interação-individual | Criação Kahoot | Simon | 14/10/2026 | Concluída |
+| Ensaio-ML | Testar a dinâmica ML | Toda a equipe | 20/10/2026 | Não iniciada |
+| Ensaio-apresentação | Apresentar com os recursos funcionando | Todos | 20/10/2026 | Não iniciada |
 
 ### Dependências Críticas
 
-A oficina aguarda confirmação de alguma escola para programar uma data fixa para as atividades.
+Realizar ensaios de apresentação e dinâmica ML com os recursos eletrônicos; realizar a impressão 3D de premiação do ML.
 
 ### Testes Necessários
 
@@ -96,13 +100,9 @@ Ademais, é preciso ensaiar as apresentações téoricas e explicativas quanto a
 
 | Objetivo | Indicador / Evidência |
 | --- | --- |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
-
-### Contexto de Realização
-
-A definir(...)
+| Aplicar metodologia de ensino | Alunos possam conhecer os conceitos básicos de ML |
+| Teste de desempenho | Valiar o nível de conhecimento dos alunos depois de apresentado o tema |
+| Aplicar o campenato ML | Alunos colaboram-se em grupo para conquistar o modelo com maior acurácia |
 
 ### Coleta de Evidências e Feedback
 
@@ -122,9 +122,9 @@ Projetor com defeito para apresentar os slides e o Kahoot; queda da internet par
 
 | Risco / Desafio | Possível impacto | Estratégia |
 | --- | --- | --- |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
+| Queda de energia elétrica | Os equipamentos eletrônicos parem de funcionar, comprometendo toda as atividades | Considerando o horário matutino à aplicação das atividades, pode ser feito uma dinâmica física qeu simula um ML |
+| Falta de recursos | A instituição ter problemas técnicos com projetores ou acesso a internet | Recorrer a uma sala de informática |
+| Gerenciamento de tempo e organização com os alunos | Ultrapassar o tempo limite/dificuldade em conter os alunos no fundamental ou reter sua atenção | Ensaiar e apresentar uma dinâmica adequada da apresentação/contar com o apoio do professor em sala de aula |
 
 ## Resultados Esperados
 

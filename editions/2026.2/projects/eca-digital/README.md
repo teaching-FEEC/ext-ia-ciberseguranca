@@ -13,7 +13,7 @@
 | `Guilherme José de Oliveira Almeida` | `281218` | `Engenharia de Computação` |
 ## Proposta
 
->A proposta consiste em uma oficina de 40 minutos para alunos do Ensino Médio, intitulada 'Você Não É um Dado', que articula IA (Machine learning) e Cibersegurança a partir de uma experiência prática e reflexiva. Os participantes vivenciam, na prática, como uma Inteligência Artificial utiliza dados de usuários para direcionar anúncios e criar perfis de consumo, e, em seguida, discutem como esses mesmos dados podem ser usados para propósitos que talvez sejam desconhecidos do cidadão. A oficina utiliza os alunos como asmostra para o teste do modelo programado, tentando fornecer conteudos que lhe são interessantes. O objetivo é desenvolver pensamento crítico, consciência sobre o valor dos dados pessoais e autonomia no ambiente digital, formando jovens concientes acerca de como os dados disponibilizados no ambiente online podem ser usados, a fim de terem autonomia durante a gestão de informações pessoais.
+> A proposta consiste em uma oficina de 45 minutos para alunos do Ensino Médio, que articula IA (Machine learning) e Cibersegurança a partir de uma experiência prática e reflexiva. Os participantes vivenciam, na prática, como uma Inteligência Artificial utiliza dados de usuários para direcionar avaliações de filmes, e, em seguida, discutem como esses mesmos dados podem ser usados para propósitos que talvez sejam desconhecidos do cidadão. A oficina utiliza os alunos como asmostra para o teste do modelo programado, tentando fornecer conteudos que lhe são interessantes. O objetivo é desenvolver pensamento crítico, consciência sobre o valor dos dados pessoais e autonomia no ambiente digital, formando jovens concientes acerca de como os dados disponibilizados no ambiente online podem ser usados, a fim de terem autonomia durante a gestão de informações pessoais. 
 
 ## Problema e Contexto
 
@@ -41,26 +41,17 @@
 
 ## Experiência
 
-> A experiência planejada consiste em uma oficina de 45 minutos, conduzida com o telão como ferramenta central. A atividade começa com uma provocação: 'O que seu feed sabe sobre você?'. Em seguida, os alunos respondem anonimamente a um formulário com 8 perguntas sobre seus interesses, hábitos e consumo (jogo favorito, música, rede social, marca, pesquisas, etc.). O organizador insere os dados em um modelo simples de Machine Learning que classifica automaticamente os alunos em grupos de perfil – por exemplo: 'Gamer', 'Vestibulando', 'Influencer', 'Alternativo'. A partir dessa classificação, o organizador projeta no telão exemplos de anúncios, conteúdos e produtos que seriam direcionados especificamente para cada grupo, mostrando na prática como a IA usa os dados para atrair e influenciar cada perfil. Em seguida, são apresentados diversos anúncios, com anúncios golpistas misturados, e os alunos precisam identificá-los e refletir sobre como esses mesmos dados podem ser usados para o mal – como manipulação, golpes e violações de privacidade. A oficina encerra com uma discussão ética: **`Você é o cliente ou o produto?`**
+> A experiência planejada consiste em uma oficina de 45 minutos, conduzida com o telão como ferramenta central. A atividade começa com uma provocação: “Qual nota você daria para determinado filme?”. Em seguida, os alunos respondem anonimamente a um formulário, avaliando alguns filmes a partir de seus gostos pessoais. Os dados coletados são inseridos em um modelo simples de Machine Learning, que retorna notas prováveis para outros filmes ainda não avaliados por cada aluno, prevendo preferências a partir dos padrões encontrados nas respostas da turma. O organizador projeta no telão algumas dessas previsões e compara com a nota real que o aluno daria, mostrando como o modelo acerta (ou erra) ao “adivinhar” o gosto de alguém só a partir de poucas respostas. A partir disso, é explicado como esse mesmo princípio está por trás das recomendações de plataformas como Netflix, Spotify e YouTube. Na sequência, a discussão se volta para o lado sensível dessa tecnologia: se um sistema consegue prever o que você gosta a partir de poucos dados, essas mesmas informações podem ser usadas para te atingir de forma maliciosa. A oficina se encerra com uma discussão ética, provocada pela pergunta: “Você é o cliente ou o produto?”. O objetivo é levar os alunos a refletirem sobre o valor dos próprios dados, os limites entre personalização e exposição, e a importância de uma postura crítica diante das tecnologias que preveem e moldam seus gostos.
 
 ### Roteiro da Atividade
 
-> Transforme a experiência proposta em uma sequência que possa ser
-> efetivamente executada.
->
-> Os tempos ainda são estimativas e poderão ser ajustados após testes e
-> após a primeira aplicação.
->
-> Considere a experiência do participante desde sua chegada até o
-> encerramento da atividade.
-
-| Etapa       | Duração  | Atividade       | Participação do público | Recursos    |
+ Etapa       | Duração  | Atividade       | Participação do público | Recursos    |
 | --- | --- | --- | --- | --- |
-| Recepção e Provocação | 5 min     | O organizador recebe os alunos e projeta a pergunta: *"O que seu feed sabe sobre você?"*. Em seguida, apresenta dados sobre o uso de redes sociais e coleta de dados por IA | Os alunos refletem o questionamento: *"O que aparece na sua timeline?"* | Telão, slides, computador  |
-| Coleta de Dados  | 5 min     | Explicação de que os dados preenchidos serão usados para treinar um modelo de IA que se baseia em seus hábitos e consumos.  | Os alunos respondem anonimamente ao formulário (pelo celular ou papel).  | Formulário (Google Forms ou impressão), celulares ou papel e caneta |
-| Classificação | 15 min     | O organizador insere os dados no modelo de Aprendizado de Maquina que categoriza o usuário conforme grupos de perfis.  | Os alunos observam os perfis que o modelo pode identificar na turma   | Telão, computador, planilha      |
-| Debate Ético     | 7 min     | A equipe conduz a discussão: "Como seus dados podem ser usados de maneira não adequada?" | Os alunos participam do debate, expõem opiniões, discordam e refletem sobre ética, privacidade e proteção.   | Telão, slides com perguntas, espaço para debate.   |
-| Encerramento | 5 min     | A equipe apresenta a idéia de Aprendizado de máquina mais próximo da realidade dos alunos citando exemplos de ferramentas consolidadas   | Os alunos recebem o material e compartilham uma impressão final | Telão, celular ou computadores caso necessário     |
+| Recepção e Provocação | 5 min     | O organizador recebe os alunos e apresenta a eles um formulário com a seguinte pergunta: *"Qual nota você daria para determinado filme?"*. Em seguida, os alunos respondem anonimamente o formulário avaliando alguns filmes com base em seus gostos pessoais. | Os alunos refletem o questionamento: *"Quais filmes eu gostaria com base nos minhas avaliações?"* | Formulário (Google Forms ou impressão), celulares ou papel e caneta |
+| Coleta de Dados  | 5 min     | Explicação de que os dados coletados serão inseridos num modelo simples de Machine Learning que retorna notas prováveis para outros filmes ainda não avaliados por cada aluno, prevendo preferências a partir dos padrões encontrados nas respostas da turma. | Telão, slides e computador |
+| Classificação | 15 min     | O organizador projeta no telão algumas dessas previsões e compara com a nota  real que o aluno daria, mostrando como o modelo acerta (ou erra) ao "adivinhar" o gosto de alguém só a partir de poucas respostas. | A partir disso, é explicado como esse mesmo princípio está por trás das recomendações de plataformas como Netflix, Spotify e Youtube. | Telão, computador, planilha |
+| Debate Ético     | 7 min     | Na sequência, a equipe se direciona para o lado sensível dessa tecnologia, conduzindo a discussão: "Como seus dados podem ser usados de maneira não adequada?" | Os alunos participam do debate, expõem opiniões, discordam e refletem sobre ética, privacidade e proteção.   | Telão, slides com perguntas, espaço para debate.   |
+| Encerramento | 5 min     | A oficina se encerra com uma discussão ética, provocada pela pergunta: “Você é o cliente ou o produto?”. O objetivo é levar os alunos a refletirem sobre o valor dos próprios dados, os limites entre personalização e exposição, e a importância de uma postura crítica diante das tecnologias que preveem e moldam seus gostos. | Telão     |
 
 **Duração total estimada:** 45 minutos.
 
@@ -72,8 +63,8 @@
     `Alunos de 16 e 17 anos, matriculados no Ensino Médio.`
 -   **Contexto de aplicação:**
     `Escola de Ensino Médio (a instituição parceira ainda está em negociação). A atividade será realizada em sala de aula ou auditório, com o telão como ferramenta central.`
--   **Número estimado de participantes:** `120 alunos (3 turmas)`
--   **Período previsto:** `15 a 22 de Outubro`
+-   **Número estimado de participantes:** `80 alunos (2 turmas)
+-   **Período previsto:** `22 de Outubro`
 
 **Estado atual da articulação:**\
 `Estamos atualmente conversando com um colégio de São Paulo para ver se é possível viabilizar, além de outras escolas de ensino fundamental de Campinas e Barão Geraldo`
@@ -144,27 +135,13 @@
 
 ### Indicadores de Sucesso
 
-> Retome os objetivos do projeto e transforme os resultados esperados da
-> E1 em evidências mais concretas.
->
-> Para cada objetivo relevante, pergunte:
->
-> **O que poderíamos observar se esse objetivo estivesse sendo
-> alcançado?**
->
-> Procure evitar indicadores baseados exclusivamente em satisfação (“os
-> participantes gostaram”). Dependendo do objetivo, pode ser mais
-> interessante observar decisões, respostas, estratégias, explicações,
-> comportamentos ou produções dos participantes.
-
 | Objetivo                                                                                                                           | Indicador / Evidência                                                                                                                                                                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Identificar como algoritmos de Machine Learning utilizam dados pessoais para direcionar anúncios e criar perfis de consumo         | Os alunos conseguem explicar, com suas próprias palavras, como a IA chegou à classificação de cada perfil. Durante a etapa de classificação, apontam quais dados foram usados para criar cada grupo.                                                        |
-| Reconhecer os riscos do uso indevido de dados pessoais, incluindo manipulação, golpes e violações de privacidade                   | Os alunos identificam corretamente quais anúncios são golpes e quais são reais, justificando suas escolhas. Durante o debate, citam exemplos de como dados podem ser usados para o mal.                                                                     |
+| Identificar como algoritmos de Machine Learning utilizam dados pessoais para direcionar avaliações de consumo         | Os alunos conseguem explicar, com suas próprias palavras, como a IA chegou à prováveis avaliações de cada aluno. Durante a etapa de classificação, apontam quais dados foram usados para criar cada avaliação.                                                        |
+| Reconhecer os riscos do uso indevido de dados pessoais, incluindo manipulação, golpes e violações de privacidade                   | Os alunos identificam corretamente quais avaliações podem estar sendo induzidas para te atingir de forma maliciosa, justificando suas escolhas. Durante o debate, citam exemplos de como dados podem ser usados para o mal.                                                                     |
 | Desenvolver atitudes críticas e autônomas de proteção no ambiente digital, refletindo sobre ética, privacidade e cidadania digital | Os alunos propõem formas de se proteger durante o debate. Questionam o que consomem e por que determinados conteúdos aparecem para eles. Participam da discussão ética com argumentos próprios, demonstrando reflexão sobre responsabilidade e privacidade. |
 | Compreender que a IA não é neutra e aprende com os dados que recebe                                                                | Os alunos explicam que a IA pode ser usada tanto para o bem quanto para o mal. Reconhecem que os golpes recomendados pelo chatbot refletem os dados que ele aprendeu.                                                                                       |
-| Perceber que seus próprios dados alimentam os algoritmos                                                                           | Os alunos relacionam suas respostas do formulário com os perfis criados pela IA. Demonstram surpresa ou reflexão ao perceberem que suas escolhas geraram uma classificação.                                                                                 |
-
+| Perceber que seus próprios dados alimentam os algoritmos                                                                           | Os alunos relacionam suas respostas do formulário com as avaliações "adivinhadas" pela IA. Demonstram surpresa ou reflexão ao perceberem que suas escolhas geraram uma provável avaliação par outros filmes que talvez tenham nunca consumido.
 ### Coleta de Evidências e Feedback
 
 `Coletaremos evidências no começo da oficina e ao decorrer dela analizaremos o comportamento e tomada de decisão dos alunos, e após a aplicação da oficina pediremos feedbacks dos participantes.`
@@ -174,9 +151,11 @@
 | Risco / Desafio      | Possível impacto     | Estratégia           |
 | --- | --- | --- |
 | Falha na internet ou no projetor| A oficina depende do telão para exibir formulário, e a dinâmica da oficina | Ter plano B com todos os materiais (formulário, oficina, quiz). Testar equipamentos e softwares antes da aplicação.      |
-| Falta de engajamento ou resistência dos alunos | Alunos de 16-17 anos podem considerar a atividade "infantilizada", teórica demais, ou não se envolverem no debate.| Começar com uma nova provocação forte e realista ("O que o seu feed sabe sobre você?"). Usar exemplos reais, e linguagem adequada à faixa etária. Evitar tom professoral     |
+| Falta de engajamento ou resistência dos alunos | Alunos de 16-17 anos podem considerar a atividade "infantilizada", teórica demais, ou não se envolverem no debate.| Começar com uma nova provocação forte e realista ("Qual nota você daria para determinado filme?"). Usar exemplos reais, e linguagem adequada à faixa etária. Evitar tom professoral     |
 | Problemas com o modelo ou formulário   | Se o modelo não funcionar, ou o formulário não funcionar, perde o elemento prático de uma oficina     | Testar tudo antes. Ter materiais salvos. Ter versão impressa do formulário como alternativa.  |
 | Tempo insuficiente para todas as etapas  | As etapas podem se estender, comprometendo o encerramento e a coleta de dados.   | Fazer ensaio cronometrado antes da aplicação. Ter um cronômetro visível. Se necessário, encurtar etapa da oficina, mantendo o debate e o essencial.|
+
+
 
 ## Referências
 
@@ -185,3 +164,5 @@
 - `COUGO, Cecília Dutra Garcia. Educação e cibersegurança: práticas pedagógicas para a formação de alunos conscientes no uso da internet. 2025. Trabalho de Conclusão de Curso (Licenciatura em Computação e Robótica Educativa) – Universidade Federal do Rio Grande do Sul, Campus Litoral Norte, 2025. Disponível em: https://lume.ufrgs.br/handle/10183/290613`.
 
 -   `NG, Andrew. Unsupervised Learning, Recommenders, Popularity Matching. Machine Learning Specialization. DeepLearning.AI; Stanford University. Disponível na plataforma Coursera. Acesso em: set. 2026.`
+  
+-   `SABIÁ: inteligência artificial à brasileira. Apresentação: Bruno Franchi, Luana Vicentin e Amira Dergham. Campinas: BI0S (Brazilian Institute of Data Science)/Unicamp, 2024-. Podcast. Disponível em: Spotify. Acesso em: 16 out. 2026.`

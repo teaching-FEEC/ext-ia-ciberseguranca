@@ -46,13 +46,13 @@ Ajudar o público 60+ a evitar cair em golpes, desinformações e situações de
 ## Experiência
 
 A experiência será prática e focada na resolução de problemas em pequenos grupos. Em vez de uma palestra tradicional, os participantes analisarão simulações de golpes, mensagens de texto fraudulentas e áudios gerados por IA, e tomarão decisões de como reagir a cada ameaça. 
-Os participantes serão divididos em pequenos grupos. Cada grupo contará com um integrante da equipe atuando como facilitador fixo, garantindo suporte integral, personalizado e sem julgamentos. Esse facilitador dará apoio técnico contínuo para ajudar no manuseio dos celulares e no acesso ao Kahoot, garantindo que a barreira tecnológica não atrapalhe a experiência.
+Os participantes serão divididos em pequenos grupos. Cada grupo contará com um integrante da equipe atuando como facilitador fixo, garantindo suporte integral, personalizado e sem julgamentos. Esse facilitador dará apoio contínuo para ajudar na leitura e no preenchimento do quiz impresso, garantindo que qualquer barreira, como dificuldade visual ou de leitura, não atrapalhe a experiência. 
 
 ## Concepção da Experiência
 
 A atividade será conduzida de forma dinâmico-prática, utilizando apresentações em slides, vídeos curtos e recursos auditivos que simulam ligações fraudulentas e mensagens suspeitas. Os participantes serão introduzidos ao tema por meio de histórias e cenários comuns da realidade do público, como o golpe do sequestro por telefone, pedidos de depósito por número clonado e criação de *fake news* por IA.
 
-Serão alternados momentos de instrução direta com momentos de resolução autônoma, nos quais os participantes terão liberdade para solucionar desafios práticos e participar de dinâmicas interativas (como quizzes no Kahoot). Os erros cometidos durante os testes serão aproveitados pedagogicamente para indicar caminhos corretos, estimulando a reflexão crítica, o questionamento e a troca de experiências em pequenos grupos.
+Serão alternados momentos de instrução direta com momentos de resolução autônoma, nos quais os participantes terão liberdade para solucionar desafios práticos e participar de dinâmicas interativas (como quizzes). Os erros cometidos durante os testes serão aproveitados pedagogicamente para indicar caminhos corretos, estimulando a reflexão crítica, o questionamento e a troca de experiências em pequenos grupos.
 
 ### Roteiro da Atividade
 
@@ -60,7 +60,7 @@ Serão alternados momentos de instrução direta com momentos de resolução aut
 | --- | ---: | --- | --- | --- |
 | Apresentação inicial do tema | 15 min | O que são os golpes, como eles funcionam, como são aplicados | Acompanhamento ativo e escuta | Projetor e telão |
 | Aplicação das simulações | 20 min | Demonstração através de simulações com IA de como ela é utilizada para dar credibilidade aos golpes (voz e imagens feitas por IA para se passar por um conhecido) | Análise dos cenários e discussão nos grupos sobre as ações a tomar | Notebook, sistema de som e projetor |
-| Aplicação do quiz | 15 min | Será aplicado um quiz sobre prevenção de golpes e identificação de fraudes | Uso dos celulares para responder às questões interativas em grupo | Kahoot e smartphones |
+| Aplicação do quiz | 15 min | Será aplicado um quiz sobre prevenção de golpes e identificação de fraudes | Resolução do quiz impresso individualmente ou com apoio do facilitador | Cópias do quiz impresso |
 | Finalização e abertura para dúvidas | 10 min | Roda de conversa e esclarecimento de configurações de segurança | Compartilhamento de relatos pessoais e dúvidas | Materiais impressos de consulta |
 
 **Duração total estimada:** 60 min
@@ -82,70 +82,62 @@ Serão alternados momentos de instrução direta com momentos de resolução aut
   * **Cenário 3 (Promoção Falsa):** Exibição de um link fraudulento com promessas exageradas.
   * *Abordagem:* Em cada cenário, a equipe fará pausas e perguntará ao grupo: *"O que vocês fariam nesta situação?"*, validando as respostas, e ensinando as medidas de verificação de itens suspeitos.
 
-* **00:35 - 00:50 | Jogo Interativo (Kahoot!)**
+* **00:35 - 00:50 | Dinâmica do Quiz Impresso**
   * Aplicação de um quiz rápido com perguntas baseadas nas simulações anteriores.
-  * **Apoio prático:** Cada membro da equipe acompanhará um pequeno grupo de idosos, auxiliando-os a acessar a sala do Kahoot, escolher seus apelidos e selecionar as cores correspondentes às respostas.
+  * **Apoio prático:** Cada membro da equipe acompanhará um pequeno grupo de idosos, auxiliando-os na leitura das questões e no preenchimento das respostas nas folhas impressas.
   * Aproveitamento pedagógico dos erros para reforçar conceitos importantes.
 
 * **00:50 - 01:00 | Roda de Conversa e Encerramento**
-  * Espaço livre para os idosos compartilharem experiências pessoais.
-  * Resolução de dúvidas finais sobre configurações de segurança nos celulares.
-  * Agradecimento e entrega de um material impresso de consulta.
+ * Espaço livre para os idosos compartilharem experiências pessoais. Reflexão final focada no desenvolvimento do senso crítico e intuição.
+ * Agradecimento e entrega dos fascículos impressos de consulta (Fascículos do CERT.br).
 
 ### Articulação para a Primeira Aplicação
 
-- **Público previsto:** 60+
-- **Contexto de aplicação:** Grupos de convivência de idosos (artesanato, literatura e centros comunitários).
-- **Número estimado de participantes:** 25 pessoas
-- **Período previsto:** 15/10
+- **Público confirmado:** 60+ (Turma de Literatura do Complexo Educacional e Cultural Argos).
+- **Contexto de aplicação:** Grupo fechado e com vínculo pré-existente, o que facilitará a interação e o acolhimento durante as dinâmicas.
+- **Número estimado de participantes:** Cerca de 10 pessoas.
+- **Data confirmada:** 20/10/2026.
 
-**Estado atual da articulação:**  
-A equipe está na fase inicial de mapeamento e contato com coordenadores de grupos de convivência de idosos, como grupos de artesanato, literatura e centros comunitários, na região de Campinas e Jundiaí. O objetivo atual é apresentar a proposta e agendar a primeira aplicação presencial, adequando a logística do espaço ao formato da oficina.
+**Estado atual da articulação :**  
+O projeto está consolidado e totalmente encaminhado. A visita técnica ao local já foi realizada com uma semana de antecedência, ocasião em que a equipe conheceu a sala e conversou previamente com a turma. A data, o público e a infraestrutura estão confirmados. Os materiais teóricos, as simulações práticas, incluindo áudios gerados via ElevenLabs, e o quiz já estão praticamente prontos, apenas faltando ajustes finais.
 
 ### Alternativas e Contingências
 
 A principal contingência do projeto envolve a possível ausência ou instabilidade de conexão à internet no local da aplicação. Para evitar que a oficina seja cancelada ou prejudicada, a equipe manterá uma versão estruturada para uso 100% offline:
 
 * **Materiais Locais:** Toda a apresentação, as simulações de mensagens e os áudios gerados por IA estarão baixados e salvos diretamente no notebook da equipe (em formatos como PDF e arquivos de áudio locais), dispensando o uso de nuvem ou streaming.
-* **Kahoot Adaptado (Offline):** Caso não seja possível conectar os smartphones à plataforma interativa, as perguntas do quiz serão exibidas diretamente nos slides, mantendo o padrão visual das cores para cada alternativa. Os idosos poderão discutir a resposta com seu grupo e informá-la verbalmente ao facilitador, mantendo a interação lúdica sem depender de conectividade.
+* **Infraestrutura Audiovisual (Projetor/Som):** Conforme mapeado na visita técnica prévia, a sala não possui projetor fixo. Portanto, a equipe levará equipamento próprio e caixa de som externa para garantir a imersão nos áudios clonados e a visibilidade das simulações.
 
 ## Plano de Desenvolvimento
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-| Apresentação PPT | Elaboração da apresentação de slides sobre o tema | Verena Branco | 08/10 | Em andamento |
-| Kahoot | Criação das perguntas, cenários e configuração visual | Mariana e Pedro | 09/10 | Não iniciada |
-| Material em IA | Produzir links, áudios e imagens falsas simulando golpes | Erik e Bruno | 09/10 | Não iniciada |
-| Material Impresso | Diagramação de fascículos de consulta rápida | Equipe completa | 10/10 | Não iniciada |
+| Apresentação PPT | Elaboração da apresentação de slides sobre o tema | Verena Branco | 08/10 | Em ajustes finais |
+| Quiz | Criação das perguntas, cenários e configuração visual | Mariana e Pedro | 09/10 | Em ajustes finais |
+| Material em IA | Produzir links, áudios e imagens falsas simulando golpes | Erik e Bruno | 09/10 | Em ajustes finais |
+| Material Impresso | Fascículos de consulta rápida | Equipe completa | 10/10 | Finalizado |
 
-### Dependências Críticas
-
-- Confirmação da data e espaço físico com o coordenador do grupo de idosos.
-- Confirmação prévia sobre a infraestrutura do local (disponibilidade de rede Wi-Fi, tomadas e sistema de projeção/som).
-
-## Materiais e Recursos
-
-### Materiais a Desenvolver
-
-- Questionário visual no Kahoot.
-- Apresentação no PowerPoint / Google Slides.
-- Fascículos impressos de consulta (Guia de Bolso).
+Nota: Os links diretos para os arquivos finais (Apresentação, Quiz e Áudios) não foram incluídos nesta entrega, pois os materiais estão passando por revisão e ajustes finais antes da aplicação do dia 20/10.
 
 ### Recursos para a Aplicação
 
-- Projetor multimídia e telão.
+- Projetor.
 - Notebook.
-- Extensões elétricas.
+- Extensões.
 - Cabos de carregamento de celular e adaptadores.
 - Cabo HDMI.
 - Wi-Fi ou Acesso a dados móveis (roteador 4G/5G da equipe).
+- Cópias impressas do quiz
 
-### Testes Necessários
+### O que falta ser concluído antes da aplicação
 
-* Configurar e testar o Kahoot removendo os limites de tempo ou estendendo-os significativamente, garantindo que a dinâmica foque na discussão em grupo e na reflexão, sem gerar ansiedade ou penalizar o ritmo do público 60+.
-* Testar a qualidade, clareza e o volume dos áudios através das caixas de som ou do notebook em um ambiente amplo, para garantir que todos os idosos consigam escutar sem dificuldade.
-* Testar a execução do plano de contingência (modo offline), rodando a apresentação, as imagens e os áudios diretamente do armazenamento local do notebook, sem qualquer conexão com o Wi-Fi.
-* Testar a duração das dinâmicas por meio de um ensaio cronometrado da equipe, garantindo que o roteiro teórico e prático caiba no tempo estipulado.
+Como o contato com a coordenação e a visita técnica ao espaço já foram realizados com sucesso, restam apenas alinhamentos internos da equipe:
+- **Teste de Hardware Integrado:** Testar a qualidade e o volume dos áudios de simulação pareando o notebook à caixa de som externa da equipe, garantindo que todo o grupo consiga escutar perfeitamente em um ambiente amplo.
+- **Ensaio de Contingência:** Rodar a apresentação, as imagens e os áudios diretamente do armazenamento local do notebook em um ensaio geral da equipe, simulando a condução da dinâmica.
+- **Finalização do Quiz:** Concluir as perguntas e formatação visual.
+- **Finalização dos Slides:** Últimos ajustes visuais na apresentação.
+- **Impressão do Quiz:** Imprimir versão final do quiz.
+
 
 ## Avaliação
 
@@ -153,38 +145,38 @@ A principal contingência do projeto envolve a possível ausência ou instabilid
 
 | Objetivo | Indicador / Evidência |
 | --- | --- |
-| Entender os diferentes tipos de golpe que são aplicados | Acerto igual ou superior a 70% nas questões do Kahoot relacionadas à identificação de cenários comuns. |
+| Entender os diferentes tipos de golpe que são aplicados | Acerto igual ou superior a 70% nas questões do quiz relacionadas à identificação de cenários comuns. |
 | Ter ciência de como a IA está sendo utilizada para criar materiais falsos | Durante a audição da simulação, os participantes demonstrarem desconfiança ativa ou relatarem verbalmente a suspeita de que a voz pode ser clonada. |
 | Saber aplicar medidas preventivas e de verificação diante de mensagens suspeitas | Os idosos conseguirem formular e relatar as atitudes seguras adequadas durante os estudos de caso. |
 
 ### Coleta de Evidências e Feedback
 
-Através do Kahoot teremos uma análise quantitativa do entendimento do grupo sobre o tema. Além disso, faremos uma coleta qualitativa de evidências através da observação das reações durante os cenários práticos e no momento final, que será aberto para dúvidas e feedbacks diretos dos idosos e coordenadores do espaço.
+Através do quiz teremos uma análise quantitativa do entendimento do grupo sobre o tema. Além disso, faremos uma coleta qualitativa de evidências através da observação das reações durante os cenários práticos e no momento final, que será aberto para dúvidas e feedbacks diretos dos idosos e coordenadores do espaço.
 
 ## Riscos e Desafios
 
 | Risco / Desafio | Possível impacto | Estratégia |
 | --- | --- | --- |
-| Problemas de conexão Wi-Fi | Falta de acesso ao Kahoot e impossibilidade de realizar a dinâmica digital. | Verificar com antecedência a disponibilidade da rede no local. Em caso de imprevistos, utilizar os dados móveis roteados pela equipe ou migrar para o plano offline. |
-| Problemas com o projetor | Impossibilidade de exibir a apresentação visual, as imagens dos golpes e o quiz. | Levar um monitor extra se viável, agrupar os participantes em volta do notebook da equipe, ou guiar a dinâmica inteiramente baseada nos áudios e materiais impressos. |
+| Problemas com o projetor | Impossibilidade de exibir a apresentação visual, as imagens dos golpes e os exemplos de links. | Levar um monitor extra se viável, agrupar os participantes em volta do notebook da equipe, ou guiar a dinâmica inteiramente baseada nos áudios e nas folhas impressas. |
+| Dificuldades de leitura ou visão | Participantes podem não conseguir ler as opções do quiz ou a apresentação. | A equipe atuará proativamente auxiliando na leitura em voz alta e no preenchimento das folhas impressas em cada grupo. |
 
 ## Viabilidade e Planejamento Inicial
 
 ### Contexto de Realização
 
-A atividade poderá ser realizada em uma sala de aula ou auditório comunitário que permita a organização dos participantes em pequenos grupos de discussão.
+A atividade será realizada no espaço do Complexo Educacional e Cultural Argos com a Turma de Literatura, aproveitando a dinâmica de organização em pequenos grupos de discussão já natural a eles.
 
 ### Recursos Necessários
 
-Projetor multimídia, lousa, aparelhos eletrônicos (computadores ou celulares) com acesso à internet e ferramentas de interação/IA.
+Projetor multimídia, notebook com a apresentação e áudios salvos localmente, caixa de som externa, cópias impressas do quiz, canetas para os participantes e os fascículos impressos de consulta (CERT.br).
 
 ### Desenvolvimento Prévio
 
-Elaboração de apresentações em slides, criação do quiz interativo (Kahoot) e elaboração de roteiros com cenários e áudios/mensagens para as dinâmicas práticas.
+Elaboração de apresentações em slides, diagramação do quiz impresso e elaboração de roteiros com cenários e áudios/mensagens para as dinâmicas práticas.
 
 ### Desafios
 
-Lidar com a heterogeneidade do público quanto ao domínio de smartphones, garantir conexão estável à internet no local e manter uma comunicação clara e livre de jargões técnicos complexos.
+Manter uma comunicação clara e livre de jargões técnicos complexos e garantir que a dinâmica impressa seja acessível a todos, prestando assistência aos que tiverem dificuldades de visão ou leitura.
 
 ## Resultados Esperados
 
@@ -194,5 +186,7 @@ Espera-se aumentar a conscientização dos participantes quanto aos riscos do am
 
 * Fundação Seade - Pesquisa e dados estatísticos sobre o público idoso no Estado de São Paulo.
 * Tribunal de Contas da União (TCU) - Relatório de Auditoria sobre golpes digitais contra idosos.
-* CERT.br - Cartilha de Segurança para a Internet (Fascículo de Golpes na Internet).
+- CERT.br - Fascículos da Cartilha de Segurança para a Internet (Materiais adotados para distribuição: "Golpes: Não se Deixe Enganar", "Evite Fraudes" e "Caiu? Veja o que Fazer").
 * FEBRABAN - Federação Brasileira de Bancos (Materiais de conscientização sobre fraudes e segurança digital).
+
+

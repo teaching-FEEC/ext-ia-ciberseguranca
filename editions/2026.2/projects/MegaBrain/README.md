@@ -11,7 +11,8 @@
 
 ## Proposta
 
-A atividade proposta se concentra em IA e será apresentada para estudantes do ensino médio. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funcionam as IAs e relacioná-las com os vestibulares, tendo em vista a sua elevada importância para esses estudantes. Após essa explicação e apresentação será proposto uma atividade (Explicar melhor o que será essa atividade), que irá focar em apresentar as grandes diferenças entre um uso efetivo das IAs e um pior uso dessas inteligências (Debater um pouco mais.
+A atividade proposta se concentra em IA e será apresentada para estudantes do ensino médio. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funcionam as IAs e relacioná-las com os vestibulares, tendo em vista a sua elevada importância para esses estudantes. Após essa explicação e apresentação será proposto uma atividade, que irá focar em apresentar as grandes diferenças entre um uso efetivo das IAs e um pior uso dessas inteligências. A atividade consistirá basicamente em pedir para que os alunos criem, com auxílio de alguma IA, um site que o auxiliem nos estudos para o vestibular, contendo simulados e outras ferramentas úteis. 
+
 
 ## Problema e Contexto
 
@@ -43,36 +44,52 @@ Planejamos uma dinâmica onde os alunos terão que construir alguma coisa utiliz
 
 | Etapa | Duração | Atividade | Participação do público | Recursos |
 | --- | ---: | --- | --- | --- |
-| Apresentação | 15 minutos | Apresentar slides sobre o assunto | Escutar com atenção | PowerPoint |
-| Dinâmica |  |  |  |  |
-| Avaliação | 5 minutos |  | Responder o formulário | Forms do Google |
+| Apresentação | 20 minutos | Apresentar slides sobre o assunto | Escutar com atenção | PowerPoint |
+| Dinâmica | 30 minutos | Desenvolver com eles sites para o estudo dos vestibulares | Uso das IAs para o desenvolvimento de sites | Computador e internet |
+| Avaliação | 10 minutos | Entrega do formulário para autoavaliação | Responder o formulário | Forms do Google |
 
 **Duração total estimada:** 1 hora
+## Dinâmica
+- Dividir os alunos em grupos
+- Encontrar erros nas resoluções da IA (Durante a apresentação) 
+- Apresentar diferentes prompts e questioná-los sobre qual é mais efetivo e colocar eles para testarem na prática.
+- A principal atividade será focada no desenvolvimento de um site que possa auxiliá-los nos estudos do vestibular. 
+- A votação do melhor site será realizada pelos próprios alunos participantes.
+- Critério de avaliação:
+	- Simulado funciona de maneira efetiva (Não cicla as mesmas questões)
+	- Estética do site
+	- Se possui ou não revisão de matérias
+	- Se a questão corrigida está corrigida de maneira correta
+	- Verificação de dados corretos ou não
+	- Avaliar a criatividade
+	- Não focar somente no vestibular, mas em algo que envolve aprendizado
+- Prêmio: Troféu impresso por uma impressora 3d e doces.
+
 
 ## Planejamento da Primeira Aplicação
 
 ### Articulação para a Primeira Aplicação
 
-- **Público previsto:** 1° e 2° anos do ensino médio
+- **Público previsto:** 2° e 3° anos do ensino médio.
 - **Contexto de aplicação:** Escolas do ensino médio (SESI, SENAI)
-- **Número estimado de participantes:** 40 por turma (No máximo)
-- **Período previsto:** Terceira semana de outubro (Conforme disponibilidade da escola)
+- **Número estimado de participantes:** 32 por turma, 3 turmas no total.
+- **Período previsto:** 23/10 às 13:30 até 16:30
   
 **Estado atual da articulação:**  
-Estamos lapidando a nossa dinâmica e definindo datas e horários.
+Completo.
 
 ### Alternativas e Contingências
 
-Temos como alternativa outros contatos de escola, no caso de não conseguirmos fazer na inicial. Caso não tenha computadores ou não seja possível utilizar o laboratório de informática da escola, vamos levar os chromebooks (um por grupo) para que eles façam a dinâmica, se isso também não for possível, vamos adaptar a dinâmica para que seja possível realizá-la com um ou dois computadores no nosso grupo.
+Temos como alternativa outros contatos de escola, no caso de não conseguirmos fazer na inicial. Caso não tenha computadores ou não seja possível utilizar o laboratório de informática da escola, vamos levar os chromebooks (um por grupo) para que eles façam a dinâmica, se isso também não for possível, vamos adaptar a dinâmica para que seja possível realizá-la com um ou dois computadores no nosso grupo. 
 
 ## Plano de Desenvolvimento
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-| Apresentação | Powerpoint | Gabriel | 2/10 | Não iniciada |
-| Questionário | Forms | Alexandre | 2/10 | Não iniciada |
-| Definição da data e do número de pessoas | Contato com a escola | João Vitor | 8/10 | Não iniciada |
-| Dinâmica | Criação dos problemas de prompt | Rafel | 8/10 | Não iniciada |
+| Apresentação | Powerpoint | Gabriel | 20/10 | Finalizada (https://canva.link/w1yrfq602zr27y2) |
+| Questionário | Forms | Alexandre | 2/10 | Finalizada (https://docs.google.com/forms/d/1HHTFCWlt8LJ_0RReB8EH0XrILE7WzRGQGrsBViEdiEE/edit) |
+| Definição da data e do número de pessoas | Contato com a escola | João Vitor | 8/10 | Finalizada |
+| Dinâmica | Criação dos sites | Rafel | 8/10 | Finalizada |
 
 ### Dependências Críticas
 
@@ -84,14 +101,12 @@ Temos como alternativa outros contatos de escola, no caso de não conseguirmos f
 
 ### Materiais a Desenvolver
 
-- Powerpoint de apresentação
-- Questionário de satisfação
-- Problemas de prompt da dinâmica
+- Troféus.
   
 ### Recursos para a Aplicação
 
 - Computadores com conexão a internet e web browsers
-- Premiação para os grupos (doces)
+- Premiação para os grupos (troféus e doces)
 
 ### Testes Necessários
 
