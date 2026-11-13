@@ -5,21 +5,24 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import dash_bootstrap_components as dbc
+import os
 
 def parse_to_array(x):
     return np.array(x.split('|'), dtype='str')
 
-dhead = pd.read_csv('editions/2026.2/projects/a-nova-rua/aplicacao-1/respostas.csv', nrows=1)
+path_to_csv = os.path.dirname(os.path.abspath(__file__)) + '/respostas.csv'
+
+dhead = pd.read_csv(path_to_csv, nrows=1)
 keys=dhead.to_dict('records')[0].keys()
 converters = {key: parse_to_array for key in keys}
 
 # Incorporate data
-df = pd.read_csv('editions/2026.2/projects/a-nova-rua/aplicacao-1/respostas.csv', converters=converters)
+df = pd.read_csv(path_to_csv, converters=converters)
 
 correct_answers = {
     'Q1': 'D',
     'Q2': '1',
-    'Q3': 'B',
+    'Q3': 'A',
     'Q4': 'C',
 }
 
