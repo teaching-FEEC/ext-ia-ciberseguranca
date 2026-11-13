@@ -137,6 +137,45 @@ Pretendemos criar um Forms com algumas perguntas para saber se o projeto foi pro
 |  |  |  |
 |  |  |  |
 
+## Primeira Aplicação — Registro e Análise
+
+### Contexto da Aplicação
+
+- **Data ou período:** `23/10/2026.`
+- **Local/contexto:** `SESI de Cajamar.`
+- **Público atendido:** `Ensino Médio (2° e 3° anos do ensino médio)`
+- **Número aproximado de participantes:** `Aproximadamente 80 participantes.`
+- **Duração efetiva:** `2h10m`
+
+### O que Aconteceu e o que Aprendemos
+
+
+`A experiência ocorreu similar ao roteiro planejado, com algumas mudanças devido a questão de tempo apresentada na escola, tendo que efetuar em geral uma apresentação menor, garantindo um maior tempo para a dinâmica a ser realizada. A questão do tempo foi importante pois estava bem limitado, havendo a necessidade de divisão do grupo para atender a todos e também a inclusão de um recreio durante o período da apresentação que resultou em um pequeno contratempo, devido às necessidades apresentadas pela escola.`
+
+### Evidências e Feedback
+
+`Para a obtenção dos feedbacks dos alunos foi disponibilizado um formulário para os alunos responderem após o término da atividade.
+(https://docs.google.com/forms/d/1HHTFCWlt8LJ_0RReB8EH0XrILE7WzRGQGrsBViEdiEE/edit#responses)  
+Esse formulário continha algumas perguntas para serem respondidas pelos alunos que serviam para entender o que eles acharam do conteúdo apresentado e o que eles conseguiram extrair do que foi apresentado e testado na dinâmica. Infelizmente, não foi obtido uma totalidade de respostas, mas 41 respostas que abordaram principalmente a dinâmica e a interação como algo positivo, os conteúdos apresentados e a abordagem e comunicação entre os apresentadores e os alunos também de maneira positiva. Como a coleta de dados dependia dos alunos responderem o formulário, ele acabou sendo limitado nas respostas pois dependia deles responderem e não foi algo obrigatório para ser respondido, apesar disso conseguimos aproximadamente metade dos alunos a responderem.
+`
+
+## Plano de Aprimoramento para a Segunda Aplicação
+
+
+| Evidência ou dificuldade observada | Ajuste proposto | Resultado esperado |
+| --- | --- | --- |
+| `Tempo de duração da atividade` | `Aumentar o tempo da atividade ` | `Mais tempo para a dinâmica e para a apresentação, permitindo maior quantidade de dúvidas` |
+| `Cronograma e horários a serem cumpridos pela escola, como o recreio` | `Não iremos realizar a atividade em uma escola` | `Como definimos o tempo da apresentação, não haverá essa questão` |
+
+### Preparação da Segunda Aplicação
+
+> Atualize **nas seções já existentes do README** o roteiro, os materiais, os testes, os responsáveis, a articulação com o público e os indicadores de avaliação que tenham mudado. Aqui, registre somente as pendências ou decisões mais importantes para a próxima aplicação.
+
+- **Situação da segunda aplicação:** `A situação está definida e a aplicação ocorrerá no dia 19/11 às 16h até as 17h 30. Além disso, a divulgação já foi realizada e estamos esperando a inscrição de pessoas para a atividade.`
+- **Pendências prioritárias:** ` No momento não há a necessidade de concluir nem confirmar algo, apenas esperar a adesão do público. Apenas a necessidade de confirmação do público.`
+- **Como verificaremos as melhorias:** `Devido a mudança do formato de apresentação, as melhorias serão notórias, mas além disso haverá a aplicação do formulário de feedback onde será possível notar a variação das respostas apresentadas.`
+
+
 ## Referências
 
 - [1] https://cloud.google.com/discover/what-are-ai-hallucinations?hl=pt-BR
