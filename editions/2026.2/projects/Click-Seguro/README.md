@@ -165,6 +165,10 @@ Notamos uma leve rigidez na forma como algumas perguntas do quiz impresso foram 
 **Pendências prioritárias:** Atualizar o texto dos enunciados no arquivo unificado de quiz e slides, bem como no material gerado para impressão, aplicando a mudança de tom proposta.
 
 **Como verificaremos as melhorias:** Observaremos se a nova formulação das perguntas diminui a hesitação na hora de marcar a alternativa no papel e se a leitura em voz alta pelos facilitadores soa mais convidativa e menos avaliativa.
+
+## Materiais utilizados
+https://drive.google.com/drive/folders/10LmIQGOf4WoJpM6OdmHfg-ccE9G6Gttl
+
 ## Referências
 
 * Fundação Seade - Pesquisa e dados estatísticos sobre o público idoso no Estado de São Paulo.
