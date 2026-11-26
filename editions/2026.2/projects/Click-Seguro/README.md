@@ -105,82 +105,69 @@ O projeto está consolidado e totalmente encaminhado. A visita técnica ao local
 
 A principal contingência do projeto envolve a possível ausência ou instabilidade de conexão à internet no local da aplicação. Para evitar que a oficina seja cancelada ou prejudicada, a equipe manterá uma versão estruturada para uso 100% offline:
 
-* **Materiais Locais:** Toda a apresentação, as simulações de mensagens e os áudios gerados por IA estarão baixados e salvos diretamente no notebook da equipe (em formatos como PDF e arquivos de áudio locais), dispensando o uso de nuvem ou streaming.
-* **Infraestrutura Audiovisual (Projetor/Som):** Conforme mapeado na visita técnica prévia, a sala não possui projetor fixo. Portanto, a equipe levará equipamento próprio e caixa de som externa para garantir a imersão nos áudios clonados e a visibilidade das simulações.
-
-## Plano de Desenvolvimento
-
-| Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
-| --- | --- | --- | --- | --- |
-| Apresentação PPT | Elaboração da apresentação de slides sobre o tema | Verena Branco | 08/10 | Em ajustes finais |
-| Quiz | Criação das perguntas, cenários e configuração visual | Mariana e Pedro | 09/10 | Em ajustes finais |
-| Material em IA | Produzir links, áudios e imagens falsas simulando golpes | Erik e Bruno | 09/10 | Em ajustes finais |
-| Material Impresso | Fascículos de consulta rápida | Equipe completa | 10/10 | Finalizado |
-
-Nota: Os links diretos para os arquivos finais (Apresentação, Quiz e Áudios) não foram incluídos nesta entrega, pois os materiais estão passando por revisão e ajustes finais antes da aplicação do dia 20/10.
-
-### Recursos para a Aplicação
-
-- Projetor.
-- Notebook.
-- Extensões.
-- Cabos de carregamento de celular e adaptadores.
-- Cabo HDMI.
-- Wi-Fi ou Acesso a dados móveis (roteador 4G/5G da equipe).
-- Cópias impressas do quiz
-
-### O que falta ser concluído antes da aplicação
-
-Como o contato com a coordenação e a visita técnica ao espaço já foram realizados com sucesso, restam apenas alinhamentos internos da equipe:
-- **Teste de Hardware Integrado:** Testar a qualidade e o volume dos áudios de simulação pareando o notebook à caixa de som externa da equipe, garantindo que todo o grupo consiga escutar perfeitamente em um ambiente amplo.
-- **Ensaio de Contingência:** Rodar a apresentação, as imagens e os áudios diretamente do armazenamento local do notebook em um ensaio geral da equipe, simulando a condução da dinâmica.
-- **Finalização do Quiz:** Concluir as perguntas e formatação visual.
-- **Finalização dos Slides:** Últimos ajustes visuais na apresentação.
-- **Impressão do Quiz:** Imprimir versão final do quiz.
-
-
-## Avaliação
-
-### Indicadores de Sucesso
-
-| Objetivo | Indicador / Evidência |
-| --- | --- |
-| Entender os diferentes tipos de golpe que são aplicados | Acerto igual ou superior a 70% nas questões do quiz relacionadas à identificação de cenários comuns. |
-| Ter ciência de como a IA está sendo utilizada para criar materiais falsos | Durante a audição da simulação, os participantes demonstrarem desconfiança ativa ou relatarem verbalmente a suspeita de que a voz pode ser clonada. |
-| Saber aplicar medidas preventivas e de verificação diante de mensagens suspeitas | Os idosos conseguirem formular e relatar as atitudes seguras adequadas durante os estudos de caso. |
-
-### Coleta de Evidências e Feedback
-
-Através do quiz teremos uma análise quantitativa do entendimento do grupo sobre o tema. Além disso, faremos uma coleta qualitativa de evidências através da observação das reações durante os cenários práticos e no momento final, que será aberto para dúvidas e feedbacks diretos dos idosos e coordenadores do espaço.
-
-## Riscos e Desafios
-
-| Risco / Desafio | Possível impacto | Estratégia |
-| --- | --- | --- |
-| Problemas com o projetor | Impossibilidade de exibir a apresentação visual, as imagens dos golpes e os exemplos de links. | Levar um monitor extra se viável, agrupar os participantes em volta do notebook da equipe, ou guiar a dinâmica inteiramente baseada nos áudios e nas folhas impressas. |
-| Dificuldades de leitura ou visão | Participantes podem não conseguir ler as opções do quiz ou a apresentação. | A equipe atuará proativamente auxiliando na leitura em voz alta e no preenchimento das folhas impressas em cada grupo. |
-
-## Viabilidade e Planejamento Inicial
-
-### Contexto de Realização
-
-A atividade será realizada no espaço do Complexo Educacional e Cultural Argos com a Turma de Literatura, aproveitando a dinâmica de organização em pequenos grupos de discussão já natural a eles.
-
-### Recursos Necessários
-
-Projetor multimídia, notebook com a apresentação e áudios salvos localmente, caixa de som externa, cópias impressas do quiz, canetas para os participantes e os fascículos impressos de consulta (CERT.br).
-
-### Desenvolvimento Prévio
-
-Elaboração de apresentações em slides, diagramação do quiz impresso e elaboração de roteiros com cenários e áudios/mensagens para as dinâmicas práticas.
-
-### Desafios
-
-Manter uma comunicação clara e livre de jargões técnicos complexos e garantir que a dinâmica impressa seja acessível a todos, prestando assistência aos que tiverem dificuldades de visão ou leitura.
-
-## Resultados Esperados
+* **Materiais Locais:** Toda a apresentação, as simulações de mensagens e os áudios gerados por IA estarão baixados e salvos diretamente no notebook da equipe (em formatos como PDF e arquivos de áudio locais), dispensando o uso de nu
 
 Espera-se aumentar a conscientização dos participantes quanto aos riscos do ambiente digital e desenvolver maior autonomia para a identificação autônoma de situações suspeitas. Pretende-se que o público adote comportamentos preventivos antes de fornecer informações pessoais, clicar em links ou realizar transações. A assimilação dos conteúdos será observada pela evolução do desempenho e acerto de respostas nas atividades e simulações práticas.
+# Primeira Aplicação — Registro e Análise
+
+## Contexto da Aplicação
+
+**Data ou período:** 20/10/2026.
+
+**Local/contexto:** Complexo Educacional e Cultural Argos, em Jundiaí, durante o horário da Turma de Literatura.
+
+**Público atendido:** Pessoas com 60 anos ou mais.
+
+**Número aproximado de participantes:** Cerca de 10 participantes.
+
+**Duração efetiva:** 60 minutos.
+
+---
+
+## O que Aconteceu e o que Aprendemos
+
+A primeira aplicação foi muito bem-sucedida em termos de engajamento e clareza. A divisão da equipe na condução dos slides e no apoio individual durante o quiz funcionou perfeitamente para manter o ritmo e garantir que nenhum participante ficasse desamparado.
+
+### O que funcionou bem:
+
+- A linguagem direta e sem termos técnicos manteve a turma atenta.
+- A separação de cada simulação em dois momentos distintos, apresentando primeiro a situação do golpe e só depois revelando a regra de ação, evitou respostas precipitadas e gerou ótimas discussões em grupo.
+- A reprodução do áudio simulado por inteligência artificial foi o ponto alto da oficina. Muitos ficaram genuinamente surpresos com o nível de realismo da clonagem de voz, o que validou a importância e a urgência do tema.
+
+### O que não funcionou tão bem e o que surpreendeu o grupo:
+
+Notamos uma leve rigidez na forma como algumas perguntas do quiz impresso foram interpretadas. O enunciado original trazia uma formulação muito impositiva sobre o que a pessoa deveria fazer. Em situações reais de golpe, especialmente aquelas que envolvem familiares em perigo, os idosos relataram ter várias reações emocionais simultâneas. Essa cobrança de uma única resposta correta gerou a sensação de um comportamento robótico e provocou certa dualidade na hora de assinalar a alternativa.
+
+---
+
+## Evidências e Feedback
+
+**Quiz (Métrica Quantitativa):** A taxa de acertos foi muito satisfatória, atingindo ou superando 90% na maioria das questões, o que demonstra que o conteúdo teórico inicial e as dinâmicas dos cenários foram bem absorvidos.
+
+**Feedback (Métrica Qualitativa):** Durante a roda de conversa final, os participantes relataram sentir-se muito mais alertas. Contudo, mencionaram que no calor da emoção é difícil ter certeza absoluta de uma conduta rígida, sugerindo que preferem orientações voltadas para identificar o melhor caminho a seguir a fim de manter a calma.
+
+**Produções e Materiais:** A entrega dos fascículos impressos da Cartilha CERT.br no final foi muito elogiada, servindo como material de consulta tangível que eles levaram para casa para compartilhar com a família.
+
+---
+
+## Plano de Aprimoramento para a Segunda Aplicação
+
+| Evidência ou dificuldade observada | Ajuste proposto | Resultado esperado |
+| :--- | :--- | :--- |
+| Os participantes relataram que os enunciados diretos do quiz soavam rígidos demais e não refletiam a multiplicidade de reações instintivas diante de uma tentativa de golpe. | Substituir a frase nos enunciados do quiz por questionamentos focados na melhor decisão a tomar ou na atitude mais segura. | Tornar o quiz mais acolhedor e menos impositivo. Refletir que a segurança digital trata de escolher o melhor caminho e não de seguir uma regra cega, reduzindo a ansiedade e facilitando a escolha da resposta correta. |
+
+---
+
+## Preparação da Segunda Aplicação
+
+**Situação da segunda aplicação:** A segunda aplicação será realizada no dia 10/11/2026, das 14h às 15h30, na Comunidade Nossa Senhora de Fátima, em Várzea Paulista (SP). O contato com a instituição já foi estabelecido por meio do avô de um amigo de um dos integrantes do grupo, que participa de atividades coletivas com outros idosos. A expectativa é alcançar aproximadamente 25 participantes nessa segunda aplicação. Os materiais estruturais utilizados na primeira aplicação demonstraram ser altamente eficazes e já estão preparados para reutilização, sem a necessidade de alterações significativas.
+
+**Pendências prioritárias:** Atualizar o texto dos enunciados no arquivo unificado de quiz e slides, bem como no material gerado para impressão, aplicando a mudança de tom proposta.
+
+**Como verificaremos as melhorias:** Observaremos se a nova formulação das perguntas diminui a hesitação na hora de marcar a alternativa no papel e se a leitura em voz alta pelos facilitadores soa mais convidativa e menos avaliativa.
+
+## Materiais utilizados
+https://drive.google.com/drive/folders/10LmIQGOf4WoJpM6OdmHfg-ccE9G6Gttl
 
 ## Referências
 
