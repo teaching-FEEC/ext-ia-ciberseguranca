@@ -55,7 +55,7 @@ Este guia detalha a condução da versão final da oficina de 90 minutos para o 
 
 ### Etapa 5: Dinâmica 2, Golpe Corporativo por Capturas Sequenciais (25 min)
 
-- **Objetivo:** analisar pausadamente a construção da falsa autoridade bancária usando as cinco telas na pasta [dinamica-banco-aurora](dinamica-banco-aurora/).
+- **Objetivo:** analisar pausadamente a construção da falsa autoridade bancária usando as cinco telas na pasta [dinamica-banco-aurora](dinamica-banco-aurora/) (ao montar slides conforme [estrutura-slides.md](estrutura-slides.md), recomenda-se recortar o teclado virtual da parte inferior das capturas para destacar apenas o diálogo).
 - **Condução passo a passo (avanço manual):**
   - **Tela 1 ([Abordagem inicial](dinamica-banco-aurora/01-abordagem-compra-suspeita.jpg)):** o suposto Banco Aurora informa uma compra recusada de R$ 2.840,00. Perguntar: *Por que o golpista começa falando de uma compra alta que você não fez?* (Para gerar susto e alívio imediato ao dizer que vai ajudar a bloquear).
   - **Tela 2 ([Confirmação do titular](dinamica-banco-aurora/02-confirmacao-titular.jpg)):** após o "não" da vítima, o atendente pede o nome completo para "iniciar o bloqueio preventivo". Perguntar: *Se é o próprio banco entrando em contato, faz sentido ele não saber com quem fala?*
