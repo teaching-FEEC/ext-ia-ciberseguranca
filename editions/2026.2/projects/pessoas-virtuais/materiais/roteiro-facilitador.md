@@ -55,13 +55,13 @@ Este guia detalha a condução da versão final da oficina de 90 minutos para o 
 
 ### Etapa 5: Dinâmica 2, Golpe Corporativo por Capturas Sequenciais (25 min)
 
-- **Objetivo:** analisar pausadamente a construção da falsa autoridade bancária usando as cinco telas em [`dinamica-banco-aurora/`](dinamica-banco-aurora/).
+- **Objetivo:** analisar pausadamente a construção da falsa autoridade bancária usando as cinco telas na pasta [dinamica-banco-aurora](dinamica-banco-aurora/).
 - **Condução passo a passo (avanço manual):**
-  - **Tela 1 ([`01-abordagem-compra-suspeita.jpg`](dinamica-banco-aurora/01-abordagem-compra-suspeita.jpg)):** o suposto Banco Aurora informa uma compra recusada de R$ 2.840,00. Perguntar: *Por que o golpista começa falando de uma compra alta que você não fez?* (Para gerar susto e alívio imediato ao dizer que vai ajudar a bloquear).
-  - **Tela 2 ([`02-confirmacao-titular.jpg`](dinamica-banco-aurora/02-confirmacao-titular.jpg)):** após o "não" da vítima, o atendente pede o nome completo para "iniciar o bloqueio preventivo". Perguntar: *Se é o próprio banco entrando em contato, faz sentido ele não saber com quem fala?*
-  - **Tela 3 ([`03-bloqueio-preventivo.jpg`](dinamica-banco-aurora/03-bloqueio-preventivo.jpg)):** o golpista usa linguagem técnica formal ("Localizamos o atendimento") para reforçar credibilidade.
-  - **Tela 4 ([`04-preparacao-cartao.jpg`](dinamica-banco-aurora/04-preparacao-cartao.jpg)):** o atendente diz "Vamos realizar o procedimento por aqui" e pede para pegar o cartão físico. Perguntar: *Até aqui ele pediu senha? Como ele constrói o compromisso aos poucos?*
-  - **Tela 5 ([`05-solicitacao-dados-cartao.jpg`](dinamica-banco-aurora/05-solicitacao-dados-cartao.jpg)):** o golpe se revela no pedido do número completo, validade e código de segurança (CVV). Perguntar: *O que fazer exatamente neste momento?*
+  - **Tela 1 ([Abordagem inicial](dinamica-banco-aurora/01-abordagem-compra-suspeita.jpg)):** o suposto Banco Aurora informa uma compra recusada de R$ 2.840,00. Perguntar: *Por que o golpista começa falando de uma compra alta que você não fez?* (Para gerar susto e alívio imediato ao dizer que vai ajudar a bloquear).
+  - **Tela 2 ([Confirmação do titular](dinamica-banco-aurora/02-confirmacao-titular.jpg)):** após o "não" da vítima, o atendente pede o nome completo para "iniciar o bloqueio preventivo". Perguntar: *Se é o próprio banco entrando em contato, faz sentido ele não saber com quem fala?*
+  - **Tela 3 ([Bloqueio preventivo](dinamica-banco-aurora/03-bloqueio-preventivo.jpg)):** o golpista usa linguagem técnica formal ("Localizamos o atendimento") para reforçar credibilidade.
+  - **Tela 4 ([Preparação do cartão](dinamica-banco-aurora/04-preparacao-cartao.jpg)):** o atendente diz "Vamos realizar o procedimento por aqui" e pede para pegar o cartão físico. Perguntar: *Até aqui ele pediu senha? Como ele constrói o compromisso aos poucos?*
+  - **Tela 5 ([Solicitação dos dados](dinamica-banco-aurora/05-solicitacao-dados-cartao.jpg)):** o golpe se revela no pedido do número completo, validade e código de segurança (CVV). Perguntar: *O que fazer exatamente neste momento?*
 - **Respostas e síntese esperadas:** bancos legítimos não pedem código de segurança, senha ou fotos do cartão por WhatsApp, nem exigem validação urgente fora do aplicativo oficial. A ação correta é encerrar a conversa, não digitar dados e procurar o canal oficial (número no verso do cartão ou agência).
 
 ### Etapa 6: Boas Práticas, Biometria Facial e Dúvidas Pendentes (10 min)

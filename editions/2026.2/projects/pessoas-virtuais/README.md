@@ -74,13 +74,13 @@ A tabela abaixo reúne os materiais disponíveis na pasta do projeto e em fontes
 
 | Material | Finalidade e modo de uso | Arquivo ou link | Preparação e dependências |
 | --- | --- | --- | --- |
-| Roteiro completo do facilitador | Orienta preparação da sala, regras éticas, falas principais, perguntas de mediação em cada tela e controle dos 90 minutos | [`materiais/roteiro-facilitador.md`](materiais/roteiro-facilitador.md) | Ler em equipe antes do ensaio e definir um responsável pelo controle do relógio |
-| Capturas sequenciais da dinâmica corporativa (Banco Aurora) | Cinco telas em ordem cronológica para conduzir pausadamente a simulação de falso atendimento bancário na Etapa 5 | [`materiais/dinamica-banco-aurora/`](materiais/dinamica-banco-aurora/) | Inserir em slides ou abrir localmente em ordem numérica (`01` a `05`), sem depender de Internet |
-| Protocolo e estrutura do instrumento de avaliação | Documenta os itens pré e pós-oficina (`Q1` a `Q8`), escalas, gabaritos dos cenários e cálculo das métricas | [`materiais/instrumento-avaliacao.md`](materiais/instrumento-avaliacao.md) | Diagramar versão impressa em fonte grande (mínimo 14 pt) e codificar folhas como `P1..Pn` |
-| Planilha modelo de consolidação e dados anonimizados | Demonstra a tabulação pareada e as fórmulas automáticas de média, desvio-padrão e evolução entre pré e pós-oficina | [`evidencias/metricas-segunda-oficina.xlsx`](evidencias/metricas-segunda-oficina.xlsx) e [`evidencias/metricas-segunda-oficina.csv`](evidencias/metricas-segunda-oficina.csv) | Duplicar a planilha limpando as colunas `P1..Pn` para registrar uma nova turma |
-| Arte de divulgação da oficina | Modelo visual de convite voltado ao público 60+ para divulgação em grupos comunitários, paróquias e programas universitários | [`materiais/cartaz-divulgacao-segunda-oficina.jpg`](materiais/cartaz-divulgacao-segunda-oficina.jpg) | Adaptar data, local e link de inscrição conforme a oferta (contato individual omitido na versão pública) |
+| Roteiro completo do facilitador | Orienta preparação da sala, regras éticas, falas principais, perguntas de mediação em cada tela e controle dos 90 minutos | [Roteiro do facilitador](materiais/roteiro-facilitador.md) | Ler em equipe antes do ensaio e definir um responsável pelo controle do relógio |
+| Capturas sequenciais da dinâmica corporativa (Banco Aurora) | Cinco telas em ordem cronológica para conduzir pausadamente a simulação de falso atendimento bancário na Etapa 5 | [Capturas do Banco Aurora](materiais/dinamica-banco-aurora/) | Inserir em slides ou abrir localmente em ordem numérica (`01` a `05`), sem depender de Internet |
+| Protocolo e estrutura do instrumento de avaliação | Documenta os itens pré e pós-oficina (`Q1` a `Q8`), escalas, gabaritos dos cenários e cálculo das métricas | [Protocolo de avaliação](materiais/instrumento-avaliacao.md) | Diagramar versão impressa em fonte grande (mínimo 14 pt) e codificar folhas de `P1` a `Pn` |
+| Planilha modelo de consolidação e dados anonimizados | Demonstra a tabulação pareada e as fórmulas automáticas de média, desvio-padrão e evolução entre pré e pós-oficina | [Planilha consolidada (.xlsx)](evidencias/metricas-segunda-oficina.xlsx) e [Dados brutos (.csv)](evidencias/metricas-segunda-oficina.csv) | Duplicar a planilha limpando as colunas de `P1` a `Pn` para registrar uma nova turma |
+| Arte de divulgação da oficina | Modelo visual de convite voltado ao público 60+ para divulgação em grupos comunitários, paróquias e programas universitários | [Cartaz de divulgação](materiais/cartaz-divulgacao-segunda-oficina.jpg) | Adaptar data, local e link de inscrição conforme a oferta (contato individual omitido na versão pública) |
 | Fascículos educativos impressos do CERT.br | Material de apoio entregue no encerramento (*Golpes: Não se Deixe Enganar* e *Golpes: Caiu? Veja o que Fazer*) para consulta em casa e conversa com familiares | [Fascículos e Cartilha CERT.br](https://cartilha.cert.br/fasciculos/) | Baixar gratuitamente os PDFs no site do CERT.br ou solicitar exemplares impressos com antecedência |
-| Apresentação em slides e demonstração de deepfake | Apoio visual das etapas expositivas e demonstração prática de falsificação de imagem e voz na Etapa 4 | Registro visual nas evidências ([dinâmica bancária](evidencias/segunda-oficina-dinamica-banco.jpg), [demonstração de deepfake](evidencias/segunda-oficina-deepfake-demonstracao.jpg) e [vídeo resumo no Google Drive](https://drive.google.com/file/d/1dfRIyruGuDMVsfsDrk-zI-Y1a7dlsvIa/view?usp=sharing)) | O arquivo bruto do deepfake usa imagem e voz de um integrante e não foi publicado isoladamente para evitar reutilização indevida de dados biométricos. Outra equipe deve gravar demonstração própria com consentimento expresso de um voluntário da equipe e manter cópia em vídeo offline |
+| Apresentação em slides e demonstração de deepfake | Apoio visual das etapas expositivas e demonstração prática de falsificação de imagem e voz na Etapa 4 | Registro nas evidências ([dinâmica bancária](evidencias/segunda-oficina-dinamica-banco.jpg), [demonstração de deepfake](evidencias/segunda-oficina-deepfake-demonstracao.jpg) e [vídeo resumo no Google Drive](https://drive.google.com/file/d/1dfRIyruGuDMVsfsDrk-zI-Y1a7dlsvIa/view?usp=sharing)) | O arquivo bruto do deepfake usa imagem e voz de um integrante e não foi publicado isoladamente para evitar reutilização indevida de dados biométricos. Outra equipe deve gravar demonstração própria com consentimento expresso de um voluntário da equipe e manter cópia em vídeo offline |
 
 ### Recursos de Infraestrutura e Alternativas sem Internet
 
@@ -104,7 +104,9 @@ A avaliação da atividade combina **instrumento estruturado pareado** (aplicado
 ### Critérios de Interpretação
 
 - **Separação entre percepção subjetiva e desempenho prático:** os itens `Q1` a `Q3` medem percepção subjetiva de confiança e clareza em escala de 1 a 5, ao passo que `Q4` a `Q6` verificam a decisão diante de situações concretas e `Q7` e `Q8` medem a utilidade percebida das dinâmicas. Satisfação ou ganho de confiança não são tratados isoladamente como prova automática de aprendizagem.
-- **Ganho normalizado sobre médias subjetivas:** nos itens de escala Likert (`Q1` a `Q3`), calcula-se complementarmente o ganho normalizado de Hake (`g`) adaptado ao teto de 5 pontos como medida descritiva da fração do avanço possível obtida pelos respondentes.
+- **Ganho normalizado sobre médias subjetivas:** nos itens de escala Likert (`Q1` a `Q3`), calcula-se complementarmente o ganho normalizado de [Hake (2002)](https://ecologyandsociety.org/vol5/iss2/art28/) adaptado ao teto de 5 pontos (`g`), como medida descritiva da fração do avanço máximo possível obtida pelos respondentes.
+
+Conforme essa definição, o cálculo por item é expresso por:
 
 $$
 g = \frac{\bar{x}_{\text{depois}} - \bar{x}_{\text{antes}}}{5 - \bar{x}_{\text{antes}}}
@@ -120,7 +122,7 @@ $$
 | Falha de Internet ou de execução ao vivo do deepfake | Interrupção da demonstração central de IA | Manter vídeo pré-gravado da demonstração e todas as telas da simulação bancária armazenados localmente |
 | Desconforto emocional ao relembrar golpes sofridos | Constrangimento ou retração de participantes | Anunciar previamente o caráter fictício das dinâmicas, não expor ninguém individualmente e manter acolhimento respeitoso |
 | Barreiras de visão, audição ou uso de celular no formulário | Baixa adesão à avaliação ou preenchimento incompleto | Priorizar formulário impresso em fonte legível, entregar canetas e aplicar a avaliação pós-oficina antes da dispersão final |
-| Exposição de dados pessoais ou imagens não autorizadas | Violação de privacidade dos participantes ou da equipe | Anonimizar respostas (`P1..Pn`), não divulgar contatos pessoais no repositório e publicar fotografias somente com autorização |
+| Exposição de dados pessoais ou imagens não autorizadas | Violação de privacidade dos participantes ou da equipe | Anonimizar respostas (`P1` a `Pn`), não divulgar contatos pessoais no repositório e publicar fotografias somente com autorização |
 
 ## Primeira Aplicação: Registro e Análise
 
@@ -140,7 +142,7 @@ Houve participação constante por meio de relatos e perguntas, o que aproximou 
 
 ### Evidências e Feedback da Primeira Aplicação
 
-![Registro da primeira oficina, com apresentação de boas práticas projetada e participantes acompanhando a atividade](evidencias/primeira-oficina-apresentacao-miniatura.png)
+[![Registro da primeira oficina, com apresentação de boas práticas projetada e participantes acompanhando a atividade](evidencias/primeira-oficina-apresentacao-miniatura.png)](evidencias/primeira-oficina-apresentacao.png)
 
 [Ver foto em resolução original](evidencias/primeira-oficina-apresentacao.png)
 
@@ -148,11 +150,7 @@ O registro fotográfico acima documenta a condução da etapa de boas práticas 
 
 ![Comparação das pontuações médias antes e depois da primeira oficina nos três itens subjetivos do formulário, em escala de 1 a 5](evidencias/comparacao-antes-depois-primeira-oficina.png)
 
-O gráfico da primeira aplicação apresenta as médias de autoavaliação antes (azul) e depois (vermelho) nos três itens subjetivos em escala de 1 a 5 (`1: Confiança geral`, `2: Identificar IA no olho` e `3: Saber confirmar`), todos com elevação visual das médias após o encontro e avanços mais acentuados nos itens 1 e 3 do que no item 2. Conforme a formulação de [Hake (2002)](https://ecologyandsociety.org/vol5/iss2/art28/) adaptada ao máximo de 5 pontos:
-
-$$
-g = \frac{\bar{x}_{\text{depois}} - \bar{x}_{\text{antes}}}{5 - \bar{x}_{\text{antes}}}
-$$
+O gráfico da primeira aplicação apresenta as médias de autoavaliação antes (azul) e depois (vermelho) nos três itens subjetivos em escala de 1 a 5 (`1: Confiança geral`, `2: Identificar IA no olho` e `3: Saber confirmar`), todos com elevação visual das médias após o encontro e avanços mais acentuados nos itens 1 e 3 do que no item 2, conforme o critério de ganho normalizado definido na seção de Avaliação.
 
 Na primeira aplicação, apenas a imagem consolidada do gráfico foi preservada pela equipe, sem arquivamento separado da planilha bruta individual daquela data. Por rigor metodológico, não foram estimados retrospectivamente os valores numéricos exatos nem o denominador de respostas válidas da primeira turma a partir da leitura visual das barras, falha documental que foi integralmente corrigida na segunda aplicação.
 
@@ -166,7 +164,7 @@ Na primeira aplicação, apenas a imagem consolidada do gráfico foi preservada 
 
 ### Relato da Segunda Aplicação e Ajustes Realizados
 
-Para a segunda oferta, a divulgação foi reforçada com antecedência por meio de cartaz próprio voltado ao público 60+ ([`materiais/cartaz-divulgacao-segunda-oficina.jpg`](materiais/cartaz-divulgacao-segunda-oficina.jpg)), compartilhado em comunidades ativas, paróquias e redes de participantes da primeira turma. O comparecimento mais que triplicou em relação à primeira aplicação, alcançando 13 idosos presentes e reserva regularizada sem intercorrências na sala FE12.
+Para a segunda oferta, a divulgação foi reforçada com antecedência por meio de [cartaz próprio voltado ao público 60+](materiais/cartaz-divulgacao-segunda-oficina.jpg), compartilhado em comunidades ativas, paróquias e redes de participantes da primeira turma. O comparecimento mais que triplicou em relação à primeira aplicação, alcançando 13 idosos presentes e reserva regularizada sem intercorrências na sala FE12.
 
 Na condução pedagógica, todos os integrantes da equipe atuaram presencialmente no acolhimento, operação técnica, mediação e aplicação dos instrumentos. Os principais ajustes planejados na E4 foram efetivamente executados:
 
@@ -174,13 +172,10 @@ Na condução pedagógica, todos os integrantes da equipe atuaram presencialment
 - **Demonstração de deepfake e discussão sobre redes sociais e biometria:** a demonstração de falsificação por IA foi exibida no projetor e articulada aos casos cotidianos levantados no início da oficina, reforçando a orientação de não realizar biometria facial por links externos e de confirmar pedidos urgentes por outro canal.
 - **Aplicação estruturada dos formulários impressos e entrega de fascículos:** os questionários inicial e final foram preenchidos em papel nas mesas com apoio da equipe antes da dispersão, obtendo 12 respostas pareadas válidas entre os 13 presentes (`12 de 13`, correspondendo a 92,3% de adesão, pois uma pessoa não preencheu o formulário). No encerramento, os participantes receberam exemplares impressos dos fascículos *Golpes: Não se Deixe Enganar* e *Golpes: Caiu? Veja o que Fazer*, do CERT.br. Não foi mantida planilha formal de contagem das sobras de fascículos, registrando-se a entrega efetiva em sala pelas evidências fotográficas autorizadas abaixo.
 
-| Dinâmica corporativa em capturas sequenciais | Demonstração projetada de deepfake |
+| Dinâmicas conduzidas em sala | Encerramento e materiais entregues |
 | :---: | :---: |
-| ![Participantes acompanhando e levantando a mão durante a análise das capturas do Banco Aurora](evidencias/segunda-oficina-dinamica-banco-miniatura.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-dinamica-banco.jpg) | ![Exibição da demonstração de deepfake no projetor para a turma da segunda oficina](evidencias/segunda-oficina-deepfake-demonstracao-miniatura.jpg)<br>[Ver imagem em alta resolução](evidencias/segunda-oficina-deepfake-demonstracao.jpg) |
-
-| Entrega dos fascículos educativos do CERT.br | Turma da segunda aplicação e equipe completa |
-| :---: | :---: |
-| ![Participantes exibindo os fascículos do CERT.br recebidos ao final da segunda oficina](evidencias/segunda-oficina-entrega-fasciculos-miniatura.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-entrega-fasciculos.jpg) | ![Foto oficial reunindo os cinco integrantes da equipe e participantes da segunda aplicação](evidencias/segunda-oficina-turma-equipe-miniatura.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-turma-equipe.jpg) |
+| **Capturas sequenciais (Banco Aurora)**<br>[![Participantes acompanhando e levantando a mão durante a análise das capturas do Banco Aurora](evidencias/segunda-oficina-dinamica-banco-miniatura.jpg)](evidencias/segunda-oficina-dinamica-banco.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-dinamica-banco.jpg) | **Entrega dos fascículos do CERT.br**<br>[![Participantes exibindo os fascículos do CERT.br recebidos ao final da segunda oficina](evidencias/segunda-oficina-entrega-fasciculos-miniatura.jpg)](evidencias/segunda-oficina-entrega-fasciculos.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-entrega-fasciculos.jpg) |
+| **Demonstração projetada de deepfake**<br>[![Exibição da demonstração de deepfake no projetor para a turma da segunda oficina](evidencias/segunda-oficina-deepfake-demonstracao-miniatura.jpg)](evidencias/segunda-oficina-deepfake-demonstracao.jpg)<br>[Ver imagem em alta resolução](evidencias/segunda-oficina-deepfake-demonstracao.jpg) | **Turma da segunda aplicação e equipe**<br>[![Foto oficial reunindo os cinco integrantes da equipe e participantes da segunda aplicação](evidencias/segunda-oficina-turma-equipe-miniatura.jpg)](evidencias/segunda-oficina-turma-equipe.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-turma-equipe.jpg) |
 
 - **Vídeo compilado da segunda aplicação (58s):** [Assistir ao registro audiovisual no Google Drive](https://drive.google.com/file/d/1dfRIyruGuDMVsfsDrk-zI-Y1a7dlsvIa/view?usp=sharing) (reúne trechos da contextualização, da simulação do Banco Aurora, do preenchimento dos formulários impressos, da entrega dos fascículos e da demonstração de deepfake em sala).
 
@@ -189,7 +184,7 @@ Na condução pedagógica, todos os integrantes da equipe atuaram presencialment
 Os números de presença foram informados pela equipe a partir da contagem em sala na segunda aplicação, enquanto o número de respondentes decorre das folhas codificadas (`P1` a `P12`) consolidadas na planilha. Não foram coletados dados demográficos individuais sensíveis nos formulários, mantendo-se a caracterização agregada do público atendido.
 
 | Informação | Primeira aplicação (17/10/2026) | Segunda aplicação (21/11/2026) |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Inscritos ou confirmados previamente | 10 previstos pela equipe | Inscrição prévia divulgada, total bruto de inscritos não arquivado no repositório |
 | Participantes presentes em sala | 4 | 13 |
 | Respostas válidas pareadas na avaliação (pré e pós) | Gráfico agregado disponível, total individual não arquivado | 12 de 13 presentes (92,3%) |
@@ -200,7 +195,7 @@ Participaram 13 pessoas da segunda oficina, das quais 12 responderam aos questio
 
 ### Evidências e Resultados da Avaliação
 
-Os dados completos anonimizados (`P1` a `P12`) estão disponíveis para consulta direta em [`evidencias/metricas-segunda-oficina.csv`](evidencias/metricas-segunda-oficina.csv) e na planilha [`evidencias/metricas-segunda-oficina.xlsx`](evidencias/metricas-segunda-oficina.xlsx).
+Os dados completos anonimizados (`P1` a `P12`) estão disponíveis para consulta direta em [formato CSV](evidencias/metricas-segunda-oficina.csv) e na [planilha consolidada XLSX](evidencias/metricas-segunda-oficina.xlsx).
 
 ![Comparação das pontuações médias antes e depois da segunda oficina nos itens Q1, Q2 e Q3 para os 12 respondentes](evidencias/comparacao-antes-depois-segunda-oficina.png)
 
@@ -208,7 +203,7 @@ A síntese dos resultados observados frente aos objetivos do projeto é apresent
 
 | Objetivo ou aspecto avaliado | Instrumento ou evidência | Resultado observado na segunda aplicação (`12` respondentes de `13` presentes) | Limitação da evidência |
 | --- | --- | --- | --- |
-| Confiança geral diante de tentativas de golpe (`Q1`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Média subiu de **2,67** (`DP = 0,65`) para **3,92** (`DP = 0,51`), com avanço em 10 dos 12 respondentes e manutenção nos outros 2 (`P6` em 3 e `P1` de 3 para 4) | Mede percepção subjetiva imediata dos 12 respondentes, sem acompanhamento longitudinal após a oficina |
+| Confiança geral diante de tentativas de golpe (`Q1`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Média subiu de **2,67** (`DP = 0,65`) para **3,92** (`DP = 0,51`), com avanço em 11 dos 12 respondentes e manutenção em apenas 1 (`P6` em 3), chegando a 10 notas entre `4` e `5` no pós-oficina | Mede percepção subjetiva imediata dos 12 respondentes, sem acompanhamento longitudinal após a oficina |
 | Percepção sobre identificar IA apenas "no olho" (`Q2`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Média passou de **2,08** (`DP = 0,90`) para **2,75** (`DP = 0,62`). Onze respondentes convergiram para notas moderadas (`2` ou `3`) e `P10` reduziu sua nota de `4` para `1` após ver o deepfake | Item ambíguo se lido isoladamente, pois notas moderadas ou baixas refletem cautela realista diante do realismo da IA |
 | Clareza sobre como confirmar pedidos por outro canal (`Q3`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Maior evolução do instrumento: média subiu de **2,58** (`DP = 0,90`) para **4,00** (`DP = 0,43`), com 11 dos 12 respondentes atingindo nota `4` ou `5` no pós-oficina | Permanece uma medida autodeclarada de saber agir |
 | Decisão segura em cenários práticos (`Q4`, `Q5` e `Q6`) | Três questões de múltipla escolha (opções 1 a 3, gabarito = 3) antes e depois | `Q4` (WhatsApp) subiu de **11/12** (`91,7%`) para **12/12** (`100%`). `Q5` (falso banco) e `Q6` (boleto/link) mantiveram **12/12** (`100%`) nos dois momentos. Escore prático médio passou de **2,92/3** para **3,00/3** | Forte efeito teto já no pré-teste, indicando que as alternativas incorretas eram facilmente descartáveis pelo grupo |
@@ -217,7 +212,7 @@ A síntese dos resultados observados frente aos objetivos do projeto é apresent
 #### Comparação Quantitativa Antes e Depois (Segunda Aplicação)
 
 | Indicador | Antes da oficina (`n = 12`) | Depois da oficina (`n = 12`) | Diferença absoluta | Ganho normalizado de Hake (`g`) | Respostas pareadas |
-| --- | ---: | ---: | ---: | ---: | ---: |
+| --- | :---: | :---: | :---: | --- | :---: |
 | `Q1.` Confiança geral (escala 1 a 5) | 2,67 (`DP = 0,65`) | 3,92 (`DP = 0,51`) | +1,25 | 0,54 (53,6% do avanço possível) | 12 |
 | `Q2.` Identificar IA "no olho" (escala 1 a 5) | 2,08 (`DP = 0,90`) | 2,75 (`DP = 0,62`) | +0,67 | 0,23 (22,9% do avanço possível) | 12 |
 | `Q3.` Saber confirmar (escala 1 a 5) | 2,58 (`DP = 0,90`) | 4,00 (`DP = 0,43`) | +1,42 | 0,59 (58,6% do avanço possível) | 12 |

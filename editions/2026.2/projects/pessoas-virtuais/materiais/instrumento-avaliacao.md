@@ -32,7 +32,7 @@ Aplicado antes e depois da oficina. Cada item apresenta uma situação curta com
 | `Q5` | Contato de falsa central bancária relatando compra suspeita e pedindo dados | Encerrar a conversa sem informar dados do cartão e consultar o app oficial ou número no verso do cartão | Na segunda oficina houve 100% de acerto já no pré-teste, sugerindo criar alternativas mais sutis em edições futuras |
 | `Q6` | Recebimento de link ou boleto com cobrança ou vantagem inesperada | Não clicar no link nem pagar sem conferir a origem diretamente no emissor oficial | Também apresentou efeito teto (100% no pré e pós-teste) |
 
-> **Nota sobre reutilização:** a planilha consolidada da segunda aplicação documenta integralmente as dimensões, escalas, gabaritos e respostas codificadas de `Q1` a `Q8` ([`../evidencias/metricas-segunda-oficina.csv`](../evidencias/metricas-segunda-oficina.csv)). Como o arquivo editável original da diagramação impressa não foi arquivado separadamente no repositório, novas equipes devem redigir os enunciados mantendo exatamente estas dimensões e ampliar o grau de sutileza das opções incorretas em `Q4` a `Q6` para reduzir o efeito teto.
+**Nota sobre reutilização:** a planilha consolidada da segunda aplicação documenta integralmente as dimensões, escalas, gabaritos e respostas codificadas de `Q1` a `Q8` ([dados anonimizados em CSV](../evidencias/metricas-segunda-oficina.csv)). Como o arquivo editável original da diagramação impressa não foi arquivado separadamente no repositório, novas equipes devem redigir os enunciados mantendo exatamente estas dimensões e ampliar o grau de sutileza das opções incorretas em `Q4` a `Q6` para reduzir o efeito teto.
 
 ### Bloco C: Avaliação das Dinâmicas (Escala Likert de 1 a 5, exclusivo do Pós-Oficina)
 
