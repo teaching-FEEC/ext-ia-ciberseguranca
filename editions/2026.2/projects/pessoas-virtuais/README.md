@@ -14,7 +14,7 @@
 
 O projeto consiste em uma oficina presencial de educação digital voltada a pessoas idosas (60+) sobre prevenção a golpes virtuais de identidade falsificada e engenharia social, articulando Inteligência Artificial e Cibersegurança. A atividade aborda tanto golpes familiares, nos quais o golpista imita um parente próximo com apoio de áudio ou vídeo sintético (deepfake), quanto golpes corporativos, nos quais simula o atendimento de segurança de um banco ou instituição.
 
-A oficina combina contextualização de situações cotidianas, duas simulações controladas e consentidas, discussão moderada com o público, sistematização de boas práticas, avaliação antes e depois do encontro e distribuição de fascículos impressos do CERT.br. Foram realizadas duas aplicações presenciais na sala FE12 da Faculdade de Engenharia Elétrica e de Computação (FEEC) da Unicamp: a primeira em 17 de outubro de 2026, com 4 participantes, e a segunda em 21 de novembro de 2026, com 12 participantes. Um canal opcional de WhatsApp também foi disponibilizado para envio voluntário de avisos e materiais complementares, sem condicionar a participação presencial.
+A oficina combina contextualização de situações cotidianas, duas simulações controladas e consentidas, discussão moderada com o público, sistematização de boas práticas, avaliação antes e depois do encontro e distribuição de fascículos impressos do CERT.br. Foram realizadas duas aplicações presenciais na sala FE12 da Faculdade de Engenharia Elétrica e de Computação (FEEC) da Unicamp: a primeira em 17 de outubro de 2026, com 4 participantes, e a segunda em 21 de novembro de 2026, com 13 participantes. Um canal opcional de WhatsApp também foi disponibilizado para envio voluntário de avisos e materiais complementares, sem condicionar a participação presencial.
 
 ## Problema e Contexto
 
@@ -104,7 +104,11 @@ A avaliação da atividade combina **instrumento estruturado pareado** (aplicado
 ### Critérios de Interpretação
 
 - **Separação entre percepção subjetiva e desempenho prático:** os itens `Q1` a `Q3` medem percepção subjetiva de confiança e clareza em escala de 1 a 5, ao passo que `Q4` a `Q6` verificam a decisão diante de situações concretas e `Q7` e `Q8` medem a utilidade percebida das dinâmicas. Satisfação ou ganho de confiança não são tratados isoladamente como prova automática de aprendizagem.
-- **Ganho normalizado sobre médias subjetivas:** nos itens de escala Likert (`Q1` a `Q3`), calcula-se complementarmente o ganho normalizado de Hake adaptado ao teto 5, $g = (\bar{x}_{\text{depois}} - \bar{x}_{\text{antes}}) / (5 - \bar{x}_{\text{antes}})$, como medida descritiva da fração do avanço possível obtida pela turma.
+- **Ganho normalizado sobre médias subjetivas:** nos itens de escala Likert (`Q1` a `Q3`), calcula-se complementarmente o ganho normalizado de Hake (`g`) adaptado ao teto de 5 pontos como medida descritiva da fração do avanço possível obtida pelos respondentes.
+
+$$
+g = \frac{\bar{x}_{\text{depois}} - \bar{x}_{\text{antes}}}{5 - \bar{x}_{\text{antes}}}
+$$
 
 ## Riscos e Desafios
 
@@ -157,62 +161,62 @@ Na primeira aplicação, apenas a imagem consolidada do gráfico foi preservada 
 - **Data:** 21 de novembro de 2026 (sábado).
 - **Local e contexto:** sala FE12 da FEEC na Unicamp, divulgada para o horário das 10h00 às 11h30.
 - **Público atendido:** pessoas idosas (60+) da comunidade externa e de grupos de convivência mobilizados pela equipe e por participantes da edição anterior.
-- **Número de participantes:** 12 participantes presentes, todos respondentes válidos da avaliação pré e pós-oficina (`N = 12`).
+- **Número de participantes:** 13 participantes presentes, dos quais 12 responderam aos formulários pré e pós-oficina (`n = 12` respondentes válidos, pois uma pessoa não preencheu o formulário).
 - **Duração efetiva:** conduzida dentro da janela matutina planejada de 90 minutos (10h00 às 11h30), sem cronometragem individualizada por etapa registrada em planilha.
 
 ### Relato da Segunda Aplicação e Ajustes Realizados
 
-Para a segunda oferta, a divulgação foi reforçada com antecedência por meio de cartaz próprio voltado ao público 60+ ([`materiais/cartaz-divulgacao-segunda-oficina.jpg`](materiais/cartaz-divulgacao-segunda-oficina.jpg)), compartilhado em comunidades ativas, paróquias e redes de participantes da primeira turma. O comparecimento triplicou em relação à primeira aplicação, alcançando 12 idosos presentes e reserva regularizada sem intercorrências na sala FE12.
+Para a segunda oferta, a divulgação foi reforçada com antecedência por meio de cartaz próprio voltado ao público 60+ ([`materiais/cartaz-divulgacao-segunda-oficina.jpg`](materiais/cartaz-divulgacao-segunda-oficina.jpg)), compartilhado em comunidades ativas, paróquias e redes de participantes da primeira turma. O comparecimento mais que triplicou em relação à primeira aplicação, alcançando 13 idosos presentes e reserva regularizada sem intercorrências na sala FE12.
 
 Na condução pedagógica, todos os integrantes da equipe atuaram presencialmente no acolhimento, operação técnica, mediação e aplicação dos instrumentos. Os principais ajustes planejados na E4 foram efetivamente executados:
 
 - **Substituição do vídeo bancário por capturas sequenciais:** a conversa com o fictício *Banco Aurora* foi projetada passo a passo nos slides, permitindo pausar a cada mensagem para que os participantes levantassem a mão, apontassem a estratégia de falsa autoridade e decidissem como agir antes de revelar a tela seguinte.
 - **Demonstração de deepfake e discussão sobre redes sociais e biometria:** a demonstração de falsificação por IA foi exibida no projetor e articulada aos casos cotidianos levantados no início da oficina, reforçando a orientação de não realizar biometria facial por links externos e de confirmar pedidos urgentes por outro canal.
-- **Aplicação estruturada dos formulários impressos e entrega de fascículos:** os questionários inicial e final foram preenchidos em papel nas mesas com apoio da equipe antes da dispersão, garantindo 100% de respostas pareadas (`12 de 12`). No encerramento, cada participante recebeu exemplares impressos dos fascículos *Golpes: Não se Deixe Enganar* e *Golpes: Caiu? Veja o que Fazer*, do CERT.br. Não foi mantida planilha formal de contagem das sobras de fascículos, registrando-se a entrega efetiva aos 12 presentes pelas evidências fotográficas autorizadas abaixo.
+- **Aplicação estruturada dos formulários impressos e entrega de fascículos:** os questionários inicial e final foram preenchidos em papel nas mesas com apoio da equipe antes da dispersão, obtendo 12 respostas pareadas válidas entre os 13 presentes (`12 de 13`, correspondendo a 92,3% de adesão, pois uma pessoa não preencheu o formulário). No encerramento, os participantes receberam exemplares impressos dos fascículos *Golpes: Não se Deixe Enganar* e *Golpes: Caiu? Veja o que Fazer*, do CERT.br. Não foi mantida planilha formal de contagem das sobras de fascículos, registrando-se a entrega efetiva em sala pelas evidências fotográficas autorizadas abaixo.
 
 | Dinâmica corporativa em capturas sequenciais | Demonstração projetada de deepfake |
 | :---: | :---: |
 | ![Participantes acompanhando e levantando a mão durante a análise das capturas do Banco Aurora](evidencias/segunda-oficina-dinamica-banco-miniatura.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-dinamica-banco.jpg) | ![Exibição da demonstração de deepfake no projetor para a turma da segunda oficina](evidencias/segunda-oficina-deepfake-demonstracao-miniatura.jpg)<br>[Ver imagem em alta resolução](evidencias/segunda-oficina-deepfake-demonstracao.jpg) |
 
-| Entrega dos fascículos educativos do CERT.br | Turma de 12 participantes e equipe completa |
+| Entrega dos fascículos educativos do CERT.br | Turma da segunda aplicação e equipe completa |
 | :---: | :---: |
-| ![Participantes exibindo os fascículos do CERT.br recebidos ao final da segunda oficina](evidencias/segunda-oficina-entrega-fasciculos-miniatura.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-entrega-fasciculos.jpg) | ![Foto oficial reunindo os cinco integrantes da equipe e os doze participantes da segunda aplicação](evidencias/segunda-oficina-turma-equipe-miniatura.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-turma-equipe.jpg) |
+| ![Participantes exibindo os fascículos do CERT.br recebidos ao final da segunda oficina](evidencias/segunda-oficina-entrega-fasciculos-miniatura.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-entrega-fasciculos.jpg) | ![Foto oficial reunindo os cinco integrantes da equipe e participantes da segunda aplicação](evidencias/segunda-oficina-turma-equipe-miniatura.jpg)<br>[Ver foto em alta resolução](evidencias/segunda-oficina-turma-equipe.jpg) |
 
 - **Vídeo compilado da segunda aplicação (58s):** [Assistir ao registro audiovisual no Google Drive](https://drive.google.com/file/d/1dfRIyruGuDMVsfsDrk-zI-Y1a7dlsvIa/view?usp=sharing) (reúne trechos da contextualização, da simulação do Banco Aurora, do preenchimento dos formulários impressos, da entrega dos fascículos e da demonstração de deepfake em sala).
 
 ### Caracterização dos Participantes
 
-Os números de presença foram obtidos por contagem direta em sala e confirmados nos registros fotográficos, enquanto o número de respondentes decorre das folhas codificadas (`P1` a `P12`) consolidadas na planilha da segunda aplicação. Não foram coletados dados demográficos individuais sensíveis nos formulários, mantendo-se a caracterização agregada do público atendido.
+Os números de presença foram informados pela equipe a partir da contagem em sala na segunda aplicação, enquanto o número de respondentes decorre das folhas codificadas (`P1` a `P12`) consolidadas na planilha. Não foram coletados dados demográficos individuais sensíveis nos formulários, mantendo-se a caracterização agregada do público atendido.
 
 | Informação | Primeira aplicação (17/10/2026) | Segunda aplicação (21/11/2026) |
 | --- | ---: | ---: |
 | Inscritos ou confirmados previamente | 10 previstos pela equipe | Inscrição prévia divulgada, total bruto de inscritos não arquivado no repositório |
-| Participantes presentes em sala | 4 | 12 |
-| Respostas válidas pareadas na avaliação (pré e pós) | Gráfico agregado disponível, total individual não arquivado | 12 de 12 presentes (100%) |
+| Participantes presentes em sala | 4 | 13 |
+| Respostas válidas pareadas na avaliação (pré e pós) | Gráfico agregado disponível, total individual não arquivado | 12 de 13 presentes (92,3%) |
 | Perfil etário do público | Pessoas idosas (60+) | Pessoas idosas (60+) |
 | Contexto de mobilização | Convite inicial e contatos próximos da equipe | Divulgação ampliada em grupos 60+, paróquia, comunidades ativas e indicação de ex-participantes |
 
-Na segunda oficina, todos os 12 participantes presentes responderam integralmente aos itens pré e pós-oficina. Dessa forma, as médias e proporções apresentadas a seguir representam a totalidade da turma atendida naquele encontro (`N = 12`), sem perda amostral entre o início e o encerramento.
+Participaram 13 pessoas da segunda oficina, das quais 12 responderam aos questionários inicial e final (uma pessoa não preencheu o formulário). Portanto, as médias, proporções e ganhos apresentados a seguir referem-se aos 12 respondentes válidos (`n = 12`), sem generalizar os resultados quantitativos para quem não respondeu.
 
 ### Evidências e Resultados da Avaliação
 
 Os dados completos anonimizados (`P1` a `P12`) estão disponíveis para consulta direta em [`evidencias/metricas-segunda-oficina.csv`](evidencias/metricas-segunda-oficina.csv) e na planilha [`evidencias/metricas-segunda-oficina.xlsx`](evidencias/metricas-segunda-oficina.xlsx).
 
-![Comparação das pontuações médias antes e depois da segunda oficina nos itens Q1, Q2 e Q3 para os 12 participantes](evidencias/comparacao-antes-depois-segunda-oficina.png)
+![Comparação das pontuações médias antes e depois da segunda oficina nos itens Q1, Q2 e Q3 para os 12 respondentes](evidencias/comparacao-antes-depois-segunda-oficina.png)
 
 A síntese dos resultados observados frente aos objetivos do projeto é apresentada nos dois quadros abaixo.
 
-| Objetivo ou aspecto avaliado | Instrumento ou evidência | Resultado observado na segunda aplicação (`N = 12`) | Limitação da evidência |
+| Objetivo ou aspecto avaliado | Instrumento ou evidência | Resultado observado na segunda aplicação (`12` respondentes de `13` presentes) | Limitação da evidência |
 | --- | --- | --- | --- |
-| Confiança geral diante de tentativas de golpe (`Q1`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Média subiu de **2,67** (`DP = 0,65`) para **3,92** (`DP = 0,51`), com avanço em 10 dos 12 participantes e manutenção nos outros 2 (`P6` em 3 e `P1` de 3 para 4) | Mede percepção subjetiva imediata, sem acompanhamento longitudinal após a oficina |
-| Percepção sobre identificar IA apenas "no olho" (`Q2`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Média passou de **2,08** (`DP = 0,90`) para **2,75** (`DP = 0,62`). Onze participantes convergiram para notas moderadas (`2` ou `3`) e `P10` reduziu sua nota de `4` para `1` após ver o deepfake | Item ambíguo se lido isoladamente, pois notas moderadas ou baixas refletem cautela realista diante do realismo da IA |
+| Confiança geral diante de tentativas de golpe (`Q1`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Média subiu de **2,67** (`DP = 0,65`) para **3,92** (`DP = 0,51`), com avanço em 10 dos 12 respondentes e manutenção nos outros 2 (`P6` em 3 e `P1` de 3 para 4) | Mede percepção subjetiva imediata dos 12 respondentes, sem acompanhamento longitudinal após a oficina |
+| Percepção sobre identificar IA apenas "no olho" (`Q2`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Média passou de **2,08** (`DP = 0,90`) para **2,75** (`DP = 0,62`). Onze respondentes convergiram para notas moderadas (`2` ou `3`) e `P10` reduziu sua nota de `4` para `1` após ver o deepfake | Item ambíguo se lido isoladamente, pois notas moderadas ou baixas refletem cautela realista diante do realismo da IA |
 | Clareza sobre como confirmar pedidos por outro canal (`Q3`) | Escala Likert de 1 a 5 (pré e pós-oficina) | Maior evolução do instrumento: média subiu de **2,58** (`DP = 0,90`) para **4,00** (`DP = 0,43`), com 11 dos 12 respondentes atingindo nota `4` ou `5` no pós-oficina | Permanece uma medida autodeclarada de saber agir |
 | Decisão segura em cenários práticos (`Q4`, `Q5` e `Q6`) | Três questões de múltipla escolha (opções 1 a 3, gabarito = 3) antes e depois | `Q4` (WhatsApp) subiu de **11/12** (`91,7%`) para **12/12** (`100%`). `Q5` (falso banco) e `Q6` (boleto/link) mantiveram **12/12** (`100%`) nos dois momentos. Escore prático médio passou de **2,92/3** para **3,00/3** | Forte efeito teto já no pré-teste, indicando que as alternativas incorretas eram facilmente descartáveis pelo grupo |
-| Utilidade percebida das dinâmicas (`Q7` e `Q8`) e engajamento | Escala Likert de 1 a 5 no pós-oficina e observação em sala | Média de **4,17** (`DP = 0,58`, 11 de 12 notas entre `4` e `5`) para a dinâmica de IA (`Q7`) e **4,25** (`DP = 0,45`, 12 de 12 notas entre `4` e `5`) para a simulação do falso banco (`Q8`) | Avalia recepção e clareza pedagógica percebida, não retenção de longo prazo |
+| Utilidade percebida das dinâmicas (`Q7` e `Q8`) e engajamento | Escala Likert de 1 a 5 no pós-oficina e observação em sala | Média de **4,17** (`DP = 0,58`, 11 de 12 notas entre `4` e `5`) para a dinâmica de IA (`Q7`) e **4,25** (`DP = 0,45`, 12 de 12 notas entre `4` e `5`) para a simulação do falso banco (`Q8`) | Avalia recepção e clareza pedagógica percebida entre os 12 respondentes, não retenção de longo prazo |
 
 #### Comparação Quantitativa Antes e Depois (Segunda Aplicação)
 
-| Indicador | Antes da oficina (`N = 12`) | Depois da oficina (`N = 12`) | Diferença absoluta | Ganho normalizado de Hake ($g$) | Respostas pareadas |
+| Indicador | Antes da oficina (`n = 12`) | Depois da oficina (`n = 12`) | Diferença absoluta | Ganho normalizado de Hake (`g`) | Respostas pareadas |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | `Q1.` Confiança geral (escala 1 a 5) | 2,67 (`DP = 0,65`) | 3,92 (`DP = 0,51`) | +1,25 | 0,54 (53,6% do avanço possível) | 12 |
 | `Q2.` Identificar IA "no olho" (escala 1 a 5) | 2,08 (`DP = 0,90`) | 2,75 (`DP = 0,62`) | +0,67 | 0,23 (22,9% do avanço possível) | 12 |
@@ -222,26 +226,26 @@ A síntese dos resultados observados frente aos objetivos do projeto é apresent
 | `Q6.` Acerto no cenário Boleto ou Link | 12 de 12 (100,0%) | 12 de 12 (100,0%) | 0,0 p.p. | Já no teto inicial | 12 |
 | Escore prático global (0 a 3 pontos) | 2,92 (`DP = 0,29`) | 3,00 (`DP = 0,00`) | +0,08 | Atingiu o teto (1,00) | 12 |
 
-O contraste entre `Q2` (`g = 0,23`, média final `2,75`) e `Q3` (`g = 0,59`, média final `4,00` e menor dispersão `DP = 0,43`) é coerente com o desenho pedagógico da oficina: tanto no gráfico da primeira aplicação quanto nos dados completos da segunda, os participantes saíram menos propensos a acreditar que conseguiriam detectar sozinhos qualquer falsificação de IA apenas pela aparência, mas substancialmente mais seguros quanto ao procedimento prático de parar e confirmar o pedido por outro canal.
+O contraste entre `Q2` (`g = 0,23`, média final `2,75`) e `Q3` (`g = 0,59`, média final `4,00` e menor dispersão `DP = 0,43`) é coerente com o desenho pedagógico da oficina: tanto no gráfico da primeira aplicação quanto nos dados completos da segunda, os respondentes saíram menos propensos a acreditar que conseguiriam detectar sozinhos qualquer falsificação de IA apenas pela aparência, mas substancialmente mais seguros quanto ao procedimento prático de parar e confirmar o pedido por outro canal.
 
 ## Análise Comparativa das Duas Aplicações
 
 | Aspecto analisado | Primeira aplicação (17/10/2026) | Mudança implementada | Segunda aplicação (21/11/2026) | O que é possível concluir |
 | --- | --- | --- | --- | --- |
-| Mobilização e alcance de público | 4 presentes diante de 10 previstos | Cartaz dedicado ao público 60+ e divulgação ativa em paróquia, grupos comunitários e rede dos primeiros participantes | 12 participantes presentes (aumento de 3 vezes) | A ampliação de canais comunitários elevou concretamente o alcance, embora a ausência do total bruto de inscritos impeça calcular a taxa de conversão |
+| Mobilização e alcance de público | 4 presentes diante de 10 previstos | Cartaz dedicado ao público 60+ e divulgação ativa em paróquia, grupos comunitários e rede dos primeiros participantes | 13 participantes presentes (mais que o triplo da primeira turma) | A ampliação de canais comunitários elevou concretamente o alcance, embora a ausência do total bruto de inscritos impeça calcular a taxa de conversão |
 | Reserva e preparação logística | Contratempo inicial com a reserva da sala FE12 | Reconfirmação prévia da sala FE12 e organização antecipada da equipe | Sala utilizada sem intercorrências no horário divulgado (10h00 às 11h30) | Mudança operacional efetiva que eliminou atrasos de abertura |
 | Dinâmica do golpe corporativo | Vídeo contínuo dificultou pausar e controlar o ritmo das intervenções | Substituição por 5 capturas sequenciais do fictício Banco Aurora com avanço manual nos slides | Participação ativa com mãos levantadas em cada etapa e avaliação média de **4,25/5** (`Q8`, maior nota do pós-oficina) | Mudança implementada com alta aceitação pelo público e melhor controle visual do passo a passo |
 | Conteúdo cotidiano e biometria facial | Dúvidas espontâneas sobre Facebook, Instagram e reconhecimento facial alongaram o debate | Inclusão prévia desses temas na contextualização e no slide síntese de boas práticas | Dúvidas contempladas dentro da estrutura planejada da apresentação | Antecipar exemplos cotidianos reduziu desvios longos sem inibir perguntas pertinentes |
-| Registro e rigor da avaliação | Apenas gráfico de médias preservado, sem planilha bruta nem contagem documentada de respondentes | Aplicação impressa pareada (`P1` a `P12`) antes da entrega dos fascículos e tabulação integral em planilha | 12 de 12 respostas válidas arquivadas com dados brutos, desvios-padrão e cenários práticos | Melhoria metodológica comprovada na qualidade e auditabilidade das evidências |
-| Distribuição de materiais educativos | Entrega prevista sem registro visual específico de distribuição | Entrega de dois fascículos do CERT.br ao final com registro fotográfico autorizado | Todos os 12 participantes receberam os exemplares impressos | Cumprimento documentado da entrega ao público, restando formalizar contagem escrita de estoque em edições futuras |
+| Registro e rigor da avaliação | Apenas gráfico de médias preservado, sem planilha bruta nem contagem documentada de respondentes | Aplicação impressa pareada (`P1` a `P12`) antes da entrega dos fascículos e tabulação integral em planilha | 12 respostas válidas entre os 13 presentes (92,3%) arquivadas com dados brutos, desvios-padrão e cenários práticos | Melhoria metodológica comprovada na qualidade e auditabilidade das evidências, com uma única ausência de resposta |
+| Distribuição de materiais educativos | Entrega prevista sem registro visual específico de distribuição | Entrega de dois fascículos do CERT.br ao final com registro fotográfico autorizado | Entrega presencial dos exemplares impressos registrada em fotografia | Cumprimento documentado da entrega ao público, restando formalizar contagem escrita de estoque em edições futuras |
 
 ### Resultados, Limitações e Lições Aprendidas
 
-Considerando os objetivos propostos, há evidências consistentes de que a oficina cumpriu seu papel de sensibilização prática e fortalecimento de estratégias de verificação junto aos 16 idosos atendidos somando as duas edições (4 na primeira e 12 na segunda). A combinação entre a demonstração de deepfake (`4,17/5` em `Q7`) e a análise pausada da conversa bancária (`4,25/5` em `Q8`) mostrou-se adequada ao público 60+: desmistificou o uso de IA em golpes sem exigir vocabulário técnico e deslocou o foco da detecção visual falível (`Q2`) para a confirmação por canal independente (`Q3`, que atingiu média `4,00/5` com baixa dispersão).
+Considerando os objetivos propostos, há evidências consistentes de que a oficina cumpriu seu papel de sensibilização prática e fortalecimento de estratégias de verificação junto aos 17 idosos atendidos somando as duas edições (4 na primeira e 13 na segunda). A combinação entre a demonstração de deepfake (`4,17/5` em `Q7`) e a análise pausada da conversa bancária (`4,25/5` em `Q8`) mostrou-se adequada ao público 60+: desmistificou o uso de IA em golpes sem exigir vocabulário técnico e deslocou o foco da detecção visual falível (`Q2`) para a confirmação por canal independente (`Q3`, que atingiu média `4,00/5` com baixa dispersão).
 
 Ao mesmo tempo, a interpretação rigorosa das evidências aponta quatro limitações principais:
 
-1. **Efeito teto nas questões práticas (`Q4` a `Q6`):** como 11 de 12 participantes já acertaram `Q4` e 12 de 12 já acertaram `Q5` e `Q6` antes da segunda oficina, o teste objetivo teve baixa sensibilidade para medir ganho incremental de decisão correta, capturando apenas a correção do único erro inicial em `Q4`. Isso sugere que participantes que procuram voluntariamente uma oficina na universidade já possuem cautela básica diante de alternativas obviamente suspeitas, exigindo cenários avaliativos mais sutis.
+1. **Efeito teto nas questões práticas (`Q4` a `Q6`):** como 11 de 12 respondentes já acertaram `Q4` e 12 de 12 já acertaram `Q5` e `Q6` antes da segunda oficina, o teste objetivo teve baixa sensibilidade para medir ganho incremental de decisão correta, capturando apenas a correção do único erro inicial em `Q4`. Isso sugere que participantes que procuram voluntariamente uma oficina na universidade já possuem cautela básica diante de alternativas obviamente suspeitas, exigindo cenários avaliativos mais sutis.
 2. **Comparabilidade parcial entre as duas turmas:** a ausência dos dados brutos individuais da primeira aplicação impede comparar estatisticamente os ganhos das duas edições além da semelhança qualitativa do padrão entre `Q1`, `Q2` e `Q3`.
 3. **Registros operacionais não padronizados:** embora a segunda aplicação tenha ocorrido dentro da janela prevista e com entrega documentada de fascículos, não foram arquivadas a contagem exata de inscritos ausentes, a cronometragem minuto a minuto de cada etapa nem o balanço numérico de fascículos restantes.
 4. **Alcance restrito ao pós-imediato:** os dados refletem respostas colhidas ao término do encontro, não permitindo afirmar mudança sustentada de comportamento semanas depois nem mensurar quantos familiares receberam os fascículos em casa.
